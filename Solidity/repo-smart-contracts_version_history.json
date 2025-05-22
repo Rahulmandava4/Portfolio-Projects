@@ -1,0 +1,242 @@
+{
+  "repository": "carl-egge/repo-smart-contracts",
+  "retrieved_at": "2025-04-16T21:22:57.415001Z",
+  "tags": [],
+  "releases": [],
+  "commits": [
+    {
+      "sha": "96ec2cdebb036016c328b0ae5aa57ed7b0906d11",
+      "message": "Update README.md",
+      "author": "Carl Egge",
+      "date": "2023-10-26T12:18:14Z"
+    },
+    {
+      "sha": "ac54b2b6721ac033b3944afa787b1437c7db990d",
+      "message": "Merge pull request #1 from carl-egge/introduce-db-flatcontracts",
+      "author": "Carl Egge",
+      "date": "2023-10-26T11:55:05Z"
+    },
+    {
+      "sha": "80dea98f01566763859a9752b756303f551536f6",
+      "message": "last fixes for deployment",
+      "author": "Carl Egge",
+      "date": "2023-10-11T08:26:55Z"
+    },
+    {
+      "sha": "0958391687b5264ea07152f4d2f04ba8b67c5c6a",
+      "message": "update GUI with /flatcontracts",
+      "author": "Carl Egge",
+      "date": "2023-10-10T14:09:35Z"
+    },
+    {
+      "sha": "579d030dc5ab7d2abcce1385bed2c366b6b76957",
+      "message": "add /flatcontracts endpoints",
+      "author": "Carl Egge",
+      "date": "2023-10-09T11:13:30Z"
+    },
+    {
+      "sha": "66d6d5ae2d2d1c0816ff6d0a757d7880f3d2c44d",
+      "message": "add form for filtering the SC list using api param",
+      "author": "Carl Egge",
+      "date": "2023-03-28T12:22:54Z"
+    },
+    {
+      "sha": "fa3c15afe23be2bd1cec17b8ad24749f3224c064",
+      "message": "draft /about",
+      "author": "Carl Egge",
+      "date": "2023-03-27T12:06:15Z"
+    },
+    {
+      "sha": "d5731c2869b953332ed3b0406e97072b8b670e57",
+      "message": "rebuild Contract Component and add /about",
+      "author": "Carl Egge",
+      "date": "2023-03-27T11:46:50Z"
+    },
+    {
+      "sha": "b471750a688953ad7bac6d8842150734bb81941f",
+      "message": "update contracts table and general ui",
+      "author": "Carl Egge",
+      "date": "2023-03-22T11:21:26Z"
+    },
+    {
+      "sha": "e0febdc83d0bb2548cc52cc0f9581bf8f90d7513",
+      "message": "frontend: remove '/add' and create 404 redirect",
+      "author": "Carl Egge",
+      "date": "2023-03-22T07:15:26Z"
+    },
+    {
+      "sha": "0fc668dcf9c123bb50b684151f0c7ed5402548e2",
+      "message": "create 1000 per minute ratelimit using slowapi pkg",
+      "author": "Carl Egge",
+      "date": "2023-03-21T14:27:15Z"
+    },
+    {
+      "sha": "b1191de17624ea1c2c94d02c321d6e179bb130f2",
+      "message": "add searchALlVersions query parameter",
+      "author": "Carl Egge",
+      "date": "2023-03-20T17:52:47Z"
+    },
+    {
+      "sha": "ddba48a4465dd593d151d18caa868e4b750afa9f",
+      "message": "api provides GET with multiple query parameters",
+      "author": "Carl Egge",
+      "date": "2023-03-01T13:36:52Z"
+    },
+    {
+      "sha": "709e44374b0303aee318e5a87839b3e8fb0af53d",
+      "message": "init version 2",
+      "author": "Carl Egge",
+      "date": "2023-02-20T13:21:11Z"
+    },
+    {
+      "sha": "a17ce1e38200039a783b09df9dc26ccf447f178f",
+      "message": "add jumTo input field",
+      "author": "Carl Egge",
+      "date": "2023-02-20T12:53:15Z"
+    },
+    {
+      "sha": "918e774cc8791716d113405e120f9c89f9bfb3ae",
+      "message": "update readme, liscense and contractsService",
+      "author": "Carl Egge",
+      "date": "2022-07-19T10:00:54Z"
+    },
+    {
+      "sha": "083b022cfa17d9a00a4f05b6b89ef30b680dd4c3",
+      "message": "Create LICENSE",
+      "author": "Carl Egge",
+      "date": "2022-07-19T09:55:22Z"
+    },
+    {
+      "sha": "bb60a0e635a9ce226f013652f6dd77e8faa1d44c",
+      "message": "add query parameter title",
+      "author": "Carl Egge",
+      "date": "2022-07-13T10:56:40Z"
+    },
+    {
+      "sha": "726298cc465cb8b8638bf1e5c32d5698992c0b99",
+      "message": "pagination",
+      "author": "Carl Egge",
+      "date": "2022-07-13T10:20:18Z"
+    },
+    {
+      "sha": "730538700704a32171c26cace8658bb112d74a7b",
+      "message": "update frontend to data model",
+      "author": "Carl Egge",
+      "date": "2022-07-11T11:00:18Z"
+    },
+    {
+      "sha": "644a8b651776f450e4dea95522843399d8b07c61",
+      "message": "add git_sha and source query parameter",
+      "author": "Carl Egge",
+      "date": "2022-07-04T13:10:01Z"
+    },
+    {
+      "sha": "2efef79cf84c851b13664bbca9cc4fc57dcd6cd5",
+      "message": "updated data model with tree versions and source",
+      "author": "Carl Egge",
+      "date": "2022-06-30T12:18:32Z"
+    },
+    {
+      "sha": "28199e3e99060cd31273c1fa059bbd03e50d7722",
+      "message": "create example.env",
+      "author": "Carl Egge",
+      "date": "2022-06-27T14:42:59Z"
+    },
+    {
+      "sha": "91f9f81be9b415cfd95b4fe55f2275a2cb6ba48c",
+      "message": "update readme",
+      "author": "Carl Egge",
+      "date": "2022-06-27T10:47:53Z"
+    },
+    {
+      "sha": "c46ca45149649dcc119bf682c0eb53d9e4a4afab",
+      "message": "remove unused frontend components",
+      "author": "Carl Egge",
+      "date": "2022-06-22T16:14:20Z"
+    },
+    {
+      "sha": "91c51a1804cce4f95dbe344d10aa2046eaabe39f",
+      "message": "add compilerversion to schema",
+      "author": "Carl Egge",
+      "date": "2022-06-22T16:13:27Z"
+    },
+    {
+      "sha": "13e38efd6a943d36ba2d7de1db0193ecf028d0eb",
+      "message": "add crudtable to display smart contracts",
+      "author": "Carl Egge",
+      "date": "2022-06-22T09:52:24Z"
+    },
+    {
+      "sha": "87f92bb08bb6409f30378a98c906ce63a700f886",
+      "message": "add toasts",
+      "author": "Carl Egge",
+      "date": "2022-06-14T14:47:53Z"
+    },
+    {
+      "sha": "a010b494028327413d5c227d3fbbc3b9621bbaaf",
+      "message": "update everything for vue-bootstrap",
+      "author": "Carl Egge",
+      "date": "2022-06-13T20:22:49Z"
+    },
+    {
+      "sha": "be3843c3ea2032f4848c56213000859a0c639437",
+      "message": "instantiate AddContract and ContractDetails Comp.",
+      "author": "Carl Egge",
+      "date": "2022-06-13T13:18:46Z"
+    },
+    {
+      "sha": "aacdf7b60a24c9b27097afa783e09d3c09f74310",
+      "message": "connect frontend to backend, introduce routes and navbar",
+      "author": "Carl Egge",
+      "date": "2022-06-08T17:17:51Z"
+    },
+    {
+      "sha": "5fe56a499c1a9badcb72bb6e21c9aa06d4501ecf",
+      "message": "implement versioning for smart contracts",
+      "author": "Carl Egge",
+      "date": "2022-06-08T13:21:01Z"
+    },
+    {
+      "sha": "4e5fdc065bada1b0152c1b4219057724ab12aa86",
+      "message": "update Readme",
+      "author": "Carl Egge",
+      "date": "2022-06-02T15:42:37Z"
+    },
+    {
+      "sha": "ff11a8c66bf83ce56c55a56fe9d39ced73605102",
+      "message": "fork: functional full stack app with",
+      "author": "Carl Egge",
+      "date": "2022-06-02T15:33:50Z"
+    },
+    {
+      "sha": "f44464f0ab0e8c0f190099590e685c3f7dfff005",
+      "message": "Create README.md",
+      "author": "Web Dev Journey",
+      "date": "2020-05-22T21:55:12Z"
+    },
+    {
+      "sha": "8782986c1a59754c3b0e7c969bb9c58fa4acf177",
+      "message": "Docker Compose With Vue Template",
+      "author": "Gamaliel Barron",
+      "date": "2020-05-22T21:54:08Z"
+    },
+    {
+      "sha": "ee51e217cf0dc899614b26197c7c4a05ba1ad24b",
+      "message": "Docker Compose Backend / Database",
+      "author": "Gamaliel Barron",
+      "date": "2020-05-21T18:00:47Z"
+    },
+    {
+      "sha": "9f5820f322971f4d8a2bd1595dabd7092b3995e7",
+      "message": "first commit",
+      "author": "Gamaliel Barron",
+      "date": "2020-05-19T16:15:58Z"
+    },
+    {
+      "sha": "f6a58b2ad2ab3bb0772fac8e9850dee234dab418",
+      "message": "first commit",
+      "author": "Gamaliel Barron",
+      "date": "2020-05-19T16:13:47Z"
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+sha,message,author,date
+0642db65d656a51d4df21b8d03dd38124ad0e7b3,Update foundryup command to use correct flag (#528),Ahsan Shahab,2025-03-11T18:56:02Z
+b1a15b2149a1c9dd71b5e73fb8911e438a36d4c8,Remove verification_artifacts/ from ignore files,Aloysius Chan,2024-12-24T19:18:16Z
+1452c658abd15846d7194f4ced5c8e6c88b5079c,Update HackerOne program link (#487),Vince Chiang,2024-12-09T16:57:12Z
+a4ba37d0495b1c979ff0dcfdbad2e5e076828208,Automated Bytecode Verification for Tokens Following the Bridged USDC Standard (#474),Alex Kroeger,2024-10-28T21:30:15Z
+574b947dfcfcb5fa05b46d8961ece29e06b14129,"add a GitHub workflow for automated bytecode verification, update bridged USDC standard documentation, update the entity name in copyright headers",Alex Kroeger,2024-10-28T20:54:28Z
+f64f01f93ea4e4b3a88be1de716fc0ada88f798c,chore(deps): gha node 20 upgrade (#463),Aloysius Chan,2024-06-21T00:52:09Z
+f6a88cc58a05b00e730d318a2bdcc27fb83f4569,chore(deps): gha node 20 upgrade,Ze Peng,2024-06-19T15:43:18Z
+806a40c51d8124116d585abbea441d85d014af6b,Update bridged USDC standard (#458),Aloysius Chan,2024-05-21T16:57:44Z
+415a4c79e9360fb6352eb90826349a6baf76f7ef,Update bridged USDC standard,Aloysius Chan,2024-05-20T20:47:27Z
+0fef359a24f1e5d27f5c467776e1560e75a24713,Fix Foundry installation and make miscellaneous changes (#455),Aloysius Chan,2024-05-06T20:02:32Z
+65a726edbf9857b333267b9e9a9da6ab83371118,Fix Foundry installations and make miscellaneous changes,Aloysius Chan,2024-05-03T07:50:07Z
+501555c10db58434ebe2583d204776836bc8b434,Add Celo related files (#453),Aloysius Chan,2024-04-30T22:16:23Z
+740611582052fcb2a698d11c282e20dd2c6cb197,Add Celo related files,Zhenghui Wang,2024-04-22T23:20:35Z
+2af605e87740006c4a71e42f27746b83c1566b5b,Modernize development environment (#442),Erik Tierney,2024-04-01T17:57:24Z
+ca48b2cc83e509bb74dd340990b80ed23565a9cc,Fix pr-scan workflow and flaky tests,Aloysius Chan,2024-03-29T18:18:13Z
+c582e58f691cc0cc7df1c85b6ac07267f8861520,Modernize development environment,Aloysius Chan,2024-03-27T21:14:11Z
+0828084aec860712531e8d79fde478927a34b3f4,Update bridged_USDC_standard.md (#441),Boyan Lin,2024-03-15T21:51:20Z
+74027afccce9ae867b012524ce61f5cabdd6df3f,Update bridged_USDC_standard.md (#440),Boyan Lin,2024-03-14T20:04:25Z
+657375471bff72afa5f625083bbab8003eb5f8c9,chore(ci): implement code scanning (#435),Jake Scaltreto,2024-01-23T20:30:21Z
+87d4413fdd737591f907f5fc5745805b708ad9dc,Link to Bridged USDC Standard doc from README (#429),ams9198,2023-11-27T18:33:42Z
+bd3c07f5cd6c89793dd9f6a4ebfeec5e5d01846d,Rejigger ordering,Adrian Soghoian,2023-11-27T16:40:11Z
+13d87ed8d81e9aeb279a508e1359aa7bb2c5266a,Update README to included Bridged USDC Standard doc,Adrian Soghoian,2023-11-27T16:37:34Z
+dd3ee171ad1048579dbcc1a96952b549a62edc42,Add documentation for Bridged USDC Standard (#428),Erik Tierney,2023-11-21T13:37:23Z
+c87173e7f0a05226d0e0af576084fb9e93eb1c62,Add documentation for Bridged USDC Standard,Adrian Soghoian,2023-11-20T21:34:31Z
+405efc100c016ed1a437063b6274b4e24ea7b8b1,Merge pull request #425 from yvonnezhangc/release_v2_2,Yvonne Zhang,2023-11-09T13:55:45Z
+dd6fb3313f9b52b899ce6ac79a2e05205a1bf34d,Add CHANGELOG.md,Aloysius Chan,2023-10-24T18:49:11Z
+acdd0592582828a31f10e98bcd37880e69d1aa14,Update validateAccountsToBlacklist,Aloysius Chan,2023-10-24T14:31:42Z
+35d66ae39f7038e30f04f87635f8bca6f8e38b04,Add migration option to directly deploy v2.2 token,Yvonne Zhang,2023-10-19T14:38:11Z
+08e3b1629f9b827094a1000a8ca55ab304e6d33f,Update documentations,Aloysius Chan,2023-10-13T23:07:16Z
+a1b5455f1779d8840b6b53cc562f5cc3d0a4875d,Update copyright licenses,Yvonne Zhang,2023-08-17T14:56:33Z
+661a79a0e9ae0460449eac3b84b46e4f361e2c2e,Remove custom-error rule from solhint,Yvonne Zhang,2023-10-17T15:30:41Z
+f2cdf23dad7992773552b48953f8e4a8b6bac5fe,Add deploy script for MockERC1271 wallet,Yvonne Zhang,2023-10-13T19:52:36Z
+e70c672d8fea091d470f331ba17f4aaed02d98a6,Add script to call read-only functions on a contract,Aloysius Chan,2023-10-13T06:48:39Z
+684d1877bf8afe6ad4d402992e586dc66a9aa5ab,Address TODOs,Aloysius Chan,2023-10-13T02:04:57Z
+70800ee1490e9082dbe1854b65b3feff489ac16d,Add script to get blacklisted accounts,Aloysius Chan,2023-09-18T15:51:33Z
+9f640311dd7e7e738e1265f7220b81cd2d4da872,Centralize ganache accounts initialization,Yvonne Zhang,2023-09-06T18:47:25Z
+2c67e264f27a4c510667a648fa86f75238f4683d,Allow symbol renaming in FiatTokenV2_2.initializeV2_2,Yvonne Zhang,2023-08-30T15:41:47Z
+77e230ba1d3ac07d2aa363962668a2644005f5af,Update / add NatSpec documentations,Aloysius Chan,2023-08-18T16:22:49Z
+e5e7a2a0e0ab22c85c0b3306e96b9b87ba1bb393,Remove blacklist modifier,Yvonne Zhang,2023-08-17T20:58:27Z
+0a041dff03d069e0e0a54ddd9f7e3b70a311e5ed,Remove unused imports and fix solhint warnings,Yvonne Zhang,2023-08-17T14:57:07Z
+5119a8540e85bae2e727a78fef5d698742e3b06c,Allow omission of deadline check in permit,Yvonne Zhang,2023-08-10T20:42:01Z
+dd03da991cc5c61515bcfb12e4df54e4c39eea6d,Blacklist updates (part 2),Aloysius Chan,2023-08-16T20:29:14Z
+1ed8f7825a9b4852a0507a6e66adc8a61ee53550,Blacklist updates (part 1),Aloysius Chan,2023-07-28T18:05:45Z
+ad75174a3c397c76e5f2c258b3dd8dc5cd103531,Add unified interface for EOA and contract wallet signatures,Yvonne Zhang,2023-08-08T14:48:28Z
+8332ba5d096c703986e9791d18a11dee02bb78b5,Re-route EIP-2612 and EIP-3009 functions to use SignatureChecker,Yvonne Zhang,2023-08-01T17:45:22Z
+5169071da550f87d20c203beca05eef69ec3fe7e,Add EIP-1271 related utility contracts,Yvonne Zhang,2023-07-27T19:21:44Z
+41e65fbad208df392b333fd0f63d950124acaf81,Refactor upgraders,Aloysius Chan,2023-07-21T23:23:59Z
+99dcc176607edf1090c2c44a04583b7f7ff4dca1,Create V2_2Upgrader.sol,Aloysius Chan,2023-07-13T13:49:08Z
+0c71a91a99946d4da0d9d25fc6a64c1001d9be8a,Cached chain ID and domain separator,Yvonne Zhang,2023-07-19T20:51:59Z
+ed7b1305fb7fe7de8556ace66aff589c2399208a,Setup repo and CI,Aloysius Chan,2023-07-11T04:41:59Z
+0d3cab14ebd133a83fc834dbd48d0468bdf0b391,Merge pull request #327 from walkerq/multi-issuer-upgrade-to-sol-0.6,Erik Tierney,2021-06-03T11:58:39Z
+7d5e39e203651601a44a157bf5fb55497ab595f4,copyright fixes,Walker Mayerchak,2021-06-01T21:12:41Z
+572fd5f034feee44f88ff6f8c7d5fb45e5d55756,delete start-ganache script,Walker Mayerchak,2021-06-01T21:07:33Z
+788ced6ceb1dd2c4aed85edc7ebfa6395e463ae9,leave verification README alone,Walker Mayerchak,2021-06-01T15:01:31Z
+f433c29a51bc1a45ae43e08bfbe5d03233f0f7a2,cr,Walker Mayerchak,2021-06-01T14:32:42Z
+98b673afeadc094766a13125c36017631604e914,delete unnecessary relative path in deploy script,Walker Mayerchak,2021-06-01T13:36:03Z
+89bf348ee67c5a30c3d53af0e7b84bfa62aabf38,delete redundant comment,Walker Mayerchak,2021-05-28T02:14:38Z
+3608fb4241a4774d22765584838d0244fe2849f3,whitespace,Walker Mayerchak,2021-05-28T02:09:54Z
+2920b9ff90f17a59f0c3e4140bb6a44d65a5d124,cleanup,Walker Mayerchak,2021-05-28T01:58:19Z
+092756a5ed2a0893bc4bb35cf070630db25cec50,resolve a few more conflicts,Walker Mayerchak,2021-05-28T01:23:28Z
+2d4bf1ecf8e1390433130a642cf0204de9b79132,cleanup,Walker Mayerchak,2021-05-28T00:59:22Z
+a6b52990e6a3551ce12aaf0e8871f7f3eb8ff2fc,"linting, test cleanup",Walker Mayerchak,2021-05-28T00:16:10Z
+9f492f1b30c23b5976e3be6d507da2c484b06a35,resolve conflicts,Walker Mayerchak,2021-05-27T23:16:03Z
+304382194b3e7222dc093df36421af25182641c4,Merge branch 'master' of github.com:centrehq/centre-tokens into multi-issuer,Walker Mayerchak,2021-05-27T23:04:40Z
+b5aba6ce7b5a867fda355a54a8449818b313bf1a,Merge pull request #320 from CoinbaseStablecoin/add_version,Peter Jihoon Kim,2021-02-18T02:03:46Z
+37039f00534d3e5148269adf98bd2d42ea9fcfd7,Add version method,Peter Jihoon Kim,2021-02-09T23:57:48Z
+db0feab177e81f7aacd33fa68add0331735837ed,Merge pull request #317 from CoinbaseStablecoin/v2.1,Peter Jihoon Kim,2021-01-25T20:42:37Z
+7e49288a6c06c29e28df36ebbb28a10924e045e9,Add additional checks to V2_1Upgrader test,Peter Jihoon Kim,2021-01-15T08:58:49Z
+e0e9a925aa3a8fe9af558c73aa427eab322a80ff,Update Ganache,Peter Jihoon Kim,2021-01-15T08:56:59Z
+cd51835549c4462dbbce7fdaf75e3aa24a1e43be,Implement V2_1Upgrader and migration scripts,Peter Jihoon Kim,2020-12-20T02:48:47Z
+a1749959a06df0719ca26ff7792e2160f957963b,Add an intialization function for v2.1,Peter Jihoon Kim,2020-12-17T21:58:01Z
+a009b09f788a6a9fb5d4381ecb764164b48ae621,Conform to EIP-3009,Peter Jihoon Kim,2020-12-16T01:29:54Z
+681329fb174f9121a5fee732c5b20133c831fdbc,Remove functions not present in EIP-3009,Peter Jihoon Kim,2020-12-15T23:08:45Z
+5013157edecbaf5da7fb9e3afa85992965077c88,Merge pull request #311 from centrehq/v2,Peter Jihoon Kim,2020-07-30T21:00:02Z
+ee1809d6a4fe9fbcd2176726883dccc6f00a5846,Merge pull request #310 from CoinbaseStablecoin/v2_upgrade,Peter Jihoon Kim,2020-07-28T18:10:39Z
+851741671f874f6691ed46ac1ff15c87118674e0,Embed utility contracts instead of linking,Peter Jihoon Kim,2020-07-24T18:50:24Z
+7dd6a186b6e0ea5262714f5b90325cbbd179f374,Fix coverage test,Peter Jihoon Kim,2020-07-24T01:29:42Z
+aaf848509287ff14938974fa872312634d5d2253,Split up v2 deployment migration to multiple smaller migrations,Peter Jihoon Kim,2020-07-22T19:20:24Z
+e63f79115a75e417c5725941307c5958f5c18dcd,Make it possible to override FiatTokenProxy address in migrations,Peter Jihoon Kim,2020-07-22T19:08:55Z
+6ba149de047bb4bbecece1983b215879f2dd3c2d,Simplify upgrade procedure by making upgrade() not to take in any args,Peter Jihoon Kim,2020-07-22T18:41:13Z
+9bc5101def356f3fc3c111a484b4848f0ffcaf3f,Read addresses of various roles from config.js,Peter Jihoon Kim,2020-07-21T23:10:23Z
+a4a423de2968a085c42233fbfef762c285c1f440,Update Truffle config to read the mnemonic and INFURA key from a file,Peter Jihoon Kim,2020-07-21T21:48:58Z
+b42cf04b31639b8b05d53fea9995954d5f3659d9,Upgrade to Solidity 0.6.12,Peter Jihoon Kim,2020-07-21T20:48:41Z
+9a61c14bb040e3c21df1a18862d851e7ec427f10,Move address verification from EIP712 to GasAbstraction and Permit,Peter Jihoon Kim,2020-07-21T19:19:45Z
+3f4912e51bc8d6e8d196b34b16c9240012d4ee52,Update packages and reformat code,Peter Jihoon Kim,2020-07-21T19:13:57Z
+6639db986c0e5bc14039215fb44053f7947ed08b,Implement upgrader contract for V2,Peter Jihoon Kim,2020-07-21T18:39:13Z
+ff9f3cd0beb98c78b588393694069a29aa54655c,Remove generated TypeScript definition files,Peter Jihoon Kim,2020-07-22T21:26:49Z
+dffc3e31a4d941f1a38ac0d81c350696482c8244,Fix tests in #302 that were affected by changes in #305,Peter Jihoon Kim,2020-07-17T19:15:09Z
+6e1c4cdcf4de84256b3fd94dce3ea30a9fbecee8,Merge pull request #307 from CoinbaseStablecoin/v2-oz-N02,Peter Jihoon Kim,2020-07-17T17:10:31Z
+1b2b7070462fd8b4f37490519821052dd121ba19,Merge branch 'v2' into v2-oz-N02,Peter Jihoon Kim,2020-07-17T17:10:12Z
+a8444ad8ac179c9bb9d5f263b711f9c270fc99b9,Merge pull request #306 from CoinbaseStablecoin/v2-oz-L04,Peter Jihoon Kim,2020-07-17T17:09:23Z
+693d83aaf414f191eefef41bb0847f83f34952d6,Merge pull request #305 from CoinbaseStablecoin/v2-oz-L03,Peter Jihoon Kim,2020-07-17T17:09:11Z
+32909198fefdb71e03b2d06606d19aa8837aaa1c,Merge pull request #304 from CoinbaseStablecoin/v2-oz-L02,Peter Jihoon Kim,2020-07-17T17:08:51Z
+9de45f0e5ff94db059d1bb0b71e3cd8188aeeeb3,Merge pull request #303 from CoinbaseStablecoin/v2-oz-L01,Peter Jihoon Kim,2020-07-17T17:08:39Z
+5dcac53f9006379024a8d81d06ed9888ee79106a,Merge pull request #302 from CoinbaseStablecoin/v2_transfer_multiple,Peter Jihoon Kim,2020-07-17T17:08:24Z
+5e024db781982a6c6aa7a6fce0fce21be25a2db7,Fix pointer math for revert reason bubbling,Peter Jihoon Kim,2020-07-15T19:37:38Z
+ea64acc5587f0ef0c414c3d7607b72ef0c948e01,Handle reasonless reverts in FiatTokenUtil,Peter Jihoon Kim,2020-07-14T18:57:57Z
+6ba9ffa06d67bd4b06937583ac4f32fe2aebde36,Remove the external call to check for paused state in FiatTokenUtil,Peter Jihoon Kim,2020-07-14T18:49:43Z
+6925c91db09479934f602800133cb5a59f019bae,Document the format of the input for transferWithMultipleAuthorizations,Peter Jihoon Kim,2020-07-14T17:58:39Z
+50a7b335167342df4508df2dd5629d59b9f5bf25,Clarify comments,Peter Jihoon Kim,2020-07-09T21:55:00Z
+e27ed34e350b56d2508e22e880f747185690760f,Provide transferWithMultipleAuthorizations in FiatTokenUtil,Peter Jihoon Kim,2020-07-10T03:55:14Z
+5b5003f88594f15f3340758c4d73cac5b766db89,Rename permitter to owner in Permit.sol for consitency,Peter Jihoon Kim,2020-07-09T22:31:40Z
+276570ff337835014cd662eeb876008d359e638b,Mark authorization as used before performing action,Peter Jihoon Kim,2020-07-09T21:59:24Z
+72fc1c47b794c481f24a05c90050daba72d87a7a,Remove unnecessary inheritance,Peter Jihoon Kim,2020-07-09T22:05:10Z
+916e2a24316ddb8293e84c73eac3a32703130735,Use token name in EIP712Domain definition,Peter Jihoon Kim,2020-07-09T18:51:10Z
+102337148d15edac522b007a8b0c7f4d5458bdf3,Merge pull request #301 from CoinbaseStablecoin/gas-abstraction,Erik Tierney,2020-06-10T15:15:57Z
+e361603b164f1b76f147c343070ebeb5d3ab5ce1,Improve test coverage and refactor some tests,Peter Jihoon Kim,2020-06-09T21:19:23Z
+a2aa5114eaa997f4505626fe458a6d29982cad35,Implement Permit for compatibility with the draft EIP2612,Peter Jihoon Kim,2020-05-27T21:19:10Z
+6e5d6a41434f021a1ffabb6a3b572f59b9f4a93a,Implement gas-abstracted safe allowance functions,Peter Jihoon Kim,2020-05-26T19:43:24Z
+285791e8f51c6a69a5af46dc456d7a683c27432e,Add increaseAllowance and decreaseAllowance to FiatTokenV2,Peter Jihoon Kim,2020-05-23T00:23:30Z
+d104904b2ca29ac6516b82d9289b9cc4859d9398,Implement Gas Abstraction,Peter Jihoon Kim,2020-05-22T19:21:25Z
+174bed0afa1fc434aec85554958bb22ce15efa29,Enable Solidity optimizer,Peter Jihoon Kim,2020-05-22T19:07:23Z
+97e59a3e71d2ed014cf89bdbb98b06bb39208529,Add ethereumjs-util package and update packages,Peter Jihoon Kim,2020-05-22T19:05:00Z
+036dff86023f2b6252c586b9cb4a913f09ffaf33,Relax some frequently silenced solhint rules,Peter Jihoon Kim,2020-05-19T23:27:31Z
+c0c901053c7c423b303aff9414079e85a46ba7cc,"Refactor ERC20 approve, transfer, and transferFrom",Peter Jihoon Kim,2020-05-19T19:49:46Z
+0b45a40f9df8e43d6710848b214f5f71e0997dc8,Merge pull request #300 from CoinbaseStablecoin/slither-fixes,Erik Tierney,2020-06-02T19:26:09Z
+4bd572cb501fa59e1f9e20d63c4f0547716ee761,Add a test to ensure changing access modifier doesn't break things,Peter Jihoon Kim,2020-06-02T19:06:58Z
+10a5161be2979f6ceaba5ec62b03d9e51718726f,Fix local variable shadowing where appropriate,Peter Jihoon Kim,2020-05-28T19:33:11Z
+36e952c25583aacd955ac695a0623fe4cb774ff1,Mark public functions that are never invoked internally as external,Peter Jihoon Kim,2020-05-28T19:27:04Z
+b20f1a8084c7607937d1e20faee6f86b849a2cd8,Fix unnecessary boolean equality,Peter Jihoon Kim,2020-05-28T19:21:46Z
+f20f4b2c87eabe553a63f54e810196b0b0e30174,Add Slither configuration,Peter Jihoon Kim,2020-05-28T01:53:59Z
+7289a38e342231e1012754a94efd9763fa188bcf,Merge pull request #299 from CoinbaseStablecoin/rescuable,Erik Tierney,2020-05-27T13:57:13Z
+00258ccf36e25bce6e0f62946d255d00160e3164,Add rescuable to storage slot test,Peter Jihoon Kim,2020-05-26T20:18:25Z
+5f9f51f658a9ae1717cf0b2c1152e6181e3d7e60,Run all V1 tests for V1.1,Peter Jihoon Kim,2020-05-16T01:07:14Z
+3e2d1dcd18cb1b6a5615e71473dc2fb55a4b7073,Implement Rescuable and rescueERC20 function,Peter Jihoon Kim,2020-05-16T01:07:12Z
+8aa0ddf1e172cc8f8d0cb31bed0285338626c6bf,Merge pull request #296 from CoinbaseStablecoin/modernize-codebase,Erik Tierney,2020-05-22T19:48:50Z
+283eca99bec3642b56c01d1f33b73fc5472e1a14,Update notes in forked contracts,Peter Jihoon Kim,2020-05-19T17:40:19Z
+fdafe06ecb4082577426e6f821726fdada954170,Ensure locally installed prettier is used to format Solidity code,Peter Jihoon Kim,2020-05-16T01:07:11Z
+23a0a2d04dc5527ca7d1c77eb705b7463f7a6a93,Add SPDX license identifier,Peter Jihoon Kim,2020-05-16T01:07:09Z
+4c42934a9e30da94fba65eb1da7082c4857450ed,Reorganize test files,Peter Jihoon Kim,2020-05-15T04:00:02Z
+6b53b468272aed62c723fe2f954d586072e71d31,Add pre-commit hook,Peter Jihoon Kim,2020-05-14T20:46:22Z
+abfbe606801768b6e4640eb6e5377a96ec4648d1,Upgrade contracts to solidity v0.6.8,Peter Jihoon Kim,2020-05-14T02:31:48Z
+3f1c4cf3422bac67ac5f60abf00a0476e46f799c,Set up solhint,Peter Jihoon Kim,2020-05-14T02:28:17Z
+58f79be956e8bf017f37f90621b8554af7cc6c10,Add storage slot test to ensure slots are retained,Peter Jihoon Kim,2020-05-14T00:14:06Z
+8592ac2ba1e979394c0d57b6545b526363d272b2,Rename mock upgraded contract,Peter Jihoon Kim,2020-05-13T17:39:52Z
+3bb13638806215873e9a02f61d4f37462c0d9208,Move V1 tests to test/v1 and fix lint errors,Peter Jihoon Kim,2020-05-13T00:16:45Z
+f0480e882a8ad71f8f472b506e629c259acaf8ed,Set up TypeScript,Peter Jihoon Kim,2020-05-13T00:15:48Z
+626553f7b0c2916f51e07b9246208d35e5012493,Cleanup migrations,Peter Jihoon Kim,2020-05-12T23:05:46Z
+977163012aaa9bf6c34ebac7b84e4694582b9395,Fix lint errors and tests,Peter Jihoon Kim,2020-05-12T23:05:45Z
+e7b44a2fa9b3a1016a084305aa19e1a0c11a8031,Setup ESLint,Peter Jihoon Kim,2020-05-12T23:05:44Z
+332ab678a9e92fba7420eb74851e5981c0152de5,Remove unused dependencies,Peter Jihoon Kim,2020-05-12T23:05:42Z
+7172076a8f478cd5fa53a0dceb42606dc5eda0ce,Fix tests that broke due to Truffle upgrade,Peter Jihoon Kim,2020-05-12T23:05:41Z
+9343b154e51d767653450bd986c4b4ea8396d999,Autoformat Markdown files,Peter Jihoon Kim,2020-05-12T23:05:39Z
+ac48f00a9ab1e6bcff12cb930053b91caec28e66,Fix solidty-coverage,Peter Jihoon Kim,2020-05-12T23:05:37Z
+61c39970b5c862487322c02251e868bf47dc75a7,Update Travis config,Peter Jihoon Kim,2020-05-12T23:05:36Z
+20c40535c9b6a28ac7b95c1d65142b21d65ba8bc,Update Dockerfile,Peter Jihoon Kim,2020-05-12T23:05:35Z
+9544b9281f35283cf00c7814b8d6e1b3c06a5427,Update npm packages,Peter Jihoon Kim,2020-05-12T23:05:33Z
+2e804eaeea5aca0fcaf31536ab975bf5c888d303,Autoformat code using Prettier,Peter Jihoon Kim,2020-05-12T23:05:31Z
+835c997ebd1c07b8c125209717c26b45a948bba7,Bump npm from 6.2.0 to 6.13.4 (#292),Oliver Hudson,2020-01-08T14:42:39Z
+c6ab104cc3babf8e392b6ae6e36b03f2ee454cc6,Bump npm from 6.2.0 to 6.13.4,dependabot[bot],2020-01-08T14:21:10Z
+1d2480657df6d25bd422dba8dbce45852e9b00a9,Bump fstream from 1.0.11 to 1.0.12 (#293),Oliver Hudson,2020-01-08T14:20:33Z
+e10eb7d53b5c7238fa16550a258a55cb4e1afd0b,Bump mixin-deep from 1.3.1 to 1.3.2 (#291),Oliver Hudson,2020-01-06T20:05:53Z
+1a35eb82d01e2bc4a7c5c8e8ba42b9472dc23433,Bump fstream from 1.0.11 to 1.0.12,dependabot[bot],2020-01-06T20:05:30Z
+36b635852c9d8184973eb6401e55d2442972cffa,Bump js-yaml from 3.12.0 to 3.13.1 (#290),Oliver Hudson,2020-01-06T20:04:58Z
+4323234c02272fe0d27e104729c47b80a44d48b4,Bump lodash from 4.17.10 to 4.17.13 (#289),Oliver Hudson,2020-01-06T20:04:28Z
+e814ee758040ee5a70d40f3ee5e600ddf908f8e2,Bump mixin-deep from 1.3.1 to 1.3.2,dependabot[bot],2020-01-03T18:26:31Z
+bf07a17d0e674c202d6d655ad76d725bdd766093,Bump js-yaml from 3.12.0 to 3.13.1,dependabot[bot],2020-01-03T18:26:25Z
+2adc0a333e194336b8fb99a854f9ea5d5373e722,Bump lodash from 4.17.10 to 4.17.13,dependabot[bot],2020-01-03T18:26:24Z
+dfc2e000c8052984807d2d0aa2df0d5f9ba5a704,Bump handlebars from 4.0.11 to 4.5.3 (#288),Oliver Hudson,2020-01-03T18:25:49Z
+db866b786021d549d21525ec4170852097f68e7d,Bump handlebars from 4.0.11 to 4.5.3,dependabot[bot],2019-12-30T18:04:28Z
+3ba876b5e96eec6955733e7e008d85f419ec44a5,Merge pull request #286 from dmdque/multi-issuer,Erik Tierney,2019-04-16T20:01:01Z
+c6bc95daba61aad36038ef1996463f0502dcf090,Enable syntax highlighting,Daniel Que,2019-04-15T20:23:25Z
+d81edc8cbdf2f3a8cc06d77e3d183322325e7638,Merge pull request #284 from eztierney/master-minter-deploy,mirathewhite,2019-04-09T23:23:30Z
+d7ad665e679c2e9d4faf5319d7582a7ec24c246c,Fix addresses,Erik Tierney,2019-04-05T17:12:37Z
+405091fe66ab11014f089f5fc313143e67a3fac3,Add migration to deploy master minter,Erik Tierney,2019-04-05T14:25:58Z
+6a8e480724a1d17dca3eacb0f4b8f376c4532a57,Merge pull request #283 from mirathewhite/e2etests,Erik Tierney,2019-03-25T13:42:15Z
+37b18b21fd398a0bcf47fd1a4a5c820276258435,Merge pull request #282 from mirathewhite/eventTests,Erik Tierney,2019-03-25T13:40:18Z
+45dc385203cb8616005faa9a65db8fec624e11d7,added e2e tests,mirathewhite,2019-03-25T01:27:13Z
+6b10dd4d74720c0b72d21f897b444d74fa8d9d80,added event tests,mirathewhite,2019-03-24T23:10:08Z
+af5e89425de19bbe8eb8e8c20fa0d5fa666239be,Merge branch 'multi-issuer' of https://github.com/centrehq/centre-tokens into multi-issuer,mirathewhite,2019-03-22T15:17:27Z
+8f06fc9f2aa053ad52ea2a338b2fc207bfa83b19,[Chore] Fix link in tokendesign.md (#279),mirathewhite,2019-03-19T16:35:25Z
+f7e063f1a1908879f5ab9ddfd5f62e1f997d9f1e,added copy of MasterMiner code from etherscan (#280),mirathewhite,2019-03-19T16:27:48Z
+12e6458ed00f8ff279342e6d5fff90a8a745ef15,added copy of MasterMiner code from etherscan,mirathewhite,2019-03-19T16:00:12Z
+78d964a1a8d481ffd8152772d7a66e47df54b3db,Update tokendesign.md,cgst,2019-02-25T00:45:23Z
+c01e2688122e80063be59ce87a0cacc2d6c5942b,Update tokendesign.md,cgst,2019-02-25T00:06:11Z
+fbb6cfeb503ece6719cd456f82e6ef1602145db3, Document multi-issuer contracts according to NatSpec guidelines (#274),walkerq,2019-01-18T15:44:05Z
+b3a98530a3d40b3bd14b0bdd14563a2141535d02,CENT-639 & CENT-643 - Remove empty Constructor & Adding getters for controllers and minterManager  (#277),mgrissa,2019-01-17T18:37:26Z
+b762bd47908b4ae23a59aa5d9a2a37cdb16bd8b2,Updates dependency installation instructions (#276),Oliver Hudson,2019-01-17T14:20:24Z
+acdf6b54182d4992481d3d39123f7408d3c23011,remove hardcoded boolean values being returned from three functions (#275),walkerq,2019-01-17T14:18:34Z
+1a627134493ba58ec78c2a4e4ed0777f220b38f2,CENT-631 - No way to decrement an allowance without reconfiguring minter (#249),mgrissa,2019-01-17T14:15:00Z
+7ad74d7114d378fc817f9c2889469eb4860a3544,removeController reverts if controllers[C] is 0 (#273),walkerq,2019-01-16T19:47:56Z
+43b5f74f27e78806c1e506793ffb7251af55e6e8,prefix parameters in MintController with underscores for consistency (#270),walkerq,2019-01-16T15:13:18Z
+b2dc2107319c28dde6501769de239a990a7cc35d,"(style) add newline to configureMinter, reorder visibility modifier in removeMinter (#269)",walkerq,2019-01-16T15:11:07Z
+a2b26cdd4ae004bc9d89fb649f61e4796f221244,#252: add null address check (#247),Johnny Liang,2019-01-16T15:06:33Z
+71e07c6afed377674a0ebcb16a56d9219efc5242,Adds integrity check on development environment dependencies (#261),Oliver Hudson,2019-01-14T19:28:22Z
+87d5a78174a93b9bdf44bb69db9934de4f45b211,Merge pull request #271 from walkerq/explicit-address-cast,Erik Tierney,2019-01-14T19:17:17Z
+aa862cd614b0488ca108e59913155b3ee05482e8,Lack of check might lead to gas burn (#248),Johnny Liang,2019-01-14T19:07:31Z
+a9cf321387f8bb16e3effc4dcdc164a970cb0fde, Move MinterManagementInterface to its own file (#251),Johnny Liang,2019-01-14T16:12:12Z
+0c405cd180183ec23123d5fce83b565082b1e1c0,explicit conversion of minterManager to address type,Walker,2019-01-14T16:05:27Z
+4e0047dc2823363b1754ea79e8fdc71da0af6b35,Merge pull request #243 from centrehq/line-spacing,Erik Tierney,2019-01-11T21:26:43Z
+1503358c29490677fcf0be9429e1bb245c47be98,Fixes expectRevert not checking revert string (#250),Oliver Hudson,2019-01-11T19:22:34Z
+04278df55cf7a6029f43493b63a841d159410c84,visibility modifiers come first per style guide,Walker,2019-01-11T18:13:52Z
+cd0ad7a17e129a94e83a1460b965a49a399132fa,modifiers moved to their own line per style guide,Walker,2019-01-11T18:12:10Z
+15227091b797c37d87dfd566dbada830c964a0e9,delete unnecessary leading ./ in import Ownable,Walker,2019-01-11T18:01:08Z
+8b731f8449a93d0ba7fd4d844c932d1191b6b645,remove extra line in comment of configureController,Walker,2019-01-09T06:00:48Z
+b0471f22286611f7d842c680bddec0c964500aa5,remove double space in MintController constructor,Walker,2019-01-09T05:55:28Z
+272d0d28d935544e38e23f4423ce66966a61515b,use double quotes in import statements per style guide,Walker,2019-01-09T05:43:09Z
+d888649fafd62778ec7356b14d0a024798510a77,line spacing according to Solidity style guide,Walker,2019-01-09T05:27:01Z
+f7f81245706ad2e94727ac0b858a144fd4fb5cbe,Added error msgs to require statements in minting/* contracts (#242),mirathewhite,2019-01-10T22:12:24Z
+6a587bf2d9261590051102006331626a19143667,Update license year 2019 (#241),mirathewhite,2019-01-09T20:15:29Z
+972f4a50a3cfaf1ca65331a82662b54d980e79d5,Update license year 2019,Everton Melo,2019-01-01T02:28:57Z
+419c50d366173ddea992f76b694e9ccbafacd46d,Merge pull request #237 from gin/master,Erik Tierney,2018-11-02T18:50:30Z
+a3f7fc3463d831ccc559b9e69ddc0d329e851042,Update indent levels to be consistent,Luigi,2018-10-30T23:26:10Z
+72c5610e95f955a4ff3e0e6388a97f502df0c633,Correct typos in doc/*,Luigi,2018-10-30T23:25:15Z
+8acd8e3c1e4cd4005d7225f55eb321ea4f2ae31c,create parallel travis test environments (#235),mirathewhite,2018-10-25T15:44:00Z
+7b2c573197420a9b621f1dd7b657ba134551cab0,[CENT-355] Write ArgumentTests (#234),mirathewhite,2018-10-24T18:06:17Z
+dc693a09b60c096523d55bec104e54c25880c384,[CENT-361] Modify TokenTestUtils function buildExpectedState/getActualState (#228),mirathewhite,2018-10-24T13:22:54Z
+1e8064cb2dba3337217746f3c72bf975de0fddb0,Merge pull request #229 from mirathewhite/readme,Oliver Hudson,2018-10-22T14:38:01Z
+0ca51ea4d38b124168b94861bd242045522b3541,Added ArgumentTests (#230),mirathewhite,2018-10-22T14:03:30Z
+dab79893ac6a95490b39a53cbc969b9c92ec15dc,fixed typos,mirathewhite,2018-10-22T14:01:37Z
+e9b6a081b3b4e4ba6b37715144e62c8e5b841441,cleaned up Completeness output and colors/checkmarks (#232),mirathewhite,2018-10-22T13:45:34Z
+922b8debdee7a67324a09f2c77f0f1367f956410,Merge master into multi-issuer to pick up CI changes. (#231),Erik Tierney,2018-10-18T17:24:15Z
+0f4aa09ef2427ea69be76e1c635ea9374a432732,README file for MasterMinter,mirathewhite,2018-10-17T16:51:28Z
+ab8d8ce11320915ca4c384e08a1ef4cde15d5f58,Merge pull request #227 from centrehq/travis-ci,Erik Tierney,2018-10-16T18:20:38Z
+d230f0c4625559db874724c5a13cd068fb669428,Initial .travis.yml file,Erik Tierney,2018-10-15T18:39:18Z
+4d45c5a7d6179e0039f1634d2e86b9688de88250,Merge pull request #226 from mirathewhite/testMasterMinter,Oliver Hudson,2018-10-12T01:22:57Z
+40fdc07001d99558e37ad354100710b1eb000f34,beforeEach sends MintController as argument to initialization function,mirathewhite,2018-10-11T15:45:31Z
+4b9ebf3941a48e41e7363fee729035610a71ca66,Fixed bug in MasterMinter.sol constructor and added MasterMinter unit tests,mirathewhite,2018-10-11T13:47:09Z
+fd438956dbc5cebe1329b3dab149cd563711fa93,"add requirement to configureController(c,m) that m is not 0 (#225)",mirathewhite,2018-10-10T16:07:19Z
+836cf2ba160e363543f6bf2f8bc38741c3b2f0b9,Basic tests (#224),mirathewhite,2018-10-09T21:11:14Z
+8cbeefd3a5525e6cb54d95a996e3cdcfcc321583,Merge pull request #223 from mirathewhite/verifyCSV,Erik Tierney,2018-10-04T21:18:21Z
+9f524bfa76a2a524a49a0e5dc2ec231372f1e1d8,Added unit test completeness testing,mirathewhite,2018-10-04T17:44:57Z
+3895e5777daa8cb9e3d40bf5dcbb5a12939bfa48,updated README,mirathewhite,2018-10-04T15:56:56Z
+43aaaf027e317ef0216e9953c65ab4bd78c78acb,"Added pending support, relative paths",mirathewhite,2018-10-04T15:48:25Z
+60101f305498037652e88cee830f5f9b746d9445,basic functionality working with *csv spreadsheets,mirathewhite,2018-10-04T01:04:35Z
+620df426efe2b4baec2990ce570e5b1fdcbb1cd5,Adding parse-csv package,mirathewhite,2018-09-28T20:44:43Z
+59ec401e96a9b747b3c0b37cdf7fd3e2ae3fa190,Adding spreadsheets,mirathewhite,2018-09-28T20:30:33Z
+37445bdb737f25c552f66875d18062ee617e9eac,Merged upstream,mirathewhite,2018-09-28T20:09:21Z
+7059470c37e3ddc75961535f9028a02dc980a45a,[CENT-331]: Unify checkVariables and checkState (#221),mirathewhite,2018-09-28T15:31:27Z
+6334d373743c6a3f87c41718fa65214e3c7d789b,add cloudformation template for codebuild project (#222),Trevor Baker,2018-09-27T13:20:01Z
+fd3ded71196919205d34f624043b36fdd6b796d2,"Using library funciton clone(), removing logObject, and creating checkMINTp0 function for unit tests",mirathewhite,2018-09-26T16:26:46Z
+544dccc1bcc23e954581cbd2ec15c759a12ca5e5,readme cleanup,Erik Tierney,2018-09-25T22:56:38Z
+bad7646e11def764e789d98f8b90ed264b7749f6,Merge pull request #220 from eztierney/master,Erik Tierney,2018-09-25T22:55:45Z
+b0d3da805ff30068e45ccec911fad4caea7e5976,cleanup,Erik Tierney,2018-09-25T22:53:09Z
+ea6cf1528f533f95fe6e2b9331f046b9297963e2,housekeeping,Trevor Baker,2018-09-25T22:15:11Z
+b6eeabf103406984db6ad7ed0b14aa7080023e94,Update readme,Erik Tierney,2018-09-25T20:47:39Z
+1a91d49ec65b877924c69111a72c2c99490b4a01,Merge pull request #219 from walkerq/master,Oliver Hudson,2018-09-24T14:07:31Z
+c59ca3d5daf4178f56fb0b30e7a24034630f2792,remove encoder and decoder tools,Walker,2018-09-21T21:44:13Z
+0eb61a62b770d5ed15e69e7994ff5acc6acfb003,replaced literal objects with actual objects,mirathewhite,2018-09-20T20:13:49Z
+7dc6d8f28fc614344663c94b54d4ffd4dae0f84d,checkVariables takes as input either FiatTokenV1 or MintController,mirathewhite,2018-09-20T20:05:56Z
+9cab5eeaf199abc5d6c7b6f9632b897bf3776d63,add ControllerState object to ControllerTestUtils.js,mirathewhite,2018-09-20T13:52:36Z
+1c8c13b36529c2d01ea4951ba449ea695351f7df,Merge pull request #216 from huaweigu/chore/fix-typo-in-readme,Oliver Hudson,2018-09-19T12:57:29Z
+4e319ff3e802f1aa20926fe38cc5b48e224f12e6,Fix typo in readme,hgu,2018-09-18T18:03:09Z
+77190af028beda5b275362983bf029391f97a73c,Merge pull request #215 from mirathewhite/removeController,Erik Tierney,2018-09-18T16:33:06Z
+4478bb44feb57f4f2a9e896f531eec91265b1fae,fixing failed 'remove controller',mirathewhite,2018-09-18T13:29:34Z
+6b0c1e1e8afb60b208b9d2ee1a91064d1ddb11ed,Merge pull request #214 from mirathewhite/removeController,Erik Tierney,2018-09-17T17:25:02Z
+d00ca6c6208adea7285dcae75489e891385cde94,Add remove controller,mirathewhite,2018-09-17T15:50:03Z
+91675a43f82e39d351ddf04d8b9f1888fc37176c,Merge pull request #213 from mirathewhite/name-change,Erik Tierney,2018-09-14T19:33:46Z
+e33452e141689640dcba9388477516a5b86fdd58,updated new unit tests to use minterManager instead of token,mirathewhite,2018-09-14T18:54:25Z
+3db7a989460574fdc977ac6b21ad8cc8d202c344,changing token to minterManager and MintableTokenInterface to MinterManagerInteface,mirathewhite,2018-09-14T15:39:21Z
+5c13426ad7e80b3f3e600c65df4b71d4b1faa9dc,Merge pull request #212 from mirathewhite/code-coverage,Oliver Hudson,2018-09-14T18:42:25Z
+0f002ec3c2ae6e5ddb14e47a731e22f0295930ed,replacing A. with Accounts. for code clarity,mirathewhite,2018-09-14T15:42:23Z
+161e94ba75d0ed27fb8737c708dc6ba03fff0f3f,Merge pull request #211 from mirathewhite/multi-issuer,mirathewhite,2018-09-14T13:05:30Z
+630a87c3f915e696ea414455a71912bf6766dbfb,Add more unit tests,mirathewhite,2018-09-13T14:53:01Z
+8131df8c057212b77f5af9dbddddaeb29cea5901,replacing use of tokenUtils.tokenOwnerAccount with Accounts.tokenOwnerAccont,mirathewhite,2018-09-13T13:37:18Z
+7514170e0c50217b83145387c93c094f9b8a39a6,All tests use global Accounts object from AccountUtils.,mirathewhite,2018-09-12T20:20:34Z
+a2d9abdbfde499011bdfabd2ab27221752ca365a,Merge pull request #209 from mirathewhite/multi-issuer,Erik Tierney,2018-09-12T17:27:44Z
+207af4b3ef7fcb0d93fb8f2d87db5155c6d944db,"Added comments, events, and modified Controller to use workers instead of minters",mirathewhite,2018-09-12T16:38:03Z
+43add119ea3a949485b5517899fca3dff16d5911,MINT p0 contracts and test framework,Erik Tierney,2018-08-02T13:38:38Z
+fab8640fd3bc4ad8ee111a001a3ee9ee877ccc56,Merge pull request #208 from walkerq/master,Oliver Hudson,2018-08-28T15:10:56Z
+ccb4b8e18385ddf57434681f763a7299b3c6c93a,"provide --abi-path option allowing decoder to be run with just node instead of with truffle and ganache, by passing path to abi json. To get abi from truffle, use --truffle-artifact instead of --contract. Expand decoder help text.",Walker,2018-08-24T21:26:12Z
+52cf6878aa19cc8efae244200050069c468168a9,Merge pull request #207 from o-a-hudson/slack-alert,Oliver Hudson,2018-08-21T17:22:44Z
+a1186eb106f3725739b713719188eb2fea66c78b,Fixes grep exit error; adds more descriptive messages; fixes typo,Oliver Hudson,2018-08-21T16:38:50Z
+8c02d436d98ec8acf28cca5a16b4f5ba1803b2ad,Merge pull request #204 from o-a-hudson/slack-alert,mirathewhite,2018-08-21T14:35:48Z
+a02b53b26712557dd93a353e772b47fd5040b8e1,Merge pull request #206 from walkerq/master,Oliver Hudson,2018-08-20T23:56:03Z
+062af85c455469c98a40a0407341d3650dc98fd7,remove dependency on web3,Walker,2018-08-20T19:58:47Z
+6a5712ae35bd07b1382ba8fe420e4255cec25f6e,Adds notification for failing builds,Oliver Hudson,2018-08-20T21:31:42Z
+bba79e951d143e0749ce323ef703a423af110a8e,Merge pull request #205 from o-a-hudson/slack-alert-aws-permissions,Oliver Hudson,2018-08-17T19:58:15Z
+e112876c835587e2cdd9f62ed491a3936025d54c,Adds permission to push build notifications,Oliver Hudson,2018-08-17T19:39:05Z
+42e2644658143db8b60277ee3f00195e136c3c5c,Merge pull request #203 from walkerq/master,Oliver Hudson,2018-08-16T16:34:34Z
+c810896b594ff1c91258a668a6e1f98d520d6e25,print decoder output to stream only if not saved to file,Walker,2018-08-16T15:33:25Z
+41f9f6cad38a7a9d5ff10c47b5f444fe707d29d1,"use latest maintenance version of web3js, 0.20.6",Walker,2018-08-16T15:31:36Z
+68668fcbba671dc495ef03e7dba1f2550f0efe8c,"allow user of decoder script to specify name of output file, and always parse values of type bytes to hex",Walker,2018-08-15T21:06:46Z
+d4bd5ff49ecdb79141ae006975d7fdf8dc1d89d5,Merge pull request #196 from o-a-hudson/slack-alert,Oliver Hudson,2018-08-15T21:05:40Z
+2261b2cd4f2dfbc1013d3f8123997f6fa99331b6,Adds notification configuration to codebuild pipeline,Oliver Hudson,2018-08-15T20:17:20Z
+1dd9732776057a31c894a2692ed79bd528a6e1fc,Merge pull request #198 from mirathewhite/newFastTest,Oliver Hudson,2018-08-15T17:02:25Z
+546632e2004bf32050284dbe1a732f191d165d30,removed duplicate tests from TestWrapper,mirathewhite,2018-08-14T15:12:27Z
+c00b9c56c9008ba3a6bad5ccf5c6750962c378c5,added contract block to allow truffle-test single file execution,mirathewhite,2018-08-10T20:17:05Z
+0fe23a2c8c0f66725b1a484ad5ece638b3cba047,fixed typo in TestWrapper,mirathewhite,2018-08-15T15:11:55Z
+d2db32a1e0662b576ebb96deafc4823af99a8a2a,each test file executes new and upgraded token,mirathewhite,2018-08-15T14:31:45Z
+e3b8ad2168407d8d78de22d018d02b62d064c690,removed duplicate tests from TestWrapper,mirathewhite,2018-08-14T15:12:27Z
+7267d6e60de8e44415891843b9f31f81a8a252c2,added contract block to allow truffle-test single file execution,mirathewhite,2018-08-10T20:17:05Z
+6f7e5f5d013449f4b1f9ea9c33a2089242adcf2b,Merge pull request #202 from mirathewhite/validate,Oliver Hudson,2018-08-15T15:02:14Z
+fda1979887420ed12c1f632dfbcda6a3587f331b,fixed yarn.lock,mirathewhite,2018-08-14T19:14:20Z
+7109ff9595efa1e67e6f1a8832721c3b9f9b11e8,Merge pull request #201 from walkerq/master,mirathewhite,2018-08-14T19:09:58Z
+38619bc6fb28a32c155cb2687e5c26f999bfba50,reuse decodedDataJson and example data strings in tests,Walker,2018-08-14T18:47:18Z
+1435aaac923bf548789ae91312eadcb8ddaf2a10,add path to yarn.lock,Walker,2018-08-14T18:27:21Z
+0e0685c710fc7cb704f97cfdd2fe7936bdeb5683,Uncommented truffle-hdwallet-provider package declaration and updated README files.,mirathewhite,2018-08-14T18:25:32Z
+3a0dd276be9277a11afe4a12cef86e67097410f9,remove async from decode function,Walker,2018-08-14T18:23:27Z
+a8469f200fcf562086b58b85992c9a0957e0d0f4,write output from data decoder to file,Walker,2018-08-14T18:21:15Z
+2b0b19afd4d2e01b2301e46157227bc39529e13e,Merge pull request #200 from anders94/fix-documentation,mirathewhite,2018-08-14T17:57:31Z
+5643fd1eafd8c5267d3c1a1cd52a7fd542985640,add tx data decoder and use async/await for encoding/decoding tests,Walker,2018-08-14T17:21:16Z
+74d94e9646c6c44a2a56c7d09ac558740dae1f03,Mention pause / unpause events,Anders Brownworth,2018-08-14T17:05:01Z
+31be195da5ebc076bee197c4fc56b3f55a1c22bc,Merge pull request #197 from mirathewhite/maxUintTest,Erik Tierney,2018-08-10T21:02:14Z
+5b10cda799eebc908124c63e47ff6226af578b51,Added unit tests for 0xfffff...ff input,mirathewhite,2018-08-10T19:29:39Z
+cefe2d562f8a15dfea43ca4bdbba4aa5036eae51,Merge pull request #195 from AlecSchaefer/echidna,mirathewhite,2018-08-10T18:43:33Z
+aaf9dec115feb8469116d611d29136b6c1d0cbe7,Fixes typo in config.yaml,Alec Schaefer,2018-08-10T18:17:25Z
+6838dbc14bdb0bb55aab2545aecd6817afa8a78b,fixes README for echidna_tests,Alec Schaefer,2018-08-10T18:15:51Z
+c1004008d8fa5a78930b72d925b53eb72e2873d6,Merge pull request #192 from mirathewhite/validateFix,walkerq,2018-08-10T15:51:08Z
+5c2b64e5807688eedb9c818d21bca41c7620502d,Merge pull request #193 from mirathewhite/master,Erik Tierney,2018-08-10T15:31:21Z
+6607885938a39264286588cfedcbe469cc3e741d,fixed typos and output formatting,mirathewhite,2018-08-10T14:03:05Z
+97016984f5853fd9c0db5c8f90955947cdc1201b,Merge branch 'master' into echidna,Alec Schaefer,2018-08-09T19:15:35Z
+05a0bc356ecd173995c2f93b44d12cc44e9a7315,adds echidna to test suite [CENT-186],Alec Schaefer,2018-08-09T19:06:56Z
+e3e4c8926d4437632adb27857497943e6593b792,add check that FiatTokenV1 is initialized,mirathewhite,2018-08-09T01:54:50Z
+048e73422940c4475543cc2b99a66265c67e2935,Merge pull request #191 from o-a-hudson/verification-update,mirathewhite,2018-08-08T19:01:16Z
+555e58b5d9142f8f36e19d9eff0c567b55660ae8,checkDiff validates Etherscan source code compared to local files.,mirathewhite,2018-08-08T18:28:14Z
+f701f5b89fe8ccba1648cc78339855f75ed62a71,Update verification instructions for added truffle script,Oliver Hudson,2018-08-08T17:45:56Z
+ecf97299827c76421e435bb01b85e524a5c4820c,Merge pull request #189 from o-a-hudson/truffle,mirathewhite,2018-08-08T15:05:54Z
+9dd31cfe2d578940048e17e8eb1f455b9188ed13,Merge pull request #190 from mirathewhite/validateFix,mirathewhite,2018-08-08T15:05:31Z
+0962443f4f67be6c97b6fd26d1a88295902d3672,Replaced FiatToken with FiatTokenV1 in validate.js,mirathewhite,2018-08-08T14:35:46Z
+67c08c7cb9b5d6af82ddeb4d158ef20ff5141075,Merge pull request #187 from o-a-hudson/check-variables-initialized,mirathewhite,2018-08-08T14:16:36Z
+fdf81073dfa70ec28ac24e24582c2f8260cad3b5,Infura based validator (#188),mirathewhite,2018-08-08T12:54:03Z
+6e39eb5ea93676c3c78a6dbba8ceeacba94c552f,Updates lockfile to stabalize ganache-cli,Oliver Hudson,2018-08-07T20:55:24Z
+5cc0d7952b144352855a0d615bf18b29fbb10a06,Enforces use of local ganache (in package.json) for truffle tests; adds new script to start and use automatically; updates README,Oliver Hudson,2018-08-07T20:49:00Z
+65ef81e2fbb54e14ac08eba88528731e45052804,Merge pull request #183 from walkerq/master,Oliver Hudson,2018-08-07T20:05:50Z
+f34ea235c9dcd17d65f8de8ce0c4fea0b931778c,add back solidity coverage to npm test,Walker,2018-08-07T19:48:12Z
+027133eada1b446ba2c4d3589de97603e2cefe12,use local ganache instance in buildTransactionDataTest,Walker,2018-08-07T19:35:59Z
+bf7c1425c0da8a080b5194c7434985b1e2ee29bb,Adds initialized to checkVariables; consolidates check of initialized into single function,Oliver Hudson,2018-08-07T19:32:55Z
+09c208e9ab39557f3ca99bbb0b2fc8f7051d9b72,Merge pull request #184 from o-a-hudson/fix-test-upgrade,Oliver Hudson,2018-08-07T19:14:36Z
+6b65f7b59c7379e7e69f19aeb97aaa3885bea2b3,Merge pull request #185 from AlecSchaefer/event_tests,Oliver Hudson,2018-08-07T17:46:27Z
+9b1746429199e027e36b3d2de5133a9dd935843c,call callback in truffle script,Walker,2018-08-07T17:34:58Z
+f241bb9fa885ea7e4e237cec88d502a4774e7853,Merge pull request #186 from o-a-hudson/docs-upgrade,Erik Tierney,2018-08-07T17:34:04Z
+92034aa8f5d2b5f3d6856222b4702383c10c9eec,"add script for generating data parameter of eth transactions, useful for upgradeToAndCall",Walker,2018-08-07T17:11:42Z
+c31ff14d00f60ca98368f6b398ed57e1da8f6b29,imports FiatToken and FiatTokenProxy via tokenTestUtils rather than via artifacts.require,Alec Schaefer,2018-08-07T17:05:01Z
+194e043698f6e5e4ed2033aebf0dc95bbaa2e43a,Removes references to token-client,Oliver Hudson,2018-08-07T16:52:50Z
+e0651ecf7b07b083fc4f02d157f75cded9be7a0a,Clarifies upgrade documentation,Oliver Hudson,2018-08-07T15:48:00Z
+28bcd056f25e95b063d0cf0ace3334c246e43784,Adding upgrade documentation,Oliver Hudson,2018-08-06T21:50:50Z
+94769b4dd19ea01cc499857165237e62505e27f5,fixes naming error,Alec Schaefer,2018-08-06T21:35:44Z
+b0dc0def9caf924387d6a6c93c3f114d78e405a6,"adds et000, et015, et016, et012",Alec Schaefer,2018-08-06T21:12:21Z
+10077833c797402de9d8fef4abc85fcd68c14ee3,Fixes incorrect test,Oliver Hudson,2018-08-06T19:21:23Z
+1fc5d679b22a7c040b2f0364a7bccb856ab85977,Merge pull request #182 from mirathewhite/testInitialized,Oliver Hudson,2018-08-03T22:29:33Z
+175df8d45f9381a72599bf4896eba2cf6f8c7fe5,Merge pull request #180 from AlecSchaefer/upgraded_keyword,Oliver Hudson,2018-08-03T22:10:37Z
+2580cb9e22a4b0b4dbfc43ac89b9e0ce7ef96b9a,unit tests for initialized storage location,mirathewhite,2018-08-03T17:08:05Z
+19cb665ee89a419063adfa89baa9f568194417f2,Merge pull request #179 from eztierney/pin-versions,mirathewhite,2018-08-03T15:38:40Z
+224fddcdd5ada47dd09214fa402d18c2bcc5a89a,verification tool now runs on upgraded tests rather than skipping,Alec Schaefer,2018-08-03T15:38:25Z
+0545053530a9044bbc65cf20e5cb20653a30aad0,Pin truffle to 4.1.13,Erik Tierney,2018-08-03T15:22:02Z
+2cc70f78537d5643d13a100f86ae7d0641eb7b17,Merge pull request #178 from eztierney/license,Erik Tierney,2018-08-03T15:12:45Z
+94745c9d5628a2037cdccad06fd6180c2ea87810,Add LICENSE file,Erik Tierney,2018-08-03T14:55:19Z
+30b5a8d6102005ef4b4e0861fd188634f50d8f6d,Merge pull request #176 from AlecSchaefer/ignore_PausableTests,Oliver Hudson,2018-08-03T14:30:56Z
+dba9d85f2a94088c7d140fc10ea7c7f5318278fa,modifies verification tool to ignore PausableTests file,Alec Schaefer,2018-08-02T18:32:54Z
+d25328db20b812e8ca0fe6dbf803e09c895f7910,Merge pull request #157 from walkerq/master,Oliver Hudson,2018-08-02T20:55:54Z
+3c0267735d76992a2340c68846d208150141e1c7,"tests events on UpgradedFiatToken, use initV2 for upgradeToAndCall",Walker,2018-08-01T22:52:57Z
+33442cedd48c37e916a90b1472d239de21ba8809,Adds recursive initialize pattern to upgraded test contracts; adds additional proxy upgrading tests  and ups gas limit in ABIcalls,Oliver Hudson,2018-08-01T14:08:57Z
+5d01a040ef0a102826ed2d2630913543c2c93a0e,[CENT-142] Check for unit test completeness (#172),mirathewhite,2018-08-01T18:57:33Z
+a0d2f0f50620337a92148b82166bd78e561e8cbf,add tests for events,Walker,2018-08-01T20:05:59Z
+f7b925a9aff594267fe9cdd7851662963d5a269a,Merge pull request #177 from o-a-hudson/build-fix,Erik Tierney,2018-08-02T19:10:31Z
+d90fd6914d07dbcbe5ec7dee8dcc8eaf6af7568f,Fixes broken build due to calling outdated function,Oliver Hudson,2018-08-02T18:52:38Z
+0bba5e7ce3295abc975e6a1065a452000376b819,Merge pull request #175 from eztierney/yarn,Erik Tierney,2018-08-02T18:38:43Z
+49468adc82e0334004ecb62ecf694adaf1051659,Update yarn.lock with recent package.json changes,Erik Tierney,2018-08-02T18:20:24Z
+5d725db3fee0cdaae1ec099125f422d64253c983,Merge pull request #174 from eztierney/yarn,mirathewhite,2018-08-02T16:55:47Z
+1e3e0b1e0298987ca5ec20813cfa7a1e83dbd2b0,Update lockfile,Erik Tierney,2018-08-02T13:49:52Z
+6f8bd5b0085e7d68d31cb915d97122fbf18e29db,Add --frozen-lockfile to yarn install,Erik Tierney,2018-08-02T13:41:21Z
+2f3c15a0e18e981a3c6a22b83c6800fe4cccbdcb,Merge pull request #173 from AlecSchaefer/unit_test_completeness,mirathewhite,2018-08-01T20:41:57Z
+3e4cec2c59adabf5768bfa2e5e37f29adc4d2984,Switch to yarn for dependency verification,Erik Tierney,2018-08-01T19:35:41Z
+d5ca2ede664386423b34fcd5df30482054a296d0,Merge pull request #169 from o-a-hudson/proxy-testing,Erik Tierney,2018-08-01T19:33:59Z
+5318957a986ba39dfaa5716799774d223a5cdbf6,adds support for UnitTestCompleteness tab,Alec Schaefer,2018-08-01T19:33:15Z
+a696a751ffd17a68a5a71a98c33e187c98b239f7,[CENT-142] Check for unit test completeness (#172),mirathewhite,2018-08-01T18:57:33Z
+584d007a45f728f3b195f8f5af089f17dbd28ce2,Adds recursive initialize pattern to upgraded test contracts; adds additional proxy upgrading tests  and ups gas limit in ABIcalls,Oliver Hudson,2018-08-01T14:08:57Z
+0703df5c267eb21e05eacb49565239a6864b5d70,Merge pull request #171 from AlecSchaefer/fix_verification,mirathewhite,2018-08-01T16:50:36Z
+ed7eb0650307bc330f7ac65dd1568f4191069b12,adds mocha to package.json,Alec Schaefer,2018-08-01T15:41:51Z
+b92008fe433e6122396058ba6a865234abc4d13b,[CENT-51] Unpausable functions (#170),mirathewhite,2018-08-01T15:37:12Z
+7478ffbe8a237b33d6a61569d73b94004287382d,Update ABI Tests and squash tons of commits (#164),mirathewhite,2018-08-01T15:35:52Z
+e50b198e8db9eae1574cfc1c90d51e339a8245ad,Adds upgrader to checkVariables and adds missing ept tests [CENT-144] [CENT-217] (#167),Alec Schaefer,2018-08-01T14:58:30Z
+34d00d166fa1991597d8b28d2dc12a9c37ab2d06,Merge pull request #162 from AlecSchaefer/add_ms008,mirathewhite,2018-08-01T14:18:28Z
+60cf6ff6520a28ba27193592d15af9c369a92f11,Merge branch 'master' into add_ms008,Alec Schaefer,2018-08-01T14:02:23Z
+3b1485f3d5db257feaa3ece47c5434db2456a915,Merge pull request #168 from AlecSchaefer/orange_test,mirathewhite,2018-08-01T13:58:09Z
+655becc48370ed70fb2393b3c0383bcc4003bdcc,fixes upt004 to use new checkVariables upgrader value,Alec Schaefer,2018-08-01T13:23:32Z
+c9839e78fcc744f1ad0780758c962e3f840bd7e9,Merge branch 'master' of github.com:centrehq/centre-tokens into orange_test,Alec Schaefer,2018-07-31T22:08:23Z
+c7c2db718980f43bca7262140c86e40052f47de3,Merge pull request #166 from eztierney/fix-build,Oliver Hudson,2018-07-31T22:02:11Z
+d056bd78ee8fb84ad6230e72136fffeead5d0b48,adds test upt009 [CENT-228],Alec Schaefer,2018-07-31T21:52:43Z
+61966d7cbcd39c5d4778e27f084d5a5a2df2bce2,"adds tests ept001, ept013, ept022, ept025 [CENT-217]",Alec Schaefer,2018-07-31T21:28:17Z
+21dac739fcb9c45e5189095ead065f34ec7f4429,adds upgrader to checkVariables [CENT-144],Alec Schaefer,2018-07-31T21:25:46Z
+15b69581527d022108581ded90e44db9ec62542d,Fix build,Erik Tierney,2018-07-31T20:04:33Z
+e38b96a460be7ada9d658fec8380d5adee453c05,renames ms008 to upt007 and moves it from MiscTeststo ProxyPositiveTests,Alec Schaefer,2018-07-31T18:20:27Z
+bef4affa4f53b9c79450028b36cec5eadd6171d7,Merge pull request #155 from eztierney/deployment,Oliver Hudson,2018-07-31T18:13:17Z
+295d7e00b769e333022e9f3fa0bb185279ea1023,fix typo,Erik Tierney,2018-07-31T17:48:44Z
+b0b006778dc58f039aa8e473813bf3780403e641,Merge branch 'master' of github.com:centrehq/centre-tokens into add_ms008,Alec Schaefer,2018-07-31T14:22:08Z
+46341ba9dd2bccffe5647a56d2e5742efbff554c,Merge pull request #158 from AlecSchaefer/verification_improvements,Oliver Hudson,2018-07-30T20:51:51Z
+55e8df2fc15bdbdf3d9d9fa7d25e060f3e0b9024,Merge pull request #159 from AlecSchaefer/delete_nt044,Oliver Hudson,2018-07-30T20:50:55Z
+3828812a745733472929cc0295e84663feac37da,Merge pull request #160 from AlecSchaefer/rename_tests_to_proxy,Oliver Hudson,2018-07-30T20:50:21Z
+239f7c11933e34e911f1a40c4b2a186836768e62,Merge pull request #161 from AlecSchaefer/move_ms002_ms003_ms004,Oliver Hudson,2018-07-30T20:48:37Z
+78a06582fb20fa6a2048a3e7256f12e8273282a2,adds test ms_008,Alec Schaefer,2018-07-30T20:42:53Z
+5bab7bdb3ceb20ec488c04c3adaf25d4caae22f1,"moves tests ms002, ms003, ms004 to MiscTests [CENT-219]",Alec Schaefer,2018-07-30T18:46:37Z
+80998d03a67a0e9d916e75d80b8aa7b1b7a64af9,renames UpgradePositiveTests and UpgradeNegativeTests to ProxyPositiveTests and ProxyNegativeTests [CENT-218],Alec Schaefer,2018-07-30T18:28:54Z
+a8c61b00a3fb33770b975fac960e20af42f75500,deletes repeat test nt044 [CENT-222],Alec Schaefer,2018-07-30T18:20:13Z
+a2a29e63ef103ce78bb82191ba794d148042a876,"Makes minor improvements to verification tool output, adds legacy as a keyword to skip verification process [CENT-216]",Alec Schaefer,2018-07-30T18:15:10Z
+866bd1f00c4c65d6c40a1dc41719a3d36c2e10d3,Merge pull request #154 from AlecSchaefer/master,mirathewhite,2018-07-27T17:28:14Z
+2efe36bece4c69bfc12da81a40aeed4347c90bd2,Merge pull request #156 from o-a-hudson/proxy-testing,mirathewhite,2018-07-27T16:15:16Z
+03f64fc9185c72a755cba700f1e3de507ca9b1bc,Adds UpgradeNegativeTests,Oliver Hudson,2018-07-26T23:38:10Z
+5b79ed1219ee46e598d86eabfcbc41cb56a29002,Adds pausing test to UpgradePositivetests,Oliver Hudson,2018-07-26T22:28:30Z
+16a00b17d9e75870b40c89ec6a2f0f7b6eb6cc0f,Adds Proxy positive tests; adds upgraded test contracts,Oliver Hudson,2018-07-26T21:58:56Z
+8e93ed6950778dea76387b6c87af54fabe71e1a6,Fix deployment script,Erik Tierney,2018-07-26T20:02:19Z
+249879ac767612ee622486d726f2b3be45f62d8d,fixes typo,Alec Schaefer,2018-07-26T18:09:04Z
+cd0ca05c0239ab009f284557203ee460c2ccfcc3,Merge branch 'master' of github.com:centrehq/centre-tokens,Alec Schaefer,2018-07-26T18:03:12Z
+069a206f649daf9600a8d0c51318585fd5542f22,"adds verification tool, adds minor edit to README,makes minor changes to test files to make them compatible with verification tool",Alec Schaefer,2018-07-26T18:00:56Z
+e0816734cba7b14eeee2914810333de33f6bc285,Merge pull request #153 from eztierney/deployment,Erik Tierney,2018-07-26T16:55:39Z
+8245139330dc4b777c7d18181dbbac9da5e44d8f,Initial write up of deployment instructions.,Erik Tierney,2018-07-26T15:51:58Z
+4612df4f4993f0f0723a995277837abc849a71c8,Merge pull request #150 from eztierney/zero-check,mirathewhite,2018-07-25T17:54:00Z
+c2bd4df9120b759252442ef8c4eddb3601e1b6a3,"adding test transferOwner for 0x00, combining functions in TokenTestUtils for initializing tokens.",mirathewhite,2018-07-25T16:08:20Z
+87f3e51a5039b8e013c8f7c18843561f77e1e3b2,"[CENT-206] [Audit, Cons] Add non-zero checks on addresses",Erik Tierney,2018-07-25T17:40:23Z
+836e7c6911930241c69a90aaa7eae0ed5c882a7c,Merge pull request #147 from eztierney/copyright2,mirathewhite,2018-07-25T00:22:33Z
+893cc17115c53ed409db76eb0abbb8c696bdf35c,Add copyright to FiatTokenV2.sol,Erik Tierney,2018-07-25T00:05:54Z
+a12aa17dcbe5359a13eb74a710ae2af1c2b20f30,adding MIT license header,mirathewhite,2018-07-24T19:07:37Z
+8006de820ca10c2df7e6f2d425e01e233204b6c4,"Move Ownable, pausable out of thirdparty directory.",Erik Tierney,2018-07-24T19:06:40Z
+d93f08edc9ee01adb94c3acd5239c755e95b8dd8,Consolidate Ownable and OwnableStorage into 1 contract,Erik Tierney,2018-07-24T18:09:21Z
+be236487a992de6f60ebcebc6879a769db6bec58,Merge pull request #146 from o-a-hudson/blacklist-typo,Erik Tierney,2018-07-24T23:55:28Z
+f917a6c9382fa8ae40e59c745cb9b87e6dc530eb,Removes openzeppelin copied files; adds as npm module (#145),Oliver Hudson,2018-07-24T23:54:35Z
+3c394b68e97ac30916af4447e8dfeb0a49ea6368,Fixes typo in documentation [Trail of Bits - 12],Oliver Hudson,2018-07-24T20:01:45Z
+40c02e4bc04bd6d88a4d99d7533daba4722fd2c1,Adds FiatTokenV2; runs all tests on initial and upgraded token; reorg… (#141),Oliver Hudson,2018-07-24T19:51:24Z
+1600b742dea31f4471e23bda6a04103260d0d7d5, Adds tests ms039 - ms044 to ensure functions return true on success [CENT-164] (#133),Alec Schaefer,2018-07-24T19:11:10Z
+b2c32c1fb9337099d31dad1b7052235c98495e70,New ABI Tests (#137),mirathewhite,2018-07-24T17:09:03Z
+05876ef04cd31b5049fa31438aeed773850c81c1,Merge pull request #142 from eztierney/transfer-event-burn,mirathewhite,2018-07-24T15:46:26Z
+4268f0bc3351f3d35ff78c22f4c6214b9b678667,Merge pull request #140 from eztierney/npm-zos,mirathewhite,2018-07-24T15:43:34Z
+83c4be92681da7d72e90c57ee91e68bf02a2a2cc,Merge pull request #135 from eztierney/documentation,mirathewhite,2018-07-24T15:33:54Z
+61f3df8adc4e669295566eec3563519fb0356808,Minor edits,Erik Tierney,2018-07-24T14:44:55Z
+54c35c93cdf3855dc505f1a7b531e2180f0f5dca,[CENT-197] Emit Transfer to 0 event in burn method.,Erik Tierney,2018-07-23T19:59:45Z
+25023f104bfdc25063f4e61195979801edacd99c,Remove --strict option since zos-lib has some warnings.,Erik Tierney,2018-07-23T19:43:03Z
+776d6187f97b29f57e578cff92741040bd1570ab,Merge branch 'master' into documentation,Erik Tierney,2018-07-23T19:27:06Z
+165c9435860717938871302d2870ca75bc50f0d0,Minor updates to doc,Erik Tierney,2018-07-23T19:19:42Z
+13a88eac0fda6de964a0bf4f8f9a5a72367c00d7,Merge pull request #139 from o-a-hudson/openzeppelin-transfer-transferFrom,Erik Tierney,2018-07-23T19:08:24Z
+66036c78f89306ab9f789571f9877f31063f9c8f,Merge pull request #138 from o-a-hudson/mint-burn-0,Erik Tierney,2018-07-23T18:59:00Z
+f7d528c291e8c4ae79b2bd1e8648e679d0419742,Pin zos-lib version,Erik Tierney,2018-07-23T18:53:44Z
+39a4bb8709a45a7fe163b4e637655ef531adaec0,Remove zepplinos files now that we are npm installing it,Erik Tierney,2018-07-23T18:52:58Z
+eb5b78f487f23806674eebaed01846b56377d773,Uses openzeppelin transfer/transferFrom,Oliver Hudson,2018-07-23T17:16:28Z
+3437f634a438cff6032d841024c47e7b578a234f,Switch to using unstructured storage,Erik Tierney,2018-07-23T16:58:49Z
+9ceb65f8503e521058d6a130811cd9b5a37540d2,"Removes mint, burn when 0 tests",Oliver Hudson,2018-07-23T16:55:27Z
+b99f3327eb79af5d02556bab14b00968f7d97cb5,"Adds restriction that amount > 0 for mint, burn",Oliver Hudson,2018-07-23T16:01:42Z
+2b990f4857ea994f68665c9812dcb70cf0066d7f,npm install zos-lib,Erik Tierney,2018-07-20T17:16:16Z
+42d60378f5a71d3005efb7094e10b8dd329752fe,Merge pull request #136 from eztierney/compiler-version,mirathewhite,2018-07-20T14:20:17Z
+0be924e512ffe6ad62bd1f4b076f9982d84ddb8a,Switch required solidity version to 0.4.24,Erik Tierney,2018-07-19T20:05:14Z
+68648bf5f94bf037c7aeb3e2a95b90870d19b6ee,Remove comment referencing `totalAmount` which no longer exists.,Erik Tierney,2018-07-19T19:17:13Z
+f0c270606208c32be83654c769f1095bdce81788,Add missing parameter to `mint` comments,Erik Tierney,2018-07-19T19:15:41Z
+67e906953f1fcc46ac0089c7b980d81c507cf478,Update README.md given recent changes,Erik Tierney,2018-07-19T19:15:15Z
+5a68698f166db89b88e83b36d3f8aea16a0763f4,Remove git submodule from setup instructions as we no longer have any submodules,Erik Tierney,2018-07-19T19:06:00Z
+f673c70c44e54c23ab08d406cb5ee9f44ce614e2,Add some reasoning behind the mintingAllowance and Pause features.,Erik Tierney,2018-07-19T19:00:56Z
+c4b14d4be665c35483224642c14dee3626025e1c,More detailed doc on how the token works.,Erik Tierney,2018-07-19T18:44:25Z
+5c9b23f244fdeb7de4e81ec3b124e7aacfe2df10,Merge pull request #134 from AlecSchaefer/argument_tests,Erik Tierney,2018-07-19T17:05:20Z
+96bb9ba8db7d91f8c2da4c62d78bf760b2ee3152,Merge pull request #129 from eztierney/transfer-mint-event,Erik Tierney,2018-07-19T17:05:03Z
+74b0dd042a358281db9710ccc1e5d6004b62a228,Remove unused test method,Erik Tierney,2018-07-18T20:00:07Z
+b83ae215d1fe0d8dbb2f8ad34bc8a2bf03eb06d7,Modify mint function to verify Mint and Transfer events,Erik Tierney,2018-07-18T19:59:36Z
+75f39e55c16e3be77b0b63f4be0f591b71f60f9e,[CENT-160] Fix Transfer event in mint.,Erik Tierney,2018-07-16T20:22:01Z
+257d8f48f96b67a23a3bc1ca543c2605f7137f68,Merge pull request #131 from o-a-hudson/proxy-upgradability,Erik Tierney,2018-07-19T13:01:39Z
+c39a926772bd53485c9514dbf17f8696dfada9ac,Merge pull request #132 from o-a-hudson/safemath-Blacklistable,Erik Tierney,2018-07-19T13:00:36Z
+a4d1aaf6acc35bfae2469eaccdb0033ff638363c,"adds tests ms017-ms021 and ms036, makes minor formatting changes to test files",Alec Schaefer,2018-07-18T23:34:38Z
+1ad34f85990f9891956f1ec7e5512f725129c033,Removes safemath from Blacklistable,Oliver Hudson,2018-07-18T21:06:12Z
+e681c81e9b29c21d4876a28b5e4be500b85f8096,"Sets blacklisted, minterAllowance, minters to internal; Adds getters",Oliver Hudson,2018-07-18T20:46:05Z
+26eb01bdd68b3cb86c4ba997c8502cce771a94ec,Merge pull request #128 from o-a-hudson/proxy-upgradability,Erik Tierney,2018-07-18T18:53:49Z
+e2448ce89dc823595b6f49ea00b4bbbe3b202fd1,Removes accidently committed file,Oliver Hudson,2018-07-18T17:49:20Z
+9aceabcf6be01c95d231564443c0b3d3e61faa10,Fixes formatting error,Oliver Hudson,2018-07-18T17:46:51Z
+ab538202f27d3d1cf8f93d760b4fefddba990ab8,Merge branch 'master' of github.com:centrehq/centre-tokens into proxy-upgradability,Oliver Hudson,2018-07-18T17:37:40Z
+e978ef04c1045d110de530429ac86985758712a4,Fixes old lookup function used in legacy tests,Oliver Hudson,2018-07-17T23:33:57Z
+bcc3f462ce592fda2cb2679e10da9bdfd4559900,Makes private variables internal to ensure upgraded contracts can extend and access variables,Oliver Hudson,2018-07-17T23:21:36Z
+c76ec8fc5335c3b6a7b422034418771c04234671,Fixes typo,Oliver Hudson,2018-07-17T23:20:54Z
+5f54a954919c608b4278cee102f1a94792faaf75,Removes unused getter function (now auto-generated function is directly used),Oliver Hudson,2018-07-17T23:06:17Z
+d1415f9ae937508e90fbd1960763411af02478ca,Adds missing blacklisted lookups using new function,Oliver Hudson,2018-07-17T22:52:00Z
+e016e5d1e459721e96bd4d4e41e4864e2bf7fa7c,Switches lookup in testing of blacklisted to public variable method; removes defunct smart contract blacklisted lookup function,Oliver Hudson,2018-07-17T22:49:54Z
+eb1532eb74ce53da6b174a885e53bb8fcfc4c3fa,"Makes blacklisted, minters, minterAllowance public; changes one require to a modifier",Oliver Hudson,2018-07-17T22:36:35Z
+7a546ea2b9e4ca62220107d4b0807b5f56ddd440,Removes StorageUpdater class,Oliver Hudson,2018-07-17T22:22:03Z
+99601b2c1000bd7d6c24b45355eba0d45123228c,ABI Hacking tests (#111),mirathewhite,2018-07-17T17:17:02Z
+57bc9eac747c2b470456683afb5a3f7d4ce65b36,Updates thirdparty zeppelinos contracts to fix compiler warnings,Oliver Hudson,2018-07-16T19:55:26Z
+7ef9d423415b529e66eac64f617e7cd92a271782,Removes unused getBalances function,Oliver Hudson,2018-07-16T19:38:53Z
+c0109440745494b4bbd610ad212ab6e0aa855417,Removes defunct tests due to upgrade mechanism change; fixes broken tests due to upgrade mechanism change,Oliver Hudson,2018-07-16T19:28:20Z
+ede925fbcc75ee269fa85cfca7b9f5f8fe47cf9c,Removes no-longer-used Ownable contract from openzzeppelin,Oliver Hudson,2018-07-13T14:48:54Z
+a0b74221f4f64481ea9d57d0f92608bdcad0a058,Fixes later compiler warnings on zeppelinos Ownable contract,Oliver Hudson,2018-07-13T14:47:27Z
+5d81bc75eeabea4410c85b70e1a455343167eb63,Improves formatting,Oliver Hudson,2018-07-13T14:39:05Z
+f494d10535da609df54c0c3179f2acc4c7380729,"Removes contructors in Pausable, Blacklistable",Oliver Hudson,2018-07-13T14:34:15Z
+d6af961defc7877ab043dd8fd9ee889b466e575c,Adds initialization check to initialize,Oliver Hudson,2018-07-13T13:59:15Z
+39fb0e3f3474c49105ef8245f7eafc8ce12231d9,Adds upgradeability by proxy,Oliver Hudson,2018-07-12T23:57:42Z
+aee310af59bdabc258d2a63a6c945ba3327b96aa,Fixes bug that transfer/transferFrom to self doubles balance [CENT-152],Oliver Hudson,2018-07-09T22:38:13Z
+d7589835634f3edb6a1dfee229ae36c833362c88,Merge pull request #125 from AlecSchaefer/multiple_minters_tests,Oliver Hudson,2018-07-11T14:46:36Z
+7117d4559422c2ca3516fe529f926e6de04e7283,"adds tests for multiple minters, moves MiscTests into their own file",Alec Schaefer,2018-07-10T22:01:12Z
+c72303117b0cea6f581aa0032abbce0df6ff09e9,Merge pull request #121 from o-a-hudson/forwarding-tests,mirathewhite,2018-07-10T16:48:09Z
+7c55ffa9032faf2331f5fb622f85762665fb7fbd,Merge pull request #124 from AlecSchaefer/self_tests,mirathewhite,2018-07-10T16:47:36Z
+d311be7ebdfc205ce201aa06a9ed30028ad42798,"adds tests ms005 and ms006, adds check in checkVaribles confirming totalSupply equals the sum of account balances [CENT-156] [CENT-153]",Alec Schaefer,2018-07-10T14:07:17Z
+803c998fdfa822bacb4e6a775f125585333a8b31,Adds Forwarding Tests,Oliver Hudson,2018-07-08T18:51:05Z
+f2b65ca902e29807f1b5ac82ecaec1398c0d9c2a,Merge pull request #122 from o-a-hudson/codebuild-bump-time,Trevor Baker,2018-07-09T14:43:56Z
+791b1eee203243fe000b85bc9b355babcae70c71,Bumps codebuild timeout time,Oliver Hudson,2018-07-09T14:29:52Z
+257454ae43af07ba10c1b046afd86a9e0d5b17f2,Merge pull request #119 from AlecSchaefer/test_ids,Oliver Hudson,2018-07-02T15:02:25Z
+1bafa2823be304c80e8864cac59aacd66c79a5e7,Adds unique test IDs to Extended and Negative tests,Alec Schaefer,2018-07-02T14:45:33Z
+9bec319744e95b8da36e7e3e7700d1c6421e9525,Merge pull request #120 from AlecSchaefer/test_pt021,Oliver Hudson,2018-07-02T14:25:44Z
+a5a007e95aab3fb1ba1834199fef799c53fc69b8,forgot to uncomment tests,Alec Schaefer,2018-06-29T21:47:40Z
+9690646e44adfacbb9b2e258a563f29e9965e56c,adds storageAddress to checkVariables and adds test pt021,Alec Schaefer,2018-06-29T21:35:33Z
+958b6bb5cba2e850e087770be8839873d35c5e86,Merge pull request #116 from AlecSchaefer/checkVariables,Oliver Hudson,2018-06-29T21:22:08Z
+ffe40254de664b710340b4f494a6b14aa1ab5f68,Merge branch 'master' into checkVariables,Alec Schaefer,2018-06-29T21:00:41Z
+a1f61ccf32f0dbc7dfc93f180530819e08db1de9,Merge pull request #118 from AlecSchaefer/NegativeTests,Oliver Hudson,2018-06-29T20:56:17Z
+d787ebac918b933e0457be1dfb364be6024f625c,Update PositiveTests.js,Alec Schaefer,2018-06-29T20:56:14Z
+a8bb2ac17f0a1b549a15f6e8ec9fa61746ca261a,Merge branch 'master' into NegativeTests,Alec Schaefer,2018-06-29T20:43:00Z
+8866645747ea5f42cf40074fda5b8ecc1d3b112d,Merge branch 'master' into checkVariables,Alec Schaefer,2018-06-29T20:42:13Z
+35e56efc707869871891667032a46786ae3c27db,Merge pull request #117 from walkerq/master,Oliver Hudson,2018-06-29T20:31:23Z
+99e65608d6dc667da3a93ee191be9b8ee72d5796,adds unique ids to Negative and Extended tests,Alec Schaefer,2018-06-29T15:37:21Z
+0b290a6cd7d57df4fa132c57e96d3865f0a088c2,adds incomplete negative tests,Alec Schaefer,2018-06-29T20:27:14Z
+4b9dc760c2805402a49bf1fe58b5022aa14170c6,add labels to Positive tests,Walker,2018-06-29T20:05:39Z
+28451772f922e542e8e11a668d23df0e660e252c,forgot to uncomment tests,Alec Schaefer,2018-06-29T20:03:45Z
+3626af81b5bda349a6edc3d3893c2dce2a435292,"Adds variables to checkVariables, makes checkVariables take in an array and changes tests accordingly",Alec Schaefer,2018-06-29T19:54:25Z
+6c8b1fd50d14ecf9da8b1e1996606ff817b6195d,Added missing tests to ExtendedPositiveTests and PositiveTests  (#108),Alec Schaefer,2018-06-28T19:12:20Z
+66abec9b1602962ac625392c18d15139037b87b2,Added TestWrapper to avoid repeated it() blocks. Consolidated/Organized tests to sync with spreadsheet.  (#105),Alec Schaefer,2018-06-28T18:27:52Z
+3d757196639ace8430d6400801056ec9147dc461,Merge pull request #112 from o-a-hudson/transfer-event,Oliver Hudson,2018-06-27T18:36:37Z
+f1d8fb44560d5883c01c16948f44a8f3f374046b,Adds Transfer Event to mint (consistent with openzeppelin),Oliver Hudson,2018-06-27T18:20:47Z
+03e14ce7e5ebbcef8d72b534e82aa269c0b2f9c9,Merge pull request #110 from o-a-hudson/comments,Erik Tierney,2018-06-26T14:24:41Z
+cd20125b5fbcbe64d320d63964a63e0835ca398f,Fixes await statements,Oliver Hudson,2018-06-25T19:44:53Z
+a2a44443057358e1f3cb935674359df3cfa32899,Removes commented out tests,Oliver Hudson,2018-06-25T19:40:56Z
+91ea80fc7ef1cbe9a4947ef7f1a6b385ecafb3db,Merge pull request #109 from o-a-hudson/indexing,Erik Tierney,2018-06-25T16:31:41Z
+d244ec24c194dc32bac2daece1337a6b70e96408,Merge branch 'master' of github.com:centrehq/centre-tokens into indexing,Oliver Hudson,2018-06-25T15:34:12Z
+ad29fbf150c140e135a07c338468d00f8090afb0,Adds missing indexing to events,Oliver Hudson,2018-06-25T15:32:43Z
+5d105c07ced4761e447b82615fe99d6c6aa72439,Merge pull request #107 from o-a-hudson/upgrade-check,Erik Tierney,2018-06-22T20:05:55Z
+76bf87e0de4ba9882f03a6b693374b0f3f2d9628,Merge pull request #106 from o-a-hudson/variable-name,Erik Tierney,2018-06-22T19:44:39Z
+0163649891057801df54ce74b04bb1783b07fd8f,Adds restriction and tests that newAddress is not 0x0 for upgradeUpgraderAddress,Oliver Hudson,2018-06-22T19:37:10Z
+831ac3ffbd748c5cb26402840f933c46610620aa,Renames BlacklistableTokenByRole to Blacklistable for accuracy,Oliver Hudson,2018-06-22T19:17:16Z
+7ae3a354f6c74e661b6d0aee8c3344b02cb0274a,Merge pull request #103 from eztierney/readme,Erik Tierney,2018-06-20T14:40:49Z
+ceb40b00233d4801cb45c89454dabc8ddd94876d,Remove submodule section now that we aren't using submodules anymore.,Erik Tierney,2018-06-20T13:12:25Z
+bacbc895bb24441175d86a6aaf484e77a4c5fa69,Minor edits.,Erik Tierney,2018-06-19T19:53:45Z
+3fb38df16969e4d79cfd3c82f81ade531340869b,Merge pull request #101 from o-a-hudson/SafeMath-tests,Erik Tierney,2018-06-19T19:46:59Z
+26ec2a55f896ef96b9ebc4dacdc65b9f0a967760,Merge branch 'master' of github.com:centrehq/centre-tokens into SafeMath-tests,Oliver Hudson,2018-06-19T19:36:48Z
+faddbb20aa24053b799c54d055c5f18f6d25aaf4,Fixes extra whitespace,Oliver Hudson,2018-06-19T19:31:25Z
+455bfdb68d9d707641dd17d278334037c051a757,Removes whitespace change,Oliver Hudson,2018-06-19T19:26:56Z
+a09718e89dfac0f8dc6038303481ed0df4c918d9,Moves SafeMath test to project format,Oliver Hudson,2018-06-19T19:20:40Z
+1752ee7dae1e227b50b7409f6932ff43e93c98c4,Added high level description of contracts to README,Erik Tierney,2018-06-19T18:05:29Z
+20b56beb1d84a0ab0d7e637de3873a4f0dd7ac43,Merge pull request #102 from mirathewhite/master,Erik Tierney,2018-06-19T18:03:08Z
+9713d11810efe2ea97045cdd112ca43baa02a94b,fixed indent,mirathewhite,2018-06-19T16:15:09Z
+c5dcdc900d5aa1b83e65b9eca2084087dd464ea5,"more unit tests, export eternal storage owner private key",mirathewhite,2018-06-19T16:12:19Z
+0d4103ac7292e1e8b5bc772191ef118f63a302de,Merge branch 'master' of https://github.com/centrehq/centre-tokens,mirathewhite,2018-06-19T13:39:09Z
+f93fc78b0aa104ee9a4adb10607f397c546964d0,looking for hash function collisions,mirathewhite,2018-06-19T13:38:58Z
+521820144f5c490350fb88f41247d9a36b46eaa1,Merge pull request #100 from eztierney/pausable-zeppelin,Erik Tierney,2018-06-19T11:09:34Z
+3b02dd7eb5b38f134746aee7a94c32a224ea1ed7,Merge branch 'master' into pausable-zeppelin,Erik Tierney,2018-06-19T10:24:40Z
+68ab6e527440437df8e289ac222f44124fc9dc01,Merge pull request #99 from eztierney/missing-await,Erik Tierney,2018-06-19T00:24:37Z
+401d3ee61f740d0138d6f09fb649889c1490e3fc,Add dates of modification to pausable,Erik Tierney,2018-06-19T00:23:25Z
+9764e6e0faaa25385ab28dc417794f5bf7a5232e,Finished remaining negative tests and removed repeat tests from comprehensive test file  (#77),Alec Schaefer,2018-06-19T00:20:30Z
+12c1f84016958af6acd29e815fd9dd32ce4c20b3,"Removes mul, div from openzeppelin SafeMath",Oliver Hudson,2018-06-18T22:08:26Z
+04fb77349b007925ecba11bb1be1e9b1bdf5af98,Adds specific coverage configuration to avoid collision with openzeppelin settings,Oliver Hudson,2018-06-18T22:07:19Z
+6e446ebb9a6f4f21c16059b8900cd95e5449a07f,Improves whiteshpace formatting,Oliver Hudson,2018-06-18T21:37:32Z
+a81d91749e9477bfb63a8fbdf81ba23cc6522b7b,Adds and improves comments on openzeppelin copied tests,Oliver Hudson,2018-06-18T21:35:44Z
+b413ee8fdc746c35b8b3815a3e9a8354d2427cab,Adds openzeppelin tests for SafeMath,Oliver Hudson,2018-06-18T21:34:12Z
+7bcbe091d97e31e30564efaee3674fe898606282,Another missing await,Erik Tierney,2018-06-18T18:24:56Z
+249b827a67ac09e39b39f04e1b7aab5bb002502e,Another intermittent test failure due to missing await.,Erik Tierney,2018-06-18T18:07:57Z
+b9911f0bebf735e8f01388966252a659605a331a,Remove whenPaused modifier as it is unused,Erik Tierney,2018-06-14T19:22:27Z
+ba1880b8f9270040d52861ad5864325c293e7345,Unit tests for Pausable,Erik Tierney,2018-06-14T19:08:33Z
+9dbd9bba2584fac329fe4b5d52cfc502b4185a3a,Switch to Pausable in the openzeppelin sub dir,Erik Tierney,2018-06-14T18:10:49Z
+77b1eb180fa829b91bce70015be335628882f595,Remove whenNotPause/whenPaused modifier from pause/unpause methods,Erik Tierney,2018-06-14T17:55:00Z
+9df23e9a3fdd8dc082c0dd3ac211dd46ae318059,Added pauser role to Pausable,Erik Tierney,2018-06-14T17:52:42Z
+dc890e3135209d93ff0360c746e4dba7353e6ef0,Update comment with info on the base version,Erik Tierney,2018-06-14T17:41:02Z
+9def9a76bd9152b543c14499693fc930ac1a2ebb,Add copy of Pausable from openzeppelin version 1.10,Erik Tierney,2018-06-14T17:38:12Z
+36f10f5e0e9ce674e5abf8ab2a7b0decdbe307b4,Merge pull request #98 from o-a-hudson/reentrency,Erik Tierney,2018-06-18T17:37:19Z
+cf0b11db40728906a78028bbbc2bd266d33041d1,Merge pull request #97 from o-a-hudson/submodule,Erik Tierney,2018-06-18T17:35:07Z
+172a054f92e43b89b827ae0615f9ed0602718c05,Fixes reentrency vulnerability in transferFrom,Oliver Hudson,2018-06-18T15:13:36Z
+4d23727d2a0b82659f1646039a1036f241b9d0b8,Merge branch 'master' into submodule,Erik Tierney,2018-06-18T14:03:39Z
+bbfe3d37d4e63ba9463aa8503da5f25628a96057,Merge pull request #94 from o-a-hudson/transferFrom-upgraded-fix,Erik Tierney,2018-06-18T14:00:34Z
+5a96abbef5a2b8cd943b997705bf2b7f3621614b,Merge pull request #96 from walkerq/master,Erik Tierney,2018-06-18T13:55:45Z
+a009f41d4ac4d0bc6378b4700d59ccc8adb2e6d4,Merge pull request #88 from eztierney/ownable,Erik Tierney,2018-06-18T13:51:10Z
+cc242aedf3fbde045e45f31afbd88ee37b9f715c,Merge branch 'master' into ownable,Erik Tierney,2018-06-15T22:18:39Z
+5520b761e9d0209d7ef29ca5c6d50e3de93d45b1,Update test descriptions to no longer refer to roleAddress,Erik Tierney,2018-06-15T21:19:24Z
+7bc9585140c5121575a67c3846f44d30421881fc,Remove unused RoleAddressChange event,Erik Tierney,2018-06-15T20:44:57Z
+87e97ecafb018295042ad7282eca0e703e47bbbc,Adds correct include statements for openzeppelin files in contracts,Oliver Hudson,2018-06-15T19:12:46Z
+6c49012d1f85535a0f2db2751a5737a92154876c,Removes submodule build from AWS codebuild,Oliver Hudson,2018-06-15T19:11:24Z
+8a6592b23e3bdbfbd865e154889a776cbb2d8485,Removes openzeppelin submodule,Oliver Hudson,2018-06-15T19:07:46Z
+8fefab7b3c8505fbc848afe343f56092ef198d32,Adds openzeppelin libraries to project thirparty contract folder,Oliver Hudson,2018-06-15T19:02:34Z
+f93c079bbf2fcb083e2dccfa1cc06cc3b19928ab,"Add tests for updating master minter, owner, blacklister, and pauser from wrong address.",Erik Tierney,2018-06-15T18:55:39Z
+1edd06c64ce2da54440fd9b7020d7baa73c58c93,Include ownable from blacklist contract,Erik Tierney,2018-06-15T18:49:31Z
+bf65865860f0831083f1daa1a227052ab291b88d,typo fix,Walker,2018-06-15T18:08:40Z
+9882372858d946dd716bfd2c5cd336d317c05b9b,Merge pull request #95 from o-a-hudson/race-condition-revert,Erik Tierney,2018-06-15T15:24:00Z
+5bd275ffbc86c16a2b7b989e0c3283806a083ee7,Merge pull request #93 from walkerq/parallel-promises,Erik Tierney,2018-06-15T15:20:49Z
+1ab4f8c9d154a7cd8e34725d198241955f23a94c,Fixes lack of await before expectRevert in some places causing race condition,Oliver Hudson,2018-06-15T14:58:55Z
+73c8acbdc590ef6459c150c3432976f2208dbbf3,Fixes lack of check for blacklisted msg.sender in UpgradedFiatToken transferFrom,Oliver Hudson,2018-06-15T13:19:48Z
+25aff2448ee650665f69e258850f2488e326e949,parallelize actualState calls in checkVariables,Walker,2018-06-14T20:31:01Z
+417efe95f5fffaf1f9aaf14aaf527c433a707b2e,Merge pull request #91 from eztierney/jiggler,Erik Tierney,2018-06-14T19:46:15Z
+15c793792d3a6d679e4f723f60bfe0e166fee557,merge,Walker,2018-06-14T18:10:56Z
+a0a52e5cfd3885a68881140c56af765c7fee82b3,Merge pull request #90 from o-a-hudson/solidity-warnings,Erik Tierney,2018-06-14T17:59:29Z
+a5a725175921d6398680564ae57dc1f397713890,Merge branch 'master' into ownable,Erik Tierney,2018-06-14T17:48:59Z
+0b0754b3c5aa141345c8fb8902eee6d666d3994c,Another missing await causing intermittent test failure,Erik Tierney,2018-06-14T17:32:41Z
+8b8534c8308ebeaef09869031c4b97162966df5e,Merge pull request #89 from o-a-hudson/buildspec,Erik Tierney,2018-06-14T17:19:28Z
+509a6d65ad9abb518b95d9727ad6a30dd81f1b37,Enforces warnings as errors in build,Oliver Hudson,2018-06-14T17:16:32Z
+7f1801606f1f97337981351710b4e318f7cab453,Updates openzeppelin submodule version in buildspec configuration,Oliver Hudson,2018-06-14T16:14:29Z
+65e7a69b816ae01d7a3cf58f8f65e197da24ef9c,Merge branch 'master' into ownable,Erik Tierney,2018-06-14T16:06:28Z
+ad8efdfcc608ebdf33649063db5a0821a321b067,Updates compiler version (v0.4.23) and openzeppelin submodule (v1.10.0) (#85),Oliver Hudson,2018-06-14T15:50:00Z
+c4471db56996ec4f809f36223adad1ea0ac5ee81,Optimizes negative tests to run checkVariables once in own test to test defaults rather than before every test in beforeEach (#87),Oliver Hudson,2018-06-14T15:40:54Z
+600c4a965283af3d95bc7051e953e7765a97e203,Rename roleAddressChanger -> tokenOwner in test files,Erik Tierney,2018-06-14T15:30:01Z
+0b19ebf9e4cbff6ed0fd91d9001d48780beac7bd,Refactor from roleAddressChanger to Ownable,Erik Tierney,2018-06-13T18:29:46Z
+457d17a684279e2aec82db147d9888cd207202bc,Update build timeout to 30 min,Erik Tierney,2018-06-14T15:09:36Z
+8e3ac2002c1bd0da764421b6ff6214c7ccecbdc2,Merge pull request #86 from o-a-hudson/timeout,Erik Tierney,2018-06-13T22:51:44Z
+40b3ab81eee46735b524b6a138f4bc28c0710712,Increase timeout limit to avoid tests timing out,Oliver Hudson,2018-06-13T21:19:50Z
+9aab46423a8639c498de0bc643c50127f2302f56,Merge pull request #84 from eztierney/jiggler,Erik Tierney,2018-06-13T20:05:50Z
+5610bce36b26380f2d4382ad6cc88641daff0b08,Merge pull request #82 from eztierney/ctors,Erik Tierney,2018-06-13T19:18:32Z
+55d20db05f345dfc5320b43a968fb8567fb7aa49,Merge pull request #83 from mirathewhite/master,Erik Tierney,2018-06-13T19:11:46Z
+e9034ddac4b6f54aa835b1b4680cab660a01b706,Fix intermittenly failing test - added await,Erik Tierney,2018-06-13T19:11:12Z
+f5c6369caed1d5a550ba6829e272a59009384e6c,signing last commit,mirathewhite,2018-06-13T18:42:49Z
+15556a3194707ea53e16595bacf16395ba2a822c,merged,mirathewhite,2018-06-13T18:39:56Z
+2948e847359e31c55f82a7b3a1c3cf007d4d6e44,Merge pull request #81 from eztierney/cent-107,Erik Tierney,2018-06-13T18:34:39Z
+e6c4e76d5ae94084688760343e4dab720d5be027,Merge pull request #79 from o-a-hudson/open-zeppelin,Erik Tierney,2018-06-13T18:33:55Z
+a06a9fa82af2568ffa0d39b4346c8d79e5b9d00b,Moves declaration of decimals (uint8) to be between strings and not addresses to avoid padding attack [CENT-79] (#80),Oliver Hudson,2018-06-13T18:32:19Z
+6933f877eae6f9a9cb190dd19e6cf36601a16553,"Adds back removal of whenNotPaused, whenPaused restrictions on pause, unpause (#78)",Oliver Hudson,2018-06-13T18:31:30Z
+be03ea11a410252d3ebdf33f85bd4956da9d8c10,Created EternalStorage tests,mirathewhite,2018-06-13T18:24:44Z
+39e84eb9e1ceab5aa37077a4e1d3ccf19373ad9f,Merge branch 'master' of github.com:centrehq/centre-tokens into open-zeppelin,Oliver Hudson,2018-06-13T18:18:56Z
+5d3b767bf9923112c87fde20c6f3bd65e23ea10b,add ethereumjs-tx,mirathewhite,2018-06-13T18:15:30Z
+b5fa727dd7c6e0eaddb218a8bdf1457b59e5f290,Added private key for arbitraryAccount,mirathewhite,2018-06-13T18:14:35Z
+5d5af563aa4348845e44a16b64feb6e7d0d4825f,build object of actual state to compare to expected state (#76),walkerq,2018-06-13T18:10:49Z
+548ec196a4cc3cd4f9258128f4a184307a5eed5d,Added semicolons and unit tests,mirathewhite,2018-06-13T16:16:35Z
+d4e2533b7f1414e60207566228e548422afccb29,Merge branch 'master' of github.com:walkerq/centre-tokens,Walker,2018-06-13T16:10:06Z
+4d90533abf03b9cae93982ef328e0d71a076dabf,delete unnecessary test,Walker,2018-06-13T15:36:57Z
+28b4b1ff2e0dba9101ddca2945d0c9f4ff0af7d9,Merge branch 'master' of github.com:centrehq/centre-tokens into open-zeppelin,Oliver Hudson,2018-06-13T16:00:17Z
+5fdc1a5d2ef393507e6a1699d38bce6dae3890ec,Changed test name to Legacy Tests,mirathewhite,2018-06-13T15:59:56Z
+a2ce420a7cb63f28d6dc621af83a79b8338aa15c,Adds reference to new ownable contract in storage contract,Oliver Hudson,2018-06-13T15:59:13Z
+9362a7db07784cef99d341e951aa669071884303,Adds modifications to openzeppelin ownable contract to remove unused renounceOwnership method,Oliver Hudson,2018-06-13T15:56:26Z
+191f3b7abae125516d8f7963e7e93e06c4465c1e,Adds v1.10.0 openzeppelin Ownable contract,Oliver Hudson,2018-06-13T15:43:42Z
+91f49d0d7e80c080514b5e492ccd6e067ab925dc,Changed name from FiatToken to NegativeTests,mirathewhite,2018-06-13T15:51:33Z
+b133ec9e9b5a6e6e3d17aa6a175feb9be92a8ee4,delete unnecessary test,Walker,2018-06-13T15:36:57Z
+d1d5f91a99333d8a48d20bcee0c5ce22dc725406,Add ctor to Blacklistable,Erik Tierney,2018-06-13T15:25:25Z
+530c35daf66c3c2e0d6b9b855cf244ca3abfc5a7,Add ctor to Upgradable,Erik Tierney,2018-06-13T15:16:30Z
+9b3469cd0459bc6166fc7a791faf1f14df7f4394,Add ctor to pausable,Erik Tierney,2018-06-13T15:09:33Z
+b1648edc88d1b16b0010e19850597f953c25a7dc,Add ctor for EternalStorageUpdater,Erik Tierney,2018-06-13T14:56:36Z
+349a7ee8e023538a8c58735caa949110ae16b036,[CENT-107] Make unblacklist callable when paused,Erik Tierney,2018-06-12T19:41:25Z
+5280cb4aac1202c78c41103d432ff1655e339866,Merge branch 'master' into master,walkerq,2018-06-13T13:52:01Z
+93a93ed627b9cfaf746a42ab178ab61feaaa9c14,Merge pull request #75 from eztierney/coverage-report,Erik Tierney,2018-06-13T12:25:14Z
+a70e2fad5a09acdd4ab802cdb4ec9ca0dc84cb2d,Merge pull request #74 from eztierney/whitespace,Erik Tierney,2018-06-13T12:21:52Z
+f485f9e0ede72cabd4b8eac637abbe734d80cee8,Replaces openzeppelin ownable contract with custom contract based on modified openzepplin v1.6.0 version to fix compiler warnings,Oliver Hudson,2018-06-12T21:46:01Z
+81d6f339c791ad17a1e70b392d41a6e2362b6b78,delete comments,Walker,2018-06-12T19:34:02Z
+caa8591b4fc18a2b1e881718a2f2ff8e111cabff,correct all failing tests,Walker,2018-06-12T19:29:00Z
+d4bd4492205acf3a47c941bd031abe8f2ffe1ea0,Remove test contract from coverage report.,Erik Tierney,2018-06-12T19:04:25Z
+c3edddfbefd5f86cae4c60edbbe4da15c74daa48,added transfer and transferFrom tests (#69),Alec Schaefer,2018-06-12T18:48:28Z
+3522ed2e34f47208475b00f9f4eb19a472d25f6b,Whitespace cleanup - switch to 4 spaces everywhere,Erik Tierney,2018-06-12T18:43:42Z
+1fa76fdb689e3c24aa597676c5e0a5c4e1d891d3,Merge pull request #72 from eztierney/move-files,Erik Tierney,2018-06-12T18:42:15Z
+cafd2e64c0b7176d26de804ff43f727ce96c4c4d,Remove token registry for now,Erik Tierney,2018-06-12T17:59:52Z
+a535561ab65e2550c638c70390f09f231aa9d56a,Move UpgradedFiatToken to test directory,Erik Tierney,2018-06-12T17:58:50Z
+e878b89ef3ac480f92530582eccccc2fa9ffa18b,Move EternalStorage related contracts to storage directory,Erik Tierney,2018-06-12T17:51:34Z
+474af5cab1b23dc61790dba0eda19ece4fb0fb42,Merge pull request #71 from mirathewhite/master,Erik Tierney,2018-06-12T17:37:07Z
+275424438e32d98b0c3d3d3a85c3032f36df9634,"Added two tests, first signed commit",mirathewhite,2018-06-12T17:29:52Z
+b5e2396cea9a89192ee67b5149e3dba9f9243c80,merge,Walker,2018-06-12T16:05:26Z
+01883807eef09c73300c3208998a47e08c8fb40f,compare current state obj to expected state obj in checkVariables. Fix up some tests. *Many tests are still broken*,Walker,2018-06-12T15:36:29Z
+79fc9951342c0785c33b855d717c8f94524023e7,Merge pull request #3 from centrehq/master,mirathewhite,2018-06-12T13:42:53Z
+01d3001b1400ad291b72d24e9e56f6af0324586a,Merge pull request #67 from o-a-hudson/erc20-forwarding-,Erik Tierney,2018-06-11T19:54:04Z
+28eee3dad599f1d46a56cb3bbfb843179bd3dae0,Merge branch 'master' into erc20-forwarding-,Erik Tierney,2018-06-11T19:49:35Z
+0587aa3e7a42c5d1c72e8823efc613826f29c9e9,Merge pull request #68 from o-a-hudson/warning,Erik Tierney,2018-06-11T19:48:15Z
+dd5b13381370db0355ccc0567f7c1238e439bdbf,Merge branch 'master' into warning,Erik Tierney,2018-06-11T19:41:53Z
+09d182b6e8dffc89e1208fed387c457b1952c140,Merge pull request #66 from o-a-hudson/merged,Erik Tierney,2018-06-11T19:39:25Z
+6ec6c0405095b993a2bb97962d0747d65d67bdfb,Merge branch 'master' into merged,Oliver Hudson,2018-06-11T19:13:57Z
+8640e13c16782712b04f22e148a5edd436ee8091,Merge pull request #64 from walkerq/master,Erik Tierney,2018-06-11T19:08:25Z
+701444e78e887c87dcea57205000974d03a1e539,Fix compiler warning for constructor in migrations,Oliver Hudson,2018-06-11T18:37:52Z
+e34c4d35a90d7a1ddd39ec1dee0f17bea5b064c4,Merge branch 'master' into master,walkerq,2018-06-11T18:22:04Z
+2d4530d60393050d8ff930a8747d4a5bd2ccfd86,Fixes compiler warning for access type of constructor,Oliver Hudson,2018-06-11T18:19:59Z
+d3e4d2c739396e4278c2a12516cf3aab46960def,Merge branch 'master' into merged,Oliver Hudson,2018-06-11T17:02:56Z
+9a5a80874cb361515161287d3d132a79bfc4de6a,Merge pull request #65 from eztierney/codebuild,Erik Tierney,2018-06-11T16:54:46Z
+f61bbc036b6f3d03cf10a30dbd0e4fac0e4cdc77,Merge branch 'master' into merged,Oliver Hudson,2018-06-11T16:13:41Z
+45d3cc6bec3b4f3758ba71f83c51f59d39b6b9fe,typo,Erik Tierney,2018-06-11T15:45:34Z
+564746a299acea8e4136b0c2a41139f7eefab2ba,Update readme with note about submodules with codebuild,Erik Tierney,2018-06-11T15:42:43Z
+2df71ed3c87ecc271f8c4346e81410a322581a44,Remove logs from artifacts - output is available in the build logs.,Erik Tierney,2018-06-11T15:21:07Z
+a87104b8b54a72b73495571f7ef31bf76a910206,Check out openzeppelin manually since codebuild doesn't support git submodules,Erik Tierney,2018-06-11T14:58:55Z
+f07c0b8581341da99c78cdff5c91e09500a10501,Comprehensive test speedup 2x; eliminates redundant tests of default values; adds check to ensure not testing default values,Oliver Hudson,2018-06-11T15:12:08Z
+9f62fbe4ef23bf78c461f3c6261c496edb2ca19b,make test addresses deterministic in ganache-cli and solidity-coverage settings,Walker,2018-06-11T13:28:35Z
+03ac1c4c0d02f917e16d0a367d46bd66fe1d6ab1,Merge branch 'master' of github.com:centrehq/centre-tokens,Walker,2018-06-08T20:29:18Z
+639a25976dc37de371809a0b7e52ad67539419c3,use chai syntax for a few tests,Walker,2018-06-08T20:29:06Z
+ad780809c76f3c57c8bc90d9265930db625425fc,Merge pull request #61 from tjbaker/ci,Erik Tierney,2018-06-08T19:50:49Z
+8a73fc128bb818464bac9e822e7c9be91199020a,Merge pull request #63 from o-a-hudson/merged,Erik Tierney,2018-06-08T19:50:25Z
+3dced59d502a7b613a00095da518eb5c7b3cb1eb,Adds missing semi-colon,Oliver Hudson,2018-06-08T19:45:47Z
+2a9447f90b86d7ba4c200a549d24feaa24b5f5d0,Merge pull request #62 from mirathewhite/master,Erik Tierney,2018-06-08T19:35:17Z
+7a02712949c8668f8a7e5944645fada498f6f6f7,Merge pull request #60 from AlecSchaefer/master,Erik Tierney,2018-06-08T19:34:15Z
+a2c610dc2a4c4e3ca3251c4c047a7a6cacaa3efe,Merge pull request #58 from o-a-hudson/erc20-forwarding-,Erik Tierney,2018-06-08T19:33:28Z
+e7981a6de10626b01c96deb6cc71a4671dfb0edb,suggest using ganache-cli with high default balance in README instead of testrpc,Walker,2018-06-08T19:03:34Z
+578c4a9b898194ffab2f318a549f24599df7b9b5,added test for updateRoleAddress after an upgrade,mirathewhite,2018-06-08T19:01:46Z
+9843af17c499c83be7b01f9f1bda9d46e52aabfa,Adds disablePriorContract callab le by pauser to shut off erc20 forwarding,Oliver Hudson,2018-06-08T18:55:22Z
+839f7c39e3a2434eee734be611dce408d0b2e00f,Merge branch 'master' of github.com:centrehq/centre-tokens into erc20-forwarding-,Oliver Hudson,2018-06-08T18:14:05Z
+768241d85fcc03b108e8f35e067aec6f76ae55a0,remove console.log statement,mirathewhite,2018-06-08T18:09:18Z
+09060927e5c0b13fcba287896c50f701d97c3172,updateRoleAddress unit tests,mirathewhite,2018-06-08T17:59:51Z
+4e780d9d2a7b771139a3a973c48d709a6e210a7e,codebuild updates,Trevor Baker,2018-06-08T17:08:56Z
+8c6cf0af19dfe2907cdced55ae2fc468540cf9a6,Merge pull request #2 from centrehq/master,mirathewhite,2018-06-08T16:53:12Z
+8d2115db06283828203ee768d8eda797fcfe0fca,Merge branch 'master' of github.com:centrehq/centre-tokens,Alec Schaefer,2018-06-08T15:17:08Z
+cd387dff422449893a8f0cc9975b970f22e6b05b,Merge pull request #54 from eztierney/codebuild,Erik Tierney,2018-06-08T14:46:49Z
+02f1ca2fcbe1c0802b5036ff55a9bf7fe8eb20c6,Merge pull request #59 from walkerq/master,Erik Tierney,2018-06-08T14:36:08Z
+38c384420494bfccdb4fda1b4c8e89aae381913d,added missing return statement to approve,Alec Schaefer,2018-06-08T14:30:08Z
+3bc6fad6f93b8382af30b03704ba31f445929a01,delete comment,Walker,2018-06-08T13:55:23Z
+6bfd7257dbc866514a9b105f6e26c3ef7afdae8b,update README.md,Walker,2018-06-08T01:24:02Z
+8837ff85c4249b6144f99d542b244acbd5a0deff,"add support for legacy tests, check only for reverts, not invalid opcodes or out of gas errors, add tests",Walker,2018-06-08T01:18:08Z
+f7f8521c27905e720ff66461a307836e4924e5ee,Fixes extra newlines,Oliver Hudson,2018-06-07T20:57:28Z
+b2ce378b245741380c16971155a12cac09687a0e,Merge pull request #57 from o-a-hudson/isBlacklisted-msgsender,Erik Tierney,2018-06-07T20:33:52Z
+517375146dff9d7ee48f2fa051f6263fc17748a9,fixup cloudformation template,Erik Tierney,2018-06-07T20:08:03Z
+db4656556404b643616d311511c978d7f4f62e97,Add a cloudformatino template to build via codebuild.,Erik Tierney,2018-06-07T19:55:17Z
+597de21f19ab26623a299ffb6293547976872d67,Merge branch 'master' of github.com:centrehq/centre-tokens into codebuild,Erik Tierney,2018-06-07T19:35:34Z
+65d31c4cec3d9cb5ee9e98578c2cbd2a6afeef95,move npm install to install section of buildspec,Erik Tierney,2018-06-07T19:35:16Z
+5fce7bdc5c9983f57b40921a36fada8543293676,add negative tests,Walker,2018-06-07T15:05:39Z
+49af4f07446f24cbf5e16e98c1fbffbb514532f2,use require syntax from Node instead of Babel imports,Walker,2018-06-07T15:05:10Z
+a939390705e4b8fae718b6915a715c1359247936,Merge pull request #56 from mirathewhite/master,Erik Tierney,2018-06-07T00:19:37Z
+fdcd1beff84d79b90b875994da900f37b815e80a,Adds tests for erc20 forwarding,Oliver Hudson,2018-06-06T21:41:34Z
+e98fc83860980e10c3416acaf0cf3774520dbc26,Adds combined blacklisted methods to erc20 function forwarding,Oliver Hudson,2018-06-06T20:29:42Z
+71020a2836cc8f3ffa38ea6724beae456b8bd3d2,Adds let statements,Oliver Hudson,2018-06-06T20:24:55Z
+8c4f178f558b187c12d690076a3d25129e619dcf,Adds forwarding functionality for ERC20 methods that rely on msg.sender,Oliver Hudson,2018-06-06T19:34:15Z
+01ca139dafdd38932946486fc0fc8a0b2c5de541,Changes isBlacklisted function to test only arguments as testing msg.sender does,Oliver Hudson,2018-06-06T20:07:56Z
+afee405ea51c352f5606990723cbeee92d7880e2,added more unit tests,mirathewhite,2018-06-06T19:28:39Z
+b7e2424dd061c34d572f429c353e332d723f5e2d,test removeMinter does not affect totalSupply or balances,mirathewhite,2018-06-06T15:53:01Z
+cfce53f2ff8aea20bc9aac59ae493e3d9a1da71f,Merge branch 'master' of github.com:centrehq/centre-tokens into codebuild,Erik Tierney,2018-06-06T15:51:35Z
+e926205d2311126a829878a0affb964bf1017e75,make sure remove/configureMinter unaffected by blacklist. Check totalSupply after configureMinter,mirathewhite,2018-06-06T15:41:50Z
+4aab7a614d015f622ae0cae2b97d285a8ddc076f,more remove unit tests,mirathewhite,2018-06-06T15:34:25Z
+309713914724f980a80bafcf15fb61a655ad4792,Burn unit tests,mirathewhite,2018-06-06T15:23:45Z
+3693b0620db05dad8103680d20cff5e52704abfb,Added configureMinter removeMinter unit tests.  Use openzeppelin expectThrow.,mirathewhite,2018-06-06T14:50:38Z
+0d33198ad243b85552e1693e66836e1666875b9b,prettified README,mirathewhite,2018-06-06T14:17:02Z
+b21b79d97ec4bca08c35acadbd5eebc01287bac5,Merge pull request #53 from mirathewhite/master,Erik Tierney,2018-06-06T14:16:15Z
+585370e2a9e0878d6beed0fcaafb8e04f26b3f0d,Merge branch 'centrehq-master',mirathewhite,2018-06-06T14:09:54Z
+a5d1b91ae36559c407a68c09687916f40f55fc36,Fixed merge issues,mirathewhite,2018-06-06T14:09:43Z
+424f03b0009b60e98b2b1df36f873cc87274c55e,declared variables,mirathewhite,2018-06-06T13:30:12Z
+6c0f03bea4d1c3e9339ed2a879c4904105fc5cd3,Merge pull request #55 from o-a-hudson/upgrader-change,Erik Tierney,2018-06-06T12:55:55Z
+b83ea62b266ac8c000afba56154d5baf28db0707,Adds missing emit keyword,Oliver Hudson,2018-06-05T21:24:55Z
+822e55f5c7bcfadb8cecc6c5b847da487dde0cce,More formatting fixes,Oliver Hudson,2018-06-05T21:10:23Z
+8415bfabdf049e6eb307c0acfa88f6c4fdb004bf,Cleanup formatting,Oliver Hudson,2018-06-05T21:08:31Z
+beabbb40b1d1b4eb6006456dd48ea4947f7f7fb6,Moves upgrader key change to individual function only callable by current upgrader (not part of updateRoleAddress's control) [CENT-81],Oliver Hudson,2018-06-05T21:02:30Z
+0ac405fe8324049f7b0754c818bd4fdf02d54f0a,Merge pull request #52 from walkerq/master,Erik Tierney,2018-06-05T19:18:19Z
+2d5ad213fb1aa3541570056b8d144f89139e9cad,add checkVariables and merge,Walker,2018-06-05T19:09:21Z
+877d93fddb2f3ce955e576a88cc158bc964b0fda,merge,Walker,2018-06-05T19:04:03Z
+f8b9fbfaeb2dcc9ded0fa674f37bea08dc71174a,"Set truffle vrersion explicitly, write out logs for compile & tests",Erik Tierney,2018-06-05T18:55:26Z
+65b010114741c427062f83174df06db16aa3cd73,add missing checkVariables and merge,Walker,2018-06-05T18:53:01Z
+4d34c2701cadb1894159a84b45878a8de42f6856,Merge branch 'master' into master,walkerq,2018-06-05T18:24:42Z
+3b43ed5ac5c2c898dc0a850e4efc365f99a89905,Merge pull request #51 from o-a-hudson/internal-storage-variable,Erik Tierney,2018-06-05T18:18:34Z
+6a0f113e760cd6058ed2a0c92c80cf5404ebfa67,Merge pull request #49 from o-a-hudson/readme,Erik Tierney,2018-06-05T18:18:09Z
+016b447f71ac2e9e65e7c8f5c6dce9805f06a40a,Merge pull request #48 from o-a-hudson/not-paused-blacklist,Erik Tierney,2018-06-05T18:17:47Z
+910efb83c5d7b362abb245811e297f89a7cbdba9,Merge pull request #45 from eztierney/solidity-warnings,Erik Tierney,2018-06-05T18:17:22Z
+21feaf4f7fe65fd184268115367d7c895cd0807e,Moved functions to TokenTestUtils.js. Updated README.md with extra setup info. Updated some config files to support import/export of javascript functions.,mirathewhite,2018-06-05T18:01:13Z
+e7b1fc1e49fa395c7fc71d8abb3fba6a754bde46,delete a comment,Walker,2018-06-05T14:25:22Z
+52ebd14e9e74dd46c498ffc69d3ea4a7a78c06ed,Sets contractStorage to internal [CENT-54],Oliver Hudson,2018-06-05T14:23:26Z
+b4cee1eaf13148b60a0b20f7f3a48d35d31a9944,add option to test BigNumbers using Chai for better logging,Walker,2018-06-05T14:21:55Z
+6302e15a506281462b48914f8754f2c052c5e666,Merge pull request #47 from o-a-hudson/master,Erik Tierney,2018-06-05T14:18:35Z
+e473debfc9b5c7a3c4ffcd43767c059460d8056b,Updated setup instructions,mirathewhite,2018-06-05T14:17:01Z
+481e30168a46ceea3f8e55acd34d8be5adf87d29,Updates README installation instructions,Oliver Hudson,2018-06-05T14:02:00Z
+007e31d921b9c36f0e24122b44dc20994b1c4528,Add restrictions that paused == false for unBlacklist [CENT-70],Oliver Hudson,2018-06-05T13:45:50Z
+7a0a4f6522cf22be4fb263eac3ea795a754e021f,Merge branch 'master' of github.com:centrehq/centre-tokens,Oliver Hudson,2018-06-05T13:29:20Z
+60de5f30ae80ffbd8c5acde010a70993164addcc,Fix formatting; removed variable,Oliver Hudson,2018-06-05T13:26:32Z
+43c49bb7341805e94a003dcb51b0415e230746e0,Removes restrictions on pause/unpause that contracted is unpaused/paused [CENT-69],Oliver Hudson,2018-06-05T13:21:57Z
+2dafe983cb9e960c623ae89fe13e4d115074baf0,Initial work on codebuild,Erik Tierney,2018-06-04T21:10:52Z
+d90dec19789cf5bd12501ea09f172aa031b2559c,Merge pull request #46 from eztierney/test-cleanup,Erik Tierney,2018-06-04T21:03:28Z
+ca20a54637c8b14d1c1ba53fb357387b19b3922a,Test cleanup,Erik Tierney,2018-06-04T19:59:21Z
+007ab87c06f6fd1912d8cd657ca3cc7ed7f3f86f,Merge branch 'master' of github.com:centrehq/centre-tokens,Walker,2018-06-04T19:51:12Z
+6782d577e7cac7bbc20d32ad1df0e6b7d85cf955,Stop logging the expectedState by default - makes test output more readable.,Erik Tierney,2018-06-04T18:37:48Z
+05ab409e68ce49cac7df5af961a3d31854ae1afc,Merge pull request #44 from eztierney/gitignore,Erik Tierney,2018-06-04T18:31:55Z
+a15d394babd8cbef9a622250d04f3ed6f045fc90,Fix constructor warning - switch from function FiatToken(...) to constructor(...),Erik Tierney,2018-06-04T18:30:58Z
+1fdedfdc3000f78f5d0e3427b6e49bd5dd930196,Add emits to token registry contract,Erik Tierney,2018-06-04T18:23:21Z
+64c45c6f95ec887fe8d85123fd88cd6c1828714d,Add emit to events to silence compile warnings,Erik Tierney,2018-06-04T18:20:04Z
+433abe3fba0dc5da72d069a77c62ad922e0c019d,Update git ignore to include some node/coverage related files.,Erik Tierney,2018-06-04T18:08:46Z
+fa6cc427b4b36f901d0a7eb3e6d5e8e0971da8e2,Merge pull request #43 from eztierney/fix-tests,Erik Tierney,2018-06-04T17:24:10Z
+fcd735d8414fd51ac39cfc9d7e3db8c593d75e85,Fix tests after merge collision.,Erik Tierney,2018-06-04T15:45:25Z
+07e4ac9b43869276fd58b90cb6e8cdb9f6ecd985,Merge branch 'master' of github.com:centrehq/centre-tokens,Walker,2018-06-04T14:49:15Z
+28da6ade9797f4f19f8e1f1e1419067deba6fd77,Merge pull request #39 from eztierney/deploy-with-or-without-storage,Erik Tierney,2018-06-04T13:58:56Z
+4c2a004f4ab3ccd1cfad310ac4c84a41585871ed,Use address(0x0) instead of 0x0 to get the 0 address,Erik Tierney,2018-06-01T16:07:10Z
+84966a121bf9fa893b44dbadcadfb7bd491ce91b,Consolidate FiatTokenWithStorage/FiatTokenExistingStorage into 1 contract,Erik Tierney,2018-05-30T18:36:32Z
+704ceb8104046b977667e4c63f15d69e2e482d88,Merge pull request #38 from eztierney/bulk-calls,Erik Tierney,2018-06-04T13:49:54Z
+21856d853f449b0198ade343b97090f61553274b,Merge pull request #40 from eztierney/upgrade-to-null,Erik Tierney,2018-06-04T13:49:00Z
+620e51bcea7c1969cef64224cfae7efe6ccccc2e,[CENT-71] Add test for upgrading to 0x0 address,Erik Tierney,2018-05-30T20:28:08Z
+b6660f70d51e92b838c15b29f185ff31637b75dc,add tests,Walker,2018-06-01T22:22:14Z
+ef3362737cc5415b01272222a3a5bebbf14bcfa9,Merge pull request #42 from walkerq/master,Erik Tierney,2018-06-01T20:18:18Z
+4122d738578a4679f60a8aefbe1ca0127dd418ee,"only allow setting properties that exist in expectedState, and add a couple tests",Walker,2018-06-01T20:14:57Z
+de45c9b03df2ea37b06538019563ae3b4d19771f,switch to == false for clarity,Erik Tierney,2018-06-01T18:38:47Z
+775857863c960f8375434174ab8c7bc8dd0e8c5a,Make a no-arg modifier to check if only msg.sender is on the blacklist,Erik Tierney,2018-06-01T15:39:28Z
+3fd5b268a410b5aa4a86ba5de833bca117d49c82,change pattern for updating expected variables to allow setting nested variables in expectedState object,Walker,2018-06-01T03:51:48Z
+7c9542cfafb05759820c99cc576f4435ee270453,move old tests,Walker,2018-05-31T18:34:26Z
+468dc3f1d369cb99f21d7283984e32c10b73d209,set BigNumber library to version used by web3.js,Walker,2018-05-31T18:20:54Z
+0b8faac3a165c5192629e4ed2b503b829617c8b1,tabs to spaces,Walker,2018-05-31T14:31:12Z
+ee7e18329dea690219893c42434e1109c7a4b4b7,setup formal test framework to track side effects and add some tests,Walker,2018-05-30T22:13:51Z
+84d3a7120b062acc4c75da4b9ee6b00b3bc7958f,Update comment,Erik Tierney,2018-05-30T18:08:36Z
+b658f5d9e48ac8dc9effd5cbdfb44a7d4e5b3693,Add batch get/set methods to save on gas,Erik Tierney,2018-05-30T18:02:28Z
+c81894a9cd48818b4c21bc9fa70b071d129c6e12,Merge pull request #36 from o-a-hudson/pausingcheck,Erik Tierney,2018-05-25T20:15:18Z
+4a92e333e0536854c4d193e6906fe9e41826c028,Merge pull request #37 from o-a-hudson/master,Erik Tierney,2018-05-25T20:14:58Z
+5d23a64b0069d97503ef8e7c1f7bd7543016f431,Fixes wording in function descriptions,Oliver Hudson,2018-05-25T20:04:44Z
+73c3c5a95db030b60882bc446715dee233c50b6d,Makes Data contract deploy from logic contract; Creates upgradedcontract to refer to exisiting data contract previously deployed,Oliver Hudson,2018-05-25T19:57:23Z
+02328980f74278d887dc06dd895c9e4a8cebf55f,Merge pull request #35 from o-a-hudson/master,Erik Tierney,2018-05-24T22:16:06Z
+b894febdb26ff03c3d373e382fa27e01cd9cf3a8,Removes whenNotPaused condition from removeMinter,Oliver Hudson,2018-05-24T20:44:33Z
+ffb50220ee89a934cd83fa05f1bde9cdec07c96e,Merge branch 'master' of github.com:o-a-hudson/centre-tokens,Oliver Hudson,2018-05-24T20:33:00Z
+80aae64c6bbf19bc1d05267f8a1a27d561bfdc7e,Merge branch 'master' of github.com:centrehq/centre-tokens,Oliver Hudson,2018-05-24T20:27:59Z
+f8b357249fa5842de478ec0bf06ce8269baf366f,Adds test for check against upgrading twice,Oliver Hudson,2018-05-24T20:27:17Z
+56a41d7ef91904cd2385ba16a9a3a41e3283be78,Merge pull request #34 from o-a-hudson/mintingburning,Erik Tierney,2018-05-24T20:21:07Z
+ace4e91733a60ef714b3fba5d7b38714c4a4fb16,Adds blacklisted restriction to minting and burning,Oliver Hudson,2018-05-24T19:57:31Z
+1b35daeda2d42e38400ea28c5006d49f30b6971f,Adds blacklisted restriction to minting and burning,Oliver Hudson,2018-05-24T19:57:31Z
+3080cbf173ba29a2c7c16eb4472940e80c82f6ad,Merge pull request #33 from o-a-hudson/addnullcheck,Erik Tierney,2018-05-24T18:34:43Z
+ab97e00cfbf337a9e817ec2387a4da714ea665d5,Adds test for null address check in mint,Oliver Hudson,2018-05-24T18:27:26Z
+d82f678d0e61686ef3d00dec4002d94c80f21ede,Adds condition that upgrade only callable once,Oliver Hudson,2018-05-24T17:40:24Z
+064e7267361507ceae1d73b96f55382f6652c122,Merge pull request #32 from o-a-hudson/master,Erik Tierney,2018-05-24T17:35:09Z
+3d108eda1183dc9f996dea397356e99c8f294f49,Adds check for null to address in mint,Oliver Hudson,2018-05-24T17:34:40Z
+bf4cff75f2a0ae3f07d74a26b0c2c35b01e797f5,removes unused redeemers variable,Oliver Hudson,2018-05-24T17:26:39Z
+2f99ca33ccf4c23e3d92f4c8bc337e5b8016facb,Merge pull request #29 from walkerq/master,Erik Tierney,2018-05-23T19:25:55Z
+c0bed79ddf70401a7cc18ff0102416e0392235eb,comparing BigNumbers instead of casting to Number,Walker,2018-05-23T19:05:33Z
+75d54c6e8046f842a33ec9e9cb6fc43be560edc8,Merge branch 'master' of github.com:centrehq/centre-tokens,Walker,2018-05-23T12:41:05Z
+97fc58eb3ba9daf34804a6cb25735525d073b8ab,Merge pull request #31 from o-a-hudson/data-initialization,Erik Tierney,2018-05-22T23:20:08Z
+133c14df7d8747d845d837914ad588ac269a81c8,Merge pull request #30 from o-a-hudson/master,Erik Tierney,2018-05-22T23:19:44Z
+b2744bd4a14c364e38724e4474b248a60308cd35,"Ensures setaccess(owner, true) is safe",Oliver Hudson,2018-05-22T18:45:09Z
+1672e9f291dabbf353e2e4636bc34e664ce214c5,Collapses addMinter and updateMinterAllowance into one function: configureMinter,Oliver Hudson,2018-05-22T20:45:38Z
+78378ccfd94f0f01ed07936568075c23638ea578,Adds isMinter test to redeem; removes mintingAllowance requirement on redeem,Oliver Hudson,2018-05-21T16:09:34Z
+c8eee85307d8c389fca05f61a943b93eaf309154,Fixes whitespace,Oliver Hudson,2018-05-21T16:09:21Z
+7b09767bb6bb8e20861525f877c35f2b914e79b4,Adds boolean for isMinter back,Oliver Hudson,2018-05-21T16:03:04Z
+82adb08e17f50c13eab014deab7437abdabc44a7,Merge pull request #27 from o-a-hudson/master,Erik Tierney,2018-05-21T15:39:06Z
+4d669d672ab4353e9ad9d4bce7925b74f3637df2,Sets visibility of roleAddressChanger to public,Oliver Hudson,2018-05-21T15:10:52Z
+0580909664c641b0031c3df9bafdfcf3efea420d,Merge branch 'master' of github.com:centrehq/centre-tokens,Oliver Hudson,2018-05-21T15:08:30Z
+ac16c5ce2f6b9508a4021bb565f2cc325ea99068,Removes extra newline,Oliver Hudson,2018-05-21T15:02:27Z
+6756a3649c248910d78761c9a2384d8542bccb5d,Collapses logic from mintabletoken contract into FiatTOken,Oliver Hudson,2018-05-21T15:00:05Z
+e878472e9cca431595157e3e0c22d4be49a3e636,use BigNumber.js method .toNumber() for comparing BigNumbers,Walker,2018-05-17T14:45:09Z
+ed1511a8da8035eb8ac748ee66b0258a32907fe5,Merge pull request #24 from walkerq/master,Erik Tierney,2018-05-15T15:27:06Z
+127c7da5be032458b8592e17f3d5bd9d9718045e,Merge pull request #28 from eztierney/ci-build,Erik Tierney,2018-05-15T15:26:09Z
+c8921476c2716bc1893cfd47d26021dacb0b2981,Run truffle/ganache in docker to make running the tests from CI easier,Erik Tierney,2018-05-14T19:57:48Z
+8cf48e1df2e02a9ba7ca89180a3f0a2cbd11eb57,Merge pull request #26 from o-a-hudson/master,Erik Tierney,2018-05-11T17:28:44Z
+4f18ce001f04f1ff9a4ae5086374e055698c846c,Merge pull request #25 from o-a-hudson/master,Erik Tierney,2018-05-11T17:21:50Z
+372263cad05926fe818fbf69aaba6eb4e71de362,Merge pull request #23 from o-a-hudson/master,Erik Tierney,2018-05-11T17:08:48Z
+751a2489bc73d3451bf5b4d39262f8cdf74c9d09,Moves overriden functions to FiatToken,Oliver Hudson,2018-05-11T16:55:28Z
+88225d2acee066b3d9db4b5e93af16f88f5e9aec,Remove unused data access methods,Oliver Hudson,2018-05-11T16:49:28Z
+c21c1c36ca43495c28826d18facde9d1408369f3,Removes finishMinting functionality,Oliver Hudson,2018-05-11T16:47:38Z
+4e513d9a1add4bf0444ac6603c6efc6a7b02a196,"adds tests for new non-upgrading functionality (updating keys, burning, and redeeming)",Walker,2018-05-10T15:52:10Z
+2924fab89fd7562c49624adb2812e2d2fa898d16,changes accessibility of keys to public and removes role string from event index because including strings in index isnt supported by current version of web3js,Walker,2018-05-10T15:45:40Z
+988194cf72840a87a754e35366921c676d459882,"Adds pausable check to burn, upadateMinterAllowance",Oliver Hudson,2018-05-09T21:03:54Z
+ed0a9ccb20b2bd9394316c2863bafb9593d8e1d7,Merge pull request #22 from o-a-hudson/master,Erik Tierney,2018-05-09T12:35:36Z
+05f9198f9b54f5c7ff03a371e1a204fcb98a29b9,Removes unused openzeppelin dependency,Oliver Hudson,2018-05-08T22:14:35Z
+b140e4a9b99c38eff7c43e8fd1865d2bb9709663,Removes openzepplin dependency in EternalStorage contract including transferOwnership function,Oliver Hudson,2018-05-08T21:44:49Z
+4314fd4e7c4f3890f39aa107353b2f4d92ad94a3,Merge pull request #21 from o-a-hudson/master,Erik Tierney,2018-05-08T20:47:35Z
+45bc6f57d306f99dc146bf2e8ad1d7a21c7fa72a,Fixes event emitted if role address not changed; submits string instead of hash to updateRoleAddress function,Oliver Hudson,2018-05-08T19:59:14Z
+4c8971c15363141f8a25779e87d93274b12166ad,Fixes outdated tests; fixes event with wrong argument count,Oliver Hudson,2018-05-08T19:15:52Z
+12b92b700469294312334ef7f1bc06901b1e7e68,dds roleAddressChanger account to update role addresses.Removes separate minter,Oliver Hudson,2018-05-08T19:10:13Z
+aa5afe1c10989dc41c276fa9a7250f5214f3c69f,Merge pull request #20 from o-a-hudson/master,Erik Tierney,2018-05-08T17:37:55Z
+c893d7f426a3a1951b4f2fb44feebe5919a0e5fb,Sets dAta contract access to new contract when contract is upgraded,Oliver Hudson,2018-05-08T17:27:09Z
+afb405b8bd5de55435137168985cfc6c07afbdc6,Merge pull request #19 from o-a-hudson/master,Erik Tierney,2018-05-08T16:38:35Z
+6c1ade2f7c8dccf03f5e5a5a951e3985d64a576d,Adds burnable funcitonality callable by minters on their own accounts,Oliver Hudson,2018-05-08T15:50:11Z
+3e02418689553adac929c0ddcb2afbd04374963c,Merge branch 'master' of github.com:centrehq/centre-tokens,Oliver Hudson,2018-05-07T20:29:23Z
+09981e2fe03bd457003564bbc5b7bb833b8d57a7,Removes whitelist of redemeers (to be replaced by deposit addresses),Oliver Hudson,2018-05-07T19:52:31Z
+4735d7a87949636aae4e3a6ebc2a8cad791c3c73,Merge pull request #18 from o-a-hudson/master,Erik Tierney,2018-05-07T19:44:18Z
+b54499b023ab252aa7e170a87ee5c2b02d693014,Eliminates isUpgraded extra variable,Oliver Hudson,2018-05-07T19:35:49Z
+0d1afbba93a5b8b80b764baf29276ca6a1d8f921,Adds referrals to upgradedContract after upgrade,Oliver Hudson,2018-05-07T17:58:13Z
+fcf4dfe6bd0616bd6366b34da6fc22a59ce0d962,Merge pull request #17 from walkerq/master,Erik Tierney,2018-05-07T15:41:39Z
+715111bd78785e3e989e1849a8529444ee64b28b,move a checkFailureIsExpected,Walker,2018-05-07T14:44:19Z
+1c597c5864d307f3679d00921cbacee16c1a3828,adds some missing checkFailureIsExpected checks,Walker,2018-05-07T13:56:27Z
+703c23bebf44ee360073bf3de96ccf5f9a6ab5a1,finishes test coverage for masterMinter version,Walker,2018-05-07T13:37:12Z
+fb3b2ab271bb6de7a93bf38044291ace972b1511,Merge pull request #16 from o-a-hudson/master,Erik Tierney,2018-05-03T19:27:00Z
+4577340b1ebf31f22da9b5792660dba90baacefd,Alters ExternalStorage to use variables types rather than bytearray storage,Oliver Hudson,2018-05-03T18:44:31Z
+b099d5956df6735f1677c0f71d75ab42b7f00df1,Merge pull request #14 from o-a-hudson/master,Erik Tierney,2018-05-02T19:08:45Z
+2c2250554c2ea64dd1d0b4e38501665ef9344394,Removes separate minter flag (now just has mintingAllowance > 0 to be a minter),Oliver Hudson,2018-05-02T18:21:48Z
+aa01c5ee2e0b2c26c59e01360c779549e2974d5a,"adds EternalStorage tests, brings coverage to 100% for all contracts",Walker,2018-05-02T15:06:25Z
+961ebfdac6a4a5f3be036c708580b4fc3e799fb1,Adds multiple minting functionality; preliminary testing,Oliver Hudson,2018-05-01T16:27:23Z
+88c598cf841c2f35bba103a52b70d89273e6e753,"add tests for Pausable, Redeemable, and Blacklistable tokens",Walker,2018-04-30T21:43:24Z
+1abe86090b776a12c916b420f0802da8ba4be974,Merge pull request #13 from o-a-hudson/master,Erik Tierney,2018-04-30T17:17:01Z
+e5be4f1ea95b2a4fbc5324a54dd3277019dd0232,Remove defunct dependency,Oliver Hudson,2018-04-30T17:10:51Z
+3fab1ec2af9fdc4ff651834def9ae02a89d6bd32,Merge pull request #11 from o-a-hudson/master,Erik Tierney,2018-04-30T15:12:29Z
+6b0578008ae4c58340cd811a32355a3a7f196e89,Adds check for correct error being thrown in tests,Oliver Hudson,2018-04-27T20:34:10Z
+4ee85b45e617dc0a93bd0ad53034f951ad3fbd4f,adds test for transferring more than balance,Walker,2018-04-27T18:40:21Z
+0de67343b6d9428c76fb3cc1de49cd93d5c21507,setup testing coverage framework solidity-coverage,Walker,2018-04-27T17:53:58Z
+363695915d368c9bffded606c5ff08e40ffd76b4,Renames authorization filter for clarity,Oliver Hudson,2018-04-27T15:15:07Z
+d67c66aabbd38726e2d255de0943ac002d6e9384,Merge branch 'master' of github.com:centrehq/centre-tokens,Oliver Hudson,2018-04-26T20:48:10Z
+7fbf8c08ae17b6ff96a819a8e79056b91acecd83,Merge pull request #10 from o-a-hudson/pausable-eternal-storage-centre-fiat,Erik Tierney,2018-04-26T13:21:39Z
+16fee1cd321ee20d0affbfdd1ccf72a9d46e6381,Removes transferFee functionality; updates tests,Oliver Hudson,2018-04-25T18:23:29Z
+ba4fa8c3326602df5941ae03cca7fbc87e9f3520,Fixes typo,Oliver Hudson,2018-04-23T03:20:12Z
+b3d1e6186a1f7f877f05e8546155cedc440f26bf,Adds external storage replacing same-contract storage (upgradability); updates tests,Oliver Hudson,2018-04-23T03:11:33Z
+3ff00f9a967bdb8fcc611c5e52d60bdec2b72487,Makes minter changable with new minterCertifier role,Oliver Hudson,2018-04-06T05:32:13Z
+7183ddb703f8a3a332029afc8b903a9c57e12bdc,Makes minter mint to designated hot wallet address,Oliver Hudson,2018-04-06T05:11:58Z
+01b72cbf44c751b0732bd913faf3c35bbb16ec21,Adds Blacklisting functionality,Oliver Hudson,2018-04-05T19:56:30Z
+434fc5da2018f51ef2979ca0e316dd38427e5307,Merge pull request #9 from o-a-hudson/master,Erik Tierney,2018-04-03T20:59:47Z
+3a22c26291e2793c86a3bcbad9177a5b430e51e5,Adds upgrade logic for recursive lookups of balance/allowance on deprecated contracts (full implementation of upgraded contract),Oliver Hudson,2018-04-03T20:12:48Z
+ef0ac76548891c5a9b76fdf9a1d8c2f984419b87,Merge pull request #8 from o-a-hudson/master,Erik Tierney,2018-04-03T14:47:42Z
+12c2c97d513d46d5d11a5885fd57516140a15346,Adds Upgrade forwarding capacity for ERC20 functions,Oliver Hudson,2018-04-02T03:19:54Z
+d276bdfbc9ca8eb0aff5f0446dba6d44502e5879,Renames depositAccountCertifier and certifiedAccounts for readability,Oliver Hudson,2018-03-26T19:23:45Z
+376d2a37093e4fed21c985481635af9a7212bce3,Fixes misnamed title in Redeemable; Updates Redeemable to be named RedeemableToken  for greater clarity,Oliver Hudson,2018-03-26T18:12:56Z
+87f882139e01b518aa97655054e806523c6c99a4,Adds redeeming tests (omitted in last commit),Oliver Hudson,2018-03-26T18:04:45Z
+5b4549511788b8b7588809608a14e98f13f28703,"Makes redeem functionality only callable by account holder; restricts redeem call access to ""certified depositors"" (initially large buyers); Adds ability to add / remove certified depositors with ""depositCertifier"" account; adds tests for redeeming and updating certified depositors list",Oliver Hudson,2018-03-26T18:01:45Z
+3549a53693abecc3e798036a7f6880f4c69e56c8,Makes redeem function pausable with pauser role. Adds tests for paused redeem function,Oliver Hudson,2018-03-21T14:51:26Z
+adae173b897c686eeca93021b60a8c00cbe2dd17,"Makes FiatToken redeemable by ""redeemer"" role. Adds redeem tests",Oliver Hudson,2018-03-21T14:46:59Z
+354decfd3385d00087bce1dd8717dd9aecffdf02,Fixes indentation,Oliver Hudson,2018-03-23T19:33:38Z
+dc1533806d7df82daddefa78dee56818c878ea63,Adds check for totalSupply for redeem test,Oliver Hudson,2018-03-21T18:03:35Z
+7c52fb70b4c14fd1f1c70714185ed2a10ce7b5dd,Makes redeem function pausable with pauser role. Adds tests for paused redeem function,Oliver Hudson,2018-03-21T14:51:26Z
+c566209527fce4272f0bb99987fa0092834f1ed0,"Makes FiatToken redeemable by ""redeemer"" role. Adds redeem tests",Oliver Hudson,2018-03-21T14:46:59Z
+2f6f34fd9babae50bb3685cc343196205bc3f8fe,import fix,Oliver Hudson,2018-03-29T20:11:39Z
+1a765847d88902f9169e9db1117a71f9a877a111,Makes FiatToken pausable; adds tests for pausable fiat token; renames files used by FiatToken for clarity.,Oliver Hudson,2018-03-20T22:32:01Z
+36f8c4a57e8a413d3203617ff98aca459e059197,"Adds index to _from, _to in Fee event",Oliver Hudson,2018-03-20T20:24:06Z
+029edc6c8fe43e988aba2f8091dfd19d32808381,Merge pull request #7 from o-a-hudson/master,Erik Tierney,2018-03-27T19:15:21Z
+3f9a15cae7b5ab89c496ef7bc0d929db5b9392af,Renames depositAccountCertifier and certifiedAccounts for readability,Oliver Hudson,2018-03-26T19:23:45Z
+b4de86d975e74f814e6bf2c3fa690ee3f8fabc7a,Fixes misnamed title in Redeemable; Updates Redeemable to be named RedeemableToken  for greater clarity,Oliver Hudson,2018-03-26T18:12:56Z
+9c285e8e65ff0de9f2cf4aeb0f9b826f86d4c3be,Adds redeeming tests (omitted in last commit),Oliver Hudson,2018-03-26T18:04:45Z
+401a492ca011c6fa1deaf9d247be0cbf11d693bd,"Makes redeem functionality only callable by account holder; restricts redeem call access to ""certified depositors"" (initially large buyers); Adds ability to add / remove certified depositors with ""depositCertifier"" account; adds tests for redeeming and updating certified depositors list",Oliver Hudson,2018-03-26T18:01:45Z
+a8375a2699e652075f0ca4e969a726d0cdd0f5b7,Fixes indentation,Oliver Hudson,2018-03-23T19:33:38Z
+74627f8fe79753eb2deb3b0350cd1b6397c4bf5a,Merge pull request #6 from o-a-hudson/master,Erik Tierney,2018-03-23T19:21:37Z
+3a7657243484a8f15d29579be20f5081e41f29da,Merge pull request #5 from o-a-hudson/master,Erik Tierney,2018-03-23T18:58:19Z
+eb707d7a861e55466d46aae588b51ddea5688d2e,Merge pull request #4 from o-a-hudson/master,Erik Tierney,2018-03-23T18:22:58Z
+2569d1b9446d4ec8306c25e1ca30038496ede99c,Adds check for totalSupply for redeem test,Oliver Hudson,2018-03-21T18:03:35Z
+db9b1655c5fbc4d39a016a00c4c33c53de8767ff,Makes FiatToken pausable; adds tests for pausable fiat token; renames files used by FiatToken for clarity.,Oliver Hudson,2018-03-20T22:32:01Z
+8be65613792f88f0495749202423957805452967,Makes redeem function pausable with pauser role. Adds tests for paused redeem function,Oliver Hudson,2018-03-21T14:51:26Z
+5c582fec235f075e481176c50260cd1f82a9bcda,"Makes FiatToken redeemable by ""redeemer"" role. Adds redeem tests",Oliver Hudson,2018-03-21T14:46:59Z
+b9d547bb2ab02867d961c3921008cab0d73b18e7,"Adds index to _from, _to in Fee event",Oliver Hudson,2018-03-20T20:24:06Z
+696bee98b6f4b90e08422cd4e6eb9cf5a47a1fc1,"Adds ""upgrader"" role to FiatToken with Upgradable contract. Adds Tests ""upgrader"" role.",Oliver Hudson,2018-03-20T19:50:39Z
+e2f3b89b92806021856fa42e9f3838be68afae52,"Adds ""minter"" role to FiatToken; Requires ""minter"" to mint finishMinting",Oliver Hudson,2018-03-19T20:57:51Z
+b0a6dca6dd6575192df85b565b2e4c197ca03a25,Merge pull request #3 from o-a-hudson/master,Erik Tierney,2018-03-19T19:17:44Z
+e6bfd1a24e6903d503294a65255d46ca2e918aa8,Switches transferFrom to deduct transferAmount from allowed instead of totalAmount; removes defunct approve/increaseApproval/DecreaseApproval with fee functions; adds tests for consistency between transfer(x) and approve(x) + transferFrom(x); removes tests for defunct with approve/increaseApproval/decreaseApproval with fee functions,Oliver Hudson,2018-03-16T21:54:43Z
+72bccd561faf9892a9c024c155c0bbf173b77c43,"Consolidates calculateFee function with prepareFee function; adds Fee event; adds comments where sparse; adds wrapper functions for approval, increaseApproval, decreaseApproval to include fees.",Oliver Hudson,2018-03-16T19:57:15Z
+4847f885e735aa2161e5a83a3b339ffc676377cf,Refactors common transfer code in FiatToken,Oliver Hudson,2018-03-15T20:13:36Z
+b8447e3e9e792c7ca9e44cd8b030f5bbdc5c90ef,Improves wording of tests,Oliver Hudson,2018-03-13T17:49:40Z
+5930704aed35c4a301bebd2a68a6477a373d8ed6,Updates FiatToken contract to include transfer fees; updates FiatToken tests to test transfer fees,Oliver Hudson,2018-03-13T17:31:55Z
+d0e50ca2549d345651144524ba06a9bef3d3bf33,Merge pull request #2 from o-a-hudson/master,Erik Tierney,2018-02-12T20:17:22Z
+63381df4ebe82750318e2e236f2a38b9e1682243,Adds contract and method comments to CentreTokenRegistry,Oliver Hudson,2018-02-08T20:37:52Z
+4d64f3cd85a1c1949c9743551d1a61cb5c2dfd70,Adds tests for CentreTokenRegistry,Oliver Hudson,2018-02-07T23:06:55Z
+ed400fee354dc31cb95b983c0b83dd20b29d29dc,Merge pull request #1 from o-a-hudson/master,Erik Tierney,2018-02-07T20:30:25Z
+f5fb8e3764c50d4ecb645ccfdc420797a45af7fb,Renames FiatToken test for consistency,Oliver Hudson,2018-02-07T20:28:51Z
+8cbe6d2ab37ce02085c3851a3b6305ab1e0a86df,Adds OpenZeppelin library as submodule fixed to v1.6.0; Adds FiatToken; Adds FiatToken tests; Adds TokenRegistry; Adds README,Oliver Hudson,2018-02-05T16:50:41Z
+08e3cd3e41d962f9191db0470a1cb532a364d912,Initial commit,Pete F,2018-02-05T15:05:55Z

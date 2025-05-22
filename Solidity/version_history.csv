@@ -1,0 +1,895 @@
+Release Tag,Published At,Commit SHA,Commit Message,Author,Commit Date
+v0.8.0,2020-12-16T17:40:49Z,c7dfd78e57c5ad7abd485dc1cc13d8f0ab09d431,Merge pull request #10636 from ethereum/smt_fix_constant,chriseth,2020-12-16T17:04:09Z
+v0.8.0,2020-12-16T17:40:49Z,f5c96ea6dad22b75f4305852cdc501d6fee92b4d,Fix constant evaluation build,Leonardo Alt,2020-12-16T16:58:49Z
+v0.8.0,2020-12-16T17:40:49Z,b252ab08a9830303d8511b843ec7f49500f8e7d0,Merge pull request #10632 from ethereum/sortChangelog,chriseth,2020-12-16T16:02:03Z
+v0.8.0,2020-12-16T17:40:49Z,9cfdba6e646f6eed3ab7e8e5bfd0bd7643d3c3ce,Update bug list.,chriseth,2020-12-16T15:20:33Z
+v0.8.0,2020-12-16T17:40:49Z,e5a8a9e6eda544d5946145f31a525872ef448e7e,Sort changelog and set release date.,chriseth,2020-12-16T15:10:52Z
+v0.8.0,2020-12-16T17:40:49Z,3a23df6717178bedc4ed2623e056ce14d503d414,Merge remote-tracking branch 'origin/develop' into breaking,chriseth,2020-12-16T15:56:45Z
+v0.8.0,2020-12-16T17:40:49Z,7338295feebfb3f044e265d5cf05ef1841b258b1,Merge pull request #10623 from ethereum/smt_const_expr,chriseth,2020-12-16T14:39:16Z
+v0.8.0,2020-12-16T17:40:49Z,3d0e8aa69c10fac848814fa6ddd7fb7cb47a4f33,Merge pull request #10630 from ethereum/setReleaseDate,chriseth,2020-12-16T14:25:20Z
+v0.8.0,2020-12-16T17:40:49Z,33cc26f32ead0b9a547eba3877f64865127c723a,Merge pull request #10628 from ethereum/fix-line-endings-in-unicode-direction-override-test,chriseth,2020-12-16T14:25:06Z
+v0.8.0,2020-12-16T17:40:49Z,34e21c929a605609dde8ff1543c2f61bb7eb6600,Fix a test for unicode direction override failing because of Windows line endings,Kamil Śliwak,2020-12-16T13:53:08Z
+v0.8.0,2020-12-16T17:40:49Z,7f677025ec7bec3e0f3309f41e9412189d0a9466,Set release date for 0.7.6.,chriseth,2020-12-16T14:01:45Z
+v0.8.0,2020-12-16T17:40:49Z,80e85b772be4d9366675ba2f5ee07ee2e3325796,[SMTChecker] Apply const eval to arithmetic binary expressions,Leonardo Alt,2020-12-16T10:27:56Z
+v0.8.0,2020-12-16T17:40:49Z,eec1e2a66c4dae38aa02f24865ece5f9ff92bb46,Merge pull request #10626 from ethereum/howToUpdateYourCode,chriseth,2020-12-16T13:45:45Z
+v0.8.0,2020-12-16T17:40:49Z,f31cf6b9b5bcfa007d606b8d3fa82779166a90cd,How to update your code.,chriseth,2020-12-16T11:31:20Z
+v0.8.0,2020-12-16T17:40:49Z,8f833f4e8f0d34fb1b87533f90a60a6b3cffb67c,Merge pull request #10618 from ethereum/develop,chriseth,2020-12-16T11:34:41Z
+v0.8.0,2020-12-16T17:40:49Z,e347545597816c62ec1b9a6d5e2f78e704acef19,Merge pull request #10625 from ethereum/reportIllegalTokens,chriseth,2020-12-16T11:34:20Z
+v0.8.0,2020-12-16T17:40:49Z,cd7795f9e40fcf0e3d2c0b453acf5c1e03d27dcd,Merge pull request #10624 from ethereum/sortChangelog,chriseth,2020-12-16T11:24:10Z
+v0.8.0,2020-12-16T17:40:49Z,5c40fb060c800297c1dfe9e941b94153e369ae9c,Report illegal tokens in the Yul parser.,chriseth,2020-12-16T11:17:13Z
+v0.8.0,2020-12-16T17:40:49Z,d8aff53771a228ac0cba978c0d4904d371942b7f,Sort changelog.,chriseth,2020-12-16T11:05:28Z
+v0.8.0,2020-12-16T17:40:49Z,b764e06c762db1219e3c3e059c9d501ea1065aeb,Merge pull request #10621 from ethereum/smt_fix_breaking_again,Alex Beregszaszi,2020-12-15T20:30:37Z
+v0.8.0,2020-12-16T17:40:49Z,59428b8f76e2c3300f445e05046bbc0174f84d78,Fix SMTChecker tests on breaking,Leonardo Alt,2020-12-15T18:49:57Z
+v0.8.0,2020-12-16T17:40:49Z,3881d223b033dd270c92be28478386a78306887f,Merge pull request #10617 from ethereum/codegen-fixed-assert,chriseth,2020-12-15T18:25:51Z
+v0.8.0,2020-12-16T17:40:49Z,cad4f740126e5cfc171b74c4795de8ccbe6fdeb8,Unary minus is not implemented for fixed point type,Alex Beregszaszi,2020-12-11T23:54:14Z
+v0.8.0,2020-12-16T17:40:49Z,17293858c0a524badbdf35ecaaa6c9832a43dc45,Merge pull request #10326 from ethereum/unicode-directional-marks,chriseth,2020-12-15T17:54:29Z
+v0.8.0,2020-12-16T17:40:49Z,381c63ec9944cbb691399409398e9fbb3a206c6d,Scanner: Generate error on inbalanced RLO/LRO/PDF override markers.,Christian Parpart,2020-11-18T13:35:16Z
+v0.8.0,2020-12-16T17:40:49Z,6c7e6a3c9f89de5f0d949118e0085a6ae10a2bac,Merge pull request #10615 from ethereum/develop,chriseth,2020-12-15T17:34:01Z
+v0.8.0,2020-12-16T17:40:49Z,53368eff9b744a57f92fc0f9e39ae7f418f3478f,Merge pull request #10604 from ethereum/strict-address-payable,chriseth,2020-12-15T17:25:31Z
+v0.8.0,2020-12-16T17:40:49Z,67b7267735e89238d652a06dcaf5dc6423dec61a,Merge pull request #10613 from ethereum/fix-10609,chriseth,2020-12-15T17:21:54Z
+v0.8.0,2020-12-16T17:40:49Z,b45a5d76058fbca6cd95aa259a700e1675e8de74,Asmanalysis: Add test case that demonstrates bug,Bhargava Shastry,2020-12-15T16:57:11Z
+v0.8.0,2020-12-16T17:40:49Z,1521e9e4d52f1fd202542b00fbcf2184afe1b979,Merge pull request #10611 from ethereum/fix-10609,chriseth,2020-12-15T15:42:27Z
+v0.8.1,2021-01-27T13:00:27Z,df193b15c2dfb4ea10b2c2fb4c2baea953edb138,Merge pull request #10852 from ethereum/setReleaseDate,chriseth,2021-01-27T12:12:43Z
+v0.8.1,2021-01-27T13:00:27Z,490dc09fd4ba6abdf87b375df51455ca245eeb64,Set release date for 0.8.1.,chriseth,2021-01-27T10:29:46Z
+v0.8.1,2021-01-27T13:00:27Z,34fa756fcf9b7d56d914008c7505c3acfb0f165d,Merge pull request #10853 from ethereum/fix-comment-breaking-build-emscripten-sh,chriseth,2021-01-27T10:51:17Z
+v0.8.1,2021-01-27T13:00:27Z,b1f2d2994c38e50e174f71366373f2a73cf38084,Fix badly placed comment in build_emscripten.sh,Kamil Śliwak,2021-01-27T10:46:46Z
+v0.8.1,2021-01-27T13:00:27Z,53f9a114408c9f73594a942f7b1b8289fa4f1376,"prepare_report: Handle internal compiler errors in Standard JSON as errors, not missing bytecode",Kamil Śliwak,2020-12-21T20:16:35Z
+v0.8.1,2021-01-27T13:00:27Z,f7007ea324771addff6064e30aa8ef0acf2a647d,Add CLI version of bytecode compare to existing CI jobs,Kamil Śliwak,2020-12-22T09:08:04Z
+v0.8.1,2021-01-27T13:00:27Z,7f19339934af13248adffadebcb8fb539ddbf92a,prepare_report.py: Add support for switching between CLI and Standard JSON compiler interfaces,Kamil Śliwak,2020-12-22T02:03:17Z
+v0.8.1,2021-01-27T13:00:27Z,38d1ec3efe2932302b4555f0e5df83d7c6e9d902,Merge pull request #10835 from blishko/smt-assembly,Leonardo,2021-01-26T21:35:25Z
+v0.8.1,2021-01-27T13:00:27Z,6eebd6538c665a18b704b5b92dac685e4828a5a2,Merge pull request #10834 from ethereum/solidity-generator-test-source-pragma,Bhargava Shastry,2021-01-26T17:16:46Z
+v0.8.1,2021-01-27T13:00:27Z,484e67815af9f9679e6e8d8cc1abb28323957c74,[SMTChecker] Basic support for inline assembly using over-approximating analysis,Martin Blicha,2021-01-18T09:37:09Z
+v0.8.1,2021-01-27T13:00:27Z,be733d5f61d5a661fc5e1fec22bb1190c2d26ef7,Reorganized code for better readability.,Bhargava Shastry,2021-01-26T15:11:18Z
+v0.8.1,2021-01-27T13:00:27Z,f5e0faaa37998bd828d3b2357bbb888ff0fabb07,Add documentation and/or comments.,Bhargava Shastry,2021-01-25T13:01:43Z
+v0.8.1,2021-01-27T13:00:27Z,d7e3d3f75f8496b6a69fc02a54a9f976a0376516,Add visitors for automatic test case generation.,Bhargava Shastry,2021-01-21T16:53:22Z
+v0.8.1,2021-01-27T13:00:27Z,2f2d2224b18f9b86008a96e88ce615ae6ee300f9,Merge pull request #10849 from ethereum/fixMergeConflict,chriseth,2021-01-26T14:14:08Z
+v0.8.1,2021-01-27T13:00:27Z,e9dc9c5baf6d5657d5cafd79c9053b3baae1472f,Fix merge conflict.,chriseth,2021-01-26T12:53:22Z
+v0.8.1,2021-01-27T13:00:27Z,c35fdda2ec8082f8e2c34ed8466271e431750176,Merge pull request #10844 from ethereum/smt_z3_docker_4_18_10,Leonardo,2021-01-26T12:05:50Z
+v0.8.1,2021-01-27T13:00:27Z,4697beeab2742a09f15de25228d4493dcf3282d1,Merge pull request #10769 from ethereum/allocationCleanup,chriseth,2021-01-26T10:58:11Z
+v0.8.1,2021-01-27T13:00:27Z,6488dd5b96ae02262d5893f48daebbfa2b3ab2ba,Merge pull request #10843 from ethereum/updatez3ppa,Leonardo,2021-01-26T10:40:30Z
+v0.8.1,2021-01-27T13:00:27Z,fbfcb4e71ddd31f952a67d9eedb3d9d2ea9d92aa,Bump docker for z3 4.8.10,Leonardo Alt,2021-01-25T10:50:05Z
+v0.8.1,2021-01-27T13:00:27Z,22ad64a0fdcc4886b043dc73e38bf23b9c13192b,Merge pull request #10845 from ethereum/smt_z3_4-8-10,Leonardo,2021-01-26T10:37:03Z
+v0.8.1,2021-01-27T13:00:27Z,b01110ee16baad1dfa3dc231d9802efd32739780,Merge pull request #10803 from ethereum/shortcut-code-length,chriseth,2021-01-26T10:20:22Z
+v0.8.1,2021-01-27T13:00:27Z,133bc729708d07ab4eb72fd9e00d817a294f0926,Tests and changelog for <address>.code.length shortcut,hrkrshnn,2021-01-21T19:28:35Z
+v0.8.1,2021-01-27T13:00:27Z,526ceec152865fef225e919a8d486664a16f3762,Implement IR shortcut for <address>.code.length,hrkrshnn,2021-01-21T19:26:01Z
+v0.8.1,2021-01-27T13:00:27Z,d6d880dc53c8615589b3077ba5339376ade92089,Old codegen: implemented shortcut for <address>.code.length,hrkrshnn,2021-01-21T19:28:06Z
+v0.8.1,2021-01-27T13:00:27Z,40221a90c41fe626ced3c0e93323fdec4ac76c51,Update smtCheckerTests for z3 4.8.10,Leonardo Alt,2021-01-25T11:03:06Z
+v0.8.1,2021-01-27T13:00:27Z,2bf85ea44f0f082e0f642fc6d4521d2a6e53ce5c,Merge pull request #10848 from ethereum/sortChangelog,chriseth,2021-01-26T08:57:51Z
+v0.8.1,2021-01-27T13:00:27Z,fbd10585c5220f416510060b641bfb7444a0a2af,Sort changelog.,chriseth,2021-01-26T08:25:54Z
+v0.8.1,2021-01-27T13:00:27Z,de0a3b989d09cdaa3545b325c66b75e0bf9137ce,Merge pull request #10783 from ethereum/circular-constant-variable,chriseth,2021-01-26T08:24:24Z
+v0.8.1,2021-01-27T13:00:27Z,ec57c791ef9dbf649f92169dfd7b68cedaafcc51,Fix infinite loop when accessing circular constants from inline assembly.,hrkrshnn,2021-01-15T15:05:40Z
+v0.8.1,2021-01-27T13:00:27Z,9fc3d8861793360ced59cf479f231d23cf510e60,Merge pull request #10826 from ethereum/issue-10821,chriseth,2021-01-26T08:16:13Z
+v0.8.2,2021-03-02T19:28:44Z,ed95becb29807855d51164fb507c4af0885665ac,Set version to 0.8.3.,chriseth,2021-03-02T16:55:06Z
+v0.8.2,2021-03-02T19:28:44Z,661d11035b871aa1624bf568e3d476ef1bf25895,Merge pull request #11029 from ethereum/setreleasedatefor082,chriseth,2021-03-02T15:54:34Z
+v0.8.2,2021-03-02T19:28:44Z,26d8ee2f8603374d961e2371257d8b96d5a1fc41,Set release date and sort changelog.,chriseth,2021-03-02T13:08:54Z
+v0.8.2,2021-03-02T19:28:44Z,cc88fd25e95436d8e2d684d637cfc76683e65b82,Merge pull request #11016 from ethereum/customNatspec,chriseth,2021-03-02T15:53:44Z
+v0.8.2,2021-03-02T19:28:44Z,ecdeb417c5198910023a3e2fe0f90996d9c12fd8,Documentation.,chriseth,2021-03-02T15:12:12Z
+v0.8.2,2021-03-02T19:28:44Z,d2023f5f95d272e5125bdd834c1930d0507f645e,Check for invalid tags.,chriseth,2021-03-01T16:13:28Z
+v0.8.2,2021-03-02T19:28:44Z,5690020d88e314986cbfd06e2cb373592803cbf3,Allow custom natspec tags.,chriseth,2021-02-25T12:57:34Z
+v0.8.2,2021-03-02T19:28:44Z,2a25d04896d28130caaddbc29ee7e25e9b1d3ace,Merge pull request #11023 from ethereum/natspecparsinglocations,chriseth,2021-03-02T13:03:42Z
+v0.8.2,2021-03-02T19:28:44Z,ce5c5970d60fa29c229454c78d19982f963d083a,Merge pull request #11015 from ethereum/fixSelectorForInternal,chriseth,2021-03-02T11:24:53Z
+v0.8.2,2021-03-02T19:28:44Z,ad48b71318e23781b88f602281e865694068343d,Merge pull request #10899 from ethereum/evmhost_storage_trace,Bhargava Shastry,2021-03-01T21:06:16Z
+v0.8.2,2021-03-02T19:28:44Z,e96a3e01f852134bc5911424cedef445d8dba75b,EVMHost: Add function to print storage at all addresses in the host.,Bhargava Shastry,2021-02-02T13:08:12Z
+v0.8.2,2021-03-02T19:28:44Z,069ac9c9a9962fd8524a1e3b41d51c4837efaca8,Merge pull request #10878 from ethereum/refactor-solProtoFuzzer,Bhargava Shastry,2021-03-01T18:56:10Z
+v0.8.2,2021-03-02T19:28:44Z,f4050e81c60f6e7f6644de873246ec2a48f2481a,Provide locations for docstring parsing errors.,chriseth,2021-03-01T15:54:21Z
+v0.8.2,2021-03-02T19:28:44Z,5e94fce7dfcd86ac392168d9cb185a2dd868b13f,Provide selector for some internal functions.,chriseth,2021-02-25T10:54:09Z
+v0.8.2,2021-03-02T19:28:44Z,44493ad42813f700cbee3cfd5389be105ff3e5d9,Merge pull request #11014 from ethereum/fixConstantsCallGraph,chriseth,2021-02-25T16:05:22Z
+v0.8.2,2021-03-02T19:28:44Z,186d14d97fd1b306594b7d742557ea11d4a95ac6,"FunctionCallGraph: Tests for constants, immutables and accessing function selectors",Kamil Śliwak,2021-02-25T12:26:39Z
+v0.8.2,2021-03-02T19:28:44Z,16db3a84f12b5e78fba410dbc7c6b231fabce4b9,Fix call graph with respect to constants.,chriseth,2021-02-25T10:46:59Z
+v0.8.2,2021-03-02T19:28:44Z,eacf7c1cf98ea85c7acb97edd29c0f062940b96a,Merge pull request #11009 from ethereum/properlyParseAddressMember,chriseth,2021-02-24T16:12:00Z
+v0.8.2,2021-03-02T19:28:44Z,3d97e9a77b6103639d9f9406b27241a41bed389b,Properly parse address member.,chriseth,2021-02-24T15:28:13Z
+v0.8.2,2021-03-02T19:28:44Z,b0cc181c34d81e08493a9a865d5c063aa1b6dbac,Merge pull request #11004 from ethereum/mappingAccessMultiSlot,chriseth,2021-02-24T15:32:08Z
+v0.8.2,2021-03-02T19:28:44Z,5e9637bc39f0ea209742aff0ad6bd3b15d57f614,Mapping access with multi-slot keys.,chriseth,2021-02-24T12:44:23Z
+v0.8.2,2021-03-02T19:28:44Z,2d48052ae50017bc41d8c85f1628b97352e73dcb,Merge pull request #11003 from ethereum/ir-bug-incorrect-return-variable-count,chriseth,2021-02-24T12:24:31Z
+v0.8.2,2021-03-02T19:28:44Z,6bc9056ced45c103358b8530cb958e86451dfaeb,Merge pull request #11000 from ethereum/fix-isdynamicallyencoded-for-structs-containing-internal-types,chriseth,2021-02-24T12:20:51Z
+v0.8.2,2021-03-02T19:28:44Z,2c2c7a4473f8348766760febbba5cb401abfc990,Fix IR bug on deleting storage variables of function type.,hrkrshnn,2021-02-24T10:48:55Z
+v0.8.2,2021-03-02T19:28:44Z,e87cd0afdfe37702d2a64037ef18254a2455684c,Check that there is an interface type before querying validity of location.,Kamil Śliwak,2021-02-23T15:43:29Z
+v0.8.2,2021-03-02T19:28:44Z,58e09776470787e2f9e6052e0d7c29d8bcc1374c,Merge pull request #10994 from ethereum/remove-remains-of-ast-json-option,Harikrishnan Mulackal,2021-02-24T09:21:30Z
+v0.8.2,2021-03-02T19:28:44Z,1220d8df7b364cd150626ee75522fe289bd01219,Merge pull request #10998 from ethereum/clean-up-function-external-type-tests,chriseth,2021-02-23T16:59:26Z
+v0.8.2,2021-03-02T19:28:44Z,e33c058a60973597e76c448630eeefc261e8332e,Merge pull request #10896 from ethereum/issue-10870,chriseth,2021-02-23T16:49:17Z
+v0.8.2,2021-03-02T19:28:44Z,92b52cbf84c37f2961814a029d1a93725e2b3dc2,Merge pull request #10999 from ethereum/hash-collision-throw,chriseth,2021-02-23T16:33:41Z
+v0.8.2,2021-03-02T19:28:44Z,66d6d20f65e8f2d49f0e027073f7f2ca6e8727d4,Converted hash collision error into a fatal type error.,hrkrshnn,2021-02-23T16:00:44Z
+v0.8.3,2021-03-23T12:35:16Z,f9182e9f8831d9a9fce3139793a5d6059e628efa,Minor changes to Solidity compilation framework fuzzer.,Bhargava Shastry,2021-03-23T12:15:11Z
+v0.8.3,2021-03-23T12:35:16Z,8d00100c4e9d211830a5dbf6a1f964d98648480d,Merge pull request #11140 from ethereum/prepare083,chriseth,2021-03-23T11:56:28Z
+v0.8.3,2021-03-23T12:35:16Z,a32e2e2130b698bc64925bb53e0e7da89832bd3f,Prepare changelog for 0.8.3.,chriseth,2021-03-23T11:16:17Z
+v0.8.3,2021-03-23T12:35:16Z,145a03bdd6b4a787b9bb05a97de4967ee230a059,Run SMTChecker tests on all EVM versions,Martin Blicha,2021-03-23T11:19:34Z
+v0.8.3,2021-03-23T12:35:16Z,88d340f279f6c338dde6b2d551fe5aba547a2ae0,Merge pull request #11134 from ethereum/fix-keccak-bug,chriseth,2021-03-23T11:15:30Z
+v0.8.3,2021-03-23T12:35:16Z,e197ebbdd1baedf0c95041dc4d964176bc5a8ace,Replace `TypePointer` with `Type const*`,Mathias Baumann,2021-03-22T16:12:05Z
+v0.8.3,2021-03-23T12:35:16Z,30e08ee3a538aab9873c86c580424e9b6760ebcf,Changelog and test for the KeccakCaching bug,hrkrshnn,2021-03-22T09:05:13Z
+v0.8.3,2021-03-23T12:35:16Z,2ecb20589bb4099ac7ee9afd50da254e3bf28104,Fix bug about incorrect caching on Keccak256 hashes,hrkrshnn,2021-03-22T08:39:19Z
+v0.8.3,2021-03-23T12:35:16Z,21e365321dd1ee0e3d56aa3bd159ae5764768ae3,Merge pull request #11137 from ethereum/disableNodiscardBimap,chriseth,2021-03-23T09:47:01Z
+v0.8.3,2021-03-23T12:35:16Z,f38274d94da2d4a0c6abea12e5228b1f30f38b31,Disable nodiscard warning.,chriseth,2021-03-22T17:52:52Z
+v0.8.3,2021-03-23T12:35:16Z,54cea090bf12908119a544f71feec6472e1682b0,Merge pull request #11124 from ethereum/extend-callgraph,chriseth,2021-03-22T14:45:55Z
+v0.8.3,2021-03-23T12:35:16Z,bccedf791bf0561766d01480666c8bffb24a6dbd,Add creationCode/runtimeCode contract creation detection to call graph,Mathias Baumann,2021-03-11T14:22:33Z
+v0.8.3,2021-03-23T12:35:16Z,8c583784c019f4daec908f100a38918ab7c39b6c,Merge pull request #11133 from ghidello/develop,chriseth,2021-03-22T14:02:34Z
+v0.8.3,2021-03-23T12:35:16Z,66729a4ffe4c11fc24a0f89e0d524d497d548cd1,Merge pull request #11075 from ethereum/smt_tutorial,Leonardo,2021-03-22T10:46:36Z
+v0.8.3,2021-03-23T12:35:16Z,b37723dc36bc25db386ab97373446311c4b58d20,[DOCS] Update OpenZeppelin's ECDSA contract URL,ghidello,2021-03-21T10:38:04Z
+v0.8.3,2021-03-23T12:35:16Z,6e1d61a232369e18b5d502f60ebd84ff83973237,Merge pull request #11089 from ethereum/optimizeMulByConstantToShift,chriseth,2021-03-18T11:59:51Z
+v0.8.3,2021-03-23T12:35:16Z,569afe711aa2d1902b2e726cb0b29c25e50ed30d,SMTChecker tutorial and docs cleanup,Leonardo Alt,2021-03-09T10:34:55Z
+v0.8.3,2021-03-23T12:35:16Z,d18db638438525313e1d1c97b07a30ba2b1cc15b,Changelog entry.,chriseth,2021-03-11T13:51:35Z
+v0.8.3,2021-03-23T12:35:16Z,baf2ff2a6e95961feccd56a00d633764d80f9fd6,Proof.,chriseth,2021-03-11T11:31:30Z
+v0.8.3,2021-03-23T12:35:16Z,2c8540b1f9191cbff4b8aea6495de407b49d327b,Yul optimizer test updates.,chriseth,2021-03-11T11:18:50Z
+v0.8.3,2021-03-23T12:35:16Z,7aa51bcb40578a95edc482ab1a4d4306725b11d3,Test updates.,chriseth,2021-03-11T11:17:50Z
+v0.8.3,2021-03-23T12:35:16Z,4bfa7e088e677bfa81c26148a69c89c359e13d1d,Optimize multiplication by constant to shift.,chriseth,2021-03-11T10:30:22Z
+v0.8.3,2021-03-23T12:35:16Z,e179d0aa4d3a3939d1b48e40b96aaf865d1a0a61,Merge pull request #11121 from ethereum/doc-natspec,chriseth,2021-03-17T16:25:48Z
+v0.8.3,2021-03-23T12:35:16Z,b477a7d16375d426648389d47859179c252b902b,Document the version/kind fields in the natspec documentation,Alex Beregszaszi,2021-03-17T16:02:40Z
+v0.8.3,2021-03-23T12:35:16Z,25b31111dff43cdf185e7339d410dfa33630acfc,Merge pull request #11040 from ethereum/smt_fix_virtual_one_more_time,Leonardo,2021-03-17T15:54:36Z
+v0.8.3,2021-03-23T12:35:16Z,278053b4f2546dcd27125f7d241e24a6bf8715b8,Merge pull request #11117 from ethereum/gasmeter-fix-creation-calculation,chriseth,2021-03-17T12:15:12Z
+v0.8.3,2021-03-23T12:35:16Z,6d9e9e1b1e06c820543a14afad21a12e9270a777,Fix small bug in GasMeter calculation in creation context,hrkrshnn,2021-03-17T10:12:28Z
+v0.8.3,2021-03-23T12:35:16Z,35da404ca91f3c3408657d50440773b0faaefb93,Merge pull request #11091 from ethereum/modifierInvocationAST,Harikrishnan Mulackal,2021-03-16T18:44:40Z
+v0.8.3,2021-03-23T12:35:16Z,6d8366967bb41a9a2155c0789234482f567be50f,Merge pull request #11112 from blishko/smt-small-refactor,Leonardo,2021-03-16T18:02:16Z
+v0.8.3,2021-03-23T12:35:16Z,05194730596defb41a02503538fe1f9ecd538ff7,"Add ""kind"" field to ModifierInvocation AST json element.",chriseth,2021-03-11T13:39:27Z
+v0.8.4,2021-04-21T13:51:48Z,c7e474f243fa6bd6d6c172118b95d52113b5fbad,Merge pull request #11279 from ethereum/changelog084,chriseth,2021-04-21T13:09:37Z
+v0.8.4,2021-04-21T13:51:48Z,3aad6b239cdcea4edcdf5e02417b5632148c55bc,Prepare changelog for 0.8.4.,chriseth,2021-04-21T08:24:38Z
+v0.8.4,2021-04-21T13:51:48Z,7bbf3a694b32139aeb3c1ac120f2d76b98fa7d90,Merge pull request #11261 from ethereum/smt_choose_target,Leonardo,2021-04-21T11:11:33Z
+v0.8.4,2021-04-21T13:51:48Z,c3d73982ea3a8e066d75faedf9f553f3d6ff74fc,Merge pull request #11268 from ethereum/refactorByteArrayPopSol2Yul,chriseth,2021-04-21T11:05:00Z
+v0.8.4,2021-04-21T13:51:48Z,e2120f1f2fa452321f9e19b14eb0f75597a5b4b0,Merge pull request #11272 from ethereum/replace-boost-with-rangev3-solgen,chriseth,2021-04-21T10:21:57Z
+v0.8.4,2021-04-21T13:51:48Z,d03744489f7d709880286eb038fc03fe0dee93c4,Update cmdline tests.,Djordje Mijovic,2021-04-21T08:58:48Z
+v0.8.4,2021-04-21T13:51:48Z,9fcf16900d63335cee1db8d247f2ebe74d4e1ee3,Update gas costs in smeantic tests.,Djordje Mijovic,2021-04-20T16:34:23Z
+v0.8.4,2021-04-21T13:51:48Z,0dd59fa0a2ef067ee35c2620c405bac962c5d357,[Sol->Yul] Remove index access from byte array pop function to optimize it.,Djordje Mijovic,2021-04-20T16:06:06Z
+v0.8.4,2021-04-21T13:51:48Z,dd1865873e2b399d48bf0459276dfc6e6c600e2e,Choose contracts to be analyzed by the SMTChecker,Leonardo Alt,2021-04-15T10:31:45Z
+v0.8.4,2021-04-21T13:51:48Z,c3f639b355ef94b4db43998f3e305369f6a49b45,Merge pull request #11277 from ethereum/isoltest-trivial-reformatting,chriseth,2021-04-21T08:01:33Z
+v0.8.4,2021-04-21T13:51:48Z,69dd1771b7732720b4efb5838423a9e6f6a9bd0b,Remove as many boost usages as possible in protoToYul.cpp,Bhargava Shastry,2021-02-04T17:07:13Z
+v0.8.4,2021-04-21T13:51:48Z,417727056282748cee6e3e4227f390b95a6ab66f,Trivial isoltest updates: comments always on the same line,Alex Beregszaszi,2021-03-12T23:02:36Z
+v0.8.4,2021-04-21T13:51:48Z,1be07c2b3642401d1fffa4ee13ec82a85ac6baa2,Trivial isoltest updates: missing // ---- at the end,Alex Beregszaszi,2021-03-12T23:02:36Z
+v0.8.4,2021-04-21T13:51:48Z,84c05d35f3188ef72d86a342c554936148e35e8f,Trivial isoltest updates: normalized whitespace,Alex Beregszaszi,2021-03-12T23:02:36Z
+v0.8.4,2021-04-21T13:51:48Z,45c6bbe02b67e7706b0530ccf2eea747589555a1,Trivial isoltest updates: directives sorted alphabetically,Alex Beregszaszi,2021-03-12T23:02:36Z
+v0.8.4,2021-04-21T13:51:48Z,cf7f814a4e08484bf8738c80be839cb1f25de129,Merge pull request #10921 from ethereum/issue-10881,chriseth,2021-04-20T13:33:48Z
+v0.8.4,2021-04-21T13:51:48Z,159d6f9efa639c835a4f28a659e3b91079b77d57,Merge pull request #11222 from ethereum/smt_free_functions,Leonardo,2021-04-19T19:25:05Z
+v0.8.4,2021-04-21T13:51:48Z,a39a6e26daf7e33053c4e8b02101f7e894745a3d,update tests,Leonardo Alt,2021-04-19T16:02:48Z
+v0.8.4,2021-04-21T13:51:48Z,80892c8a21c84494dc7d1c3b5b3f0fc57509e567,Fix nondeterminism,Leonardo Alt,2021-04-12T13:54:14Z
+v0.8.4,2021-04-21T13:51:48Z,db1b630de54f5466143b1b3a35fd49d4053a4ff5,Changelog,Leonardo Alt,2021-04-12T11:48:31Z
+v0.8.4,2021-04-21T13:51:48Z,36def3ef6ef3dce9687f3d61ecabbe3cd226a0a6,tests for free constants,Leonardo Alt,2021-04-12T11:47:24Z
+v0.8.4,2021-04-21T13:51:48Z,fd8b4afb76e2bd42d591e84e41657907128dd4df,new free function tests,Leonardo Alt,2021-04-08T19:41:35Z
+v0.8.4,2021-04-21T13:51:48Z,095d33714086880ded0f2ce2c7a8e4493e379613,Basic support to free constants,Leonardo Alt,2021-04-07T16:53:56Z
+v0.8.4,2021-04-21T13:51:48Z,6ae82fcec2cbae20f2f8481ce5f2c2dd28df972e,Add tests for the library bug,Leonardo Alt,2021-04-07T15:16:31Z
+v0.8.4,2021-04-21T13:51:48Z,4e343590635f98f7c1d0973e82f9bafc67e03466,Basic support to free functions,Leonardo Alt,2021-04-07T12:52:56Z
+v0.8.4,2021-04-21T13:51:48Z,6a0a51110df42467fc43a48433d857db4c780d6a,Merge pull request #11256 from ethereum/smt_target_array,chriseth,2021-04-19T16:47:06Z
+v0.8.4,2021-04-21T13:51:48Z,8d169d36152b9e3c8c3edca4981479bdfc86d163,Merge pull request #11236 from ethereum/fix-allowed-paths-with-stdin,chriseth,2021-04-19T16:03:05Z
+v0.8.4,2021-04-21T13:51:48Z,e3abde43f58e8290b86886d192a72c771f608d26,Change settings.modelChecker.targets to take an array instead of string,Leonardo Alt,2021-04-14T10:56:43Z
+v0.8.4,2021-04-21T13:51:48Z,0d4871ad105f7a41b6e5d624e4fdc5ebca37d07e,Prevent adding '-' CLI flag to allowed paths as if it was an actual file,Kamil Śliwak,2021-04-10T14:54:58Z
+v0.8.4,2021-04-21T13:51:48Z,6ef7e39e46a0ac082ce1b3ee67872fa249d26b62,Merge pull request #11267 from ethereum/test_osx_cache,chriseth,2021-04-19T14:54:12Z
+v0.8.5,2021-06-10T12:02:58Z,a4f2e591fe55900f86ab72fad37d03af7dfa638e,Merge pull request #11505 from ethereum/prepareChanegloge367,chriseth,2021-06-10T11:04:38Z
+v0.8.5,2021-06-10T12:02:58Z,a10d9329914c8d06e0c9c5cc6b8bbed5736a0c69,Update bug list.,chriseth,2021-06-10T09:08:03Z
+v0.8.5,2021-06-10T12:02:58Z,45bb1e881abdf4715f018737330bd8415f736499,Sort changelog.,chriseth,2021-06-09T10:21:26Z
+v0.8.5,2021-06-10T12:02:58Z,9a847deaee5ef86044fae731c7fc9801c61655a8,adopt cameel's version,QQ喵,2021-06-10T01:13:27Z
+v0.8.5,2021-06-10T12:02:58Z,98e7b61a378467116bd5dfdd8d1455a60ef26d2e,Merge pull request #11510 from ethereum/removeNondeterministicTest,Daniel Kirchner,2021-06-09T13:42:08Z
+v0.8.5,2021-06-10T12:02:58Z,284e8a103fa76c304d2af1f82b453300ba742147,Remove potentially non-deterministic test case.,Daniel Kirchner,2021-06-09T12:42:16Z
+v0.8.5,2021-06-10T12:02:58Z,e5500b9f2093deef9332d379f0939354080fc749,Merge pull request #11471 from ethereum/funcdef-unimplemented-modifier,chriseth,2021-06-09T11:54:05Z
+v0.8.5,2021-06-10T12:02:58Z,0fff4e6743e9ab8ab026ba2e5fc63259a4061881,Merge pull request #10908 from a3d4/fix-9231-struct-member-names-shadow-type-names,chriseth,2021-06-09T11:20:52Z
+v0.8.5,2021-06-10T12:02:58Z,a14ac1923d3a4380b7972d142cd01b857c586c4c,Fixes ICE when overriding an implemented modifier with an unimplemented one.,Christian Parpart,2021-06-09T09:54:09Z
+v0.8.5,2021-06-10T12:02:58Z,362fc6650d6a9dd15f1e034f6e7da9dd1fac6b79,Extra tests for shadowing within function parameter lists,Kamil Śliwak,2021-05-11T15:04:52Z
+v0.8.5,2021-06-10T12:02:58Z,f59145f21f0130ff02124fafb0f9f700a75aec61,Fix shadowing struct types by struct member names,a3d4,2021-02-08T04:50:58Z
+v0.8.5,2021-06-10T12:02:58Z,70b8b1c8345db0378c7cdaa631f77d9a6b3da0da,Do not warn about shadowing parameters in functions without implementation,a3d4,2021-02-08T04:50:58Z
+v0.8.5,2021-06-10T12:02:58Z,edee67b4cc57636aec0fc82fb85a794a7aee126b,Merge pull request #11503 from ethereum/issue-11501,chriseth,2021-06-09T10:24:03Z
+v0.8.5,2021-06-10T12:02:58Z,8de575f738518f9401b6927e4d35dbce16380a14,Merge pull request #11442 from ethereum/path-resolution-docs-current-state-v2,chriseth,2021-06-09T09:27:21Z
+v0.8.5,2021-06-10T12:02:58Z,001a25db953d21b85590e0235dcad9ca461afae7,Fix crash in ControlFlowGraph related to free functions.,Mathias Baumann,2021-06-08T17:37:48Z
+v0.8.5,2021-06-10T12:02:58Z,5e3788874bdbd45b2dbdb3d33b29ad186716b3ff,"Detailed documentation for path resolution in imports, including remappings, base path and standard input",Kamil Śliwak,2021-03-15T12:20:03Z
+v0.8.5,2021-06-10T12:02:58Z,e77e9e449e372d351e8550670216f51b818d0bf0,Merge pull request #11499 from ethereum/callGraphInfiniteConstant,chriseth,2021-06-08T16:43:13Z
+v0.8.5,2021-06-10T12:02:58Z,fe35512febff0a5453d14fe8e00dfee7dbbe712a,Remove EVMAssembly.,chriseth,2021-06-08T16:41:22Z
+v0.8.5,2021-06-10T12:02:58Z,3eaa37030a10c74a0d5d046f165ce84864dec068,Fix infinite recursion in function call graph generator due to recursive constant references.,chriseth,2021-06-08T10:43:43Z
+v0.8.5,2021-06-10T12:02:58Z,215bbe2e6da7e2b783f04ba10c4d745fbd8c0c7f,Merge pull request #11498 from ethereum/script_gas_test,Harikrishnan Mulackal,2021-06-08T11:07:42Z
+v0.8.5,2021-06-10T12:02:58Z,a4fd7c56a45d18e1cd0f19df0f7d643f06f80350,A script to summarize gas differences from isoltest for PRs.,hrkrshnn,2021-06-08T09:27:38Z
+v0.8.5,2021-06-10T12:02:58Z,aa37cc526afeee7865fcfa8d983660b764beea6f,can not prefix with ``this.``,QQ喵,2021-06-08T07:09:18Z
+v0.8.5,2021-06-10T12:02:58Z,7d8a4e63d84f548dbb3409f761fb2e92936c9057,Merge pull request #11491 from TerranCivilian/fix-10269,chriseth,2021-06-07T18:15:20Z
+v0.8.5,2021-06-10T12:02:58Z,c15501eea9cdda30e4fccd04dec8702d84afc2fa,Remove unneeded include files,TerranCivilian,2021-06-05T15:44:28Z
+v0.8.5,2021-06-10T12:02:58Z,e3e6729f2214cd93a5ddccb54c538914bacf11ff,Merge pull request #11481 from ethereum/unify-resolve,chriseth,2021-06-07T14:54:13Z
+v0.8.5,2021-06-10T12:02:58Z,ad3bc71f270bcec6dd0f5309562496636da4f09f,Merge pull request #11455 from ethereum/issue-11381,chriseth,2021-06-07T14:51:37Z
+v0.8.5,2021-06-10T12:02:58Z,6a0313c456eb41de597aabe956c66b9b4cc3ae4e,Unify function call resolve function used in Analysis & Yul CodeGen,Mathias Baumann,2021-06-03T11:09:13Z
+v0.8.5,2021-06-10T12:02:58Z,354f9d101530d38faaeaaf12382bf95e053e21e3,Fix: Allow multiple @return tags on public state variables,Mathias Baumann,2021-05-26T15:37:49Z
+v0.8.5,2021-06-10T12:02:58Z,aae9d347aa7468a75d52590313b4912bbfdb4a09,Split DocStringParsing in two stages,Mathias Baumann,2021-05-26T15:37:49Z
+v0.8.5,2021-06-10T12:02:58Z,1f8f1a3db93a548d0555e3e14cfc55a10e25b60e,Merge pull request #11484 from ethereum/fix-unreachable-code-anaysis,chriseth,2021-06-04T10:44:35Z
+v0.8.6,2021-06-22T12:30:35Z,11564f7ec2d34f488e7f7946c1f19491a967370e,Merge pull request #11566 from ethereum/prepare086,chriseth,2021-06-22T11:30:55Z
+v0.8.6,2021-06-22T12:30:35Z,c502158c69a73dcc3f8d550bd1954885b8c2e3e0,Prepare release of 0.8.6.,chriseth,2021-06-22T08:47:34Z
+v0.8.6,2021-06-22T12:30:35Z,6324688ece3671df519cc3d50672c9bfee15f109,Merge pull request #11420 from ethereum/docs-sphinx-4-compatibility-fixes,chriseth,2021-06-22T09:02:34Z
+v0.8.6,2021-06-22T12:30:35Z,69714b28547c7549bbe9a46094e3acdae0182786,Merge pull request #11565 from ethereum/fix-isolate-tests-parsing-sphinx-block-parameters,chriseth,2021-06-22T09:01:16Z
+v0.8.6,2021-06-22T12:30:35Z,98c4830f2a9f1e03ecfbf6e22f3372e8748db539,docs/requirements.txt: Add minimum version for Sphinx,Kamil Śliwak,2021-05-20T19:55:19Z
+v0.8.6,2021-06-22T12:30:35Z,056e0d3751dc761c4ca1ece7fd33fedbb0bd81d2,docs: Suppress highlighting errors for snippets that cause errors in pygments-lexer-solidity,Kamil Śliwak,2021-05-20T19:19:33Z
+v0.8.6,2021-06-22T12:30:35Z,570ecf1cf193a278c123b577e7f33dedfa239362,Replace deprecated Sphinx mehods with newer equivalents,Kamil Śliwak,2021-05-20T19:04:51Z
+v0.8.6,2021-06-22T12:30:35Z,b7bbf6bd070dea5d5457541da660dc554ac546b2,docs/contributing.rst: Don't use the default Solidity highlighting for shell and text snippets,Kamil Śliwak,2021-05-20T19:00:44Z
+v0.8.6,2021-06-22T12:30:35Z,da40011d8c322e6b027095a35d760fb453cdda1f,Add generated robots.txt to .gitignore,Kamil Śliwak,2021-05-20T19:02:14Z
+v0.8.6,2021-06-22T12:30:35Z,0311b955c2b6824d18dad1047e05c745094e1524,isolate_tests.py: Parse Sphinx block parameters correctly,Kamil Śliwak,2021-06-21T18:53:21Z
+v0.8.6,2021-06-22T12:30:35Z,a96114b3c5654047d700c5b7f99245370a77781c,Merge pull request #11450 from ethereum/originSourceLocations,chriseth,2021-06-21T17:19:18Z
+v0.8.6,2021-06-22T12:30:35Z,838f59fa5b82a88bac9ea9a670112fa01220e27b,Adding origin location notation to yul ir.,Djordje Mijovic,2021-05-27T20:05:21Z
+v0.8.6,2021-06-22T12:30:35Z,921e21c7cb10153e806a07751c1fa9c02a66fee8,Merge pull request #11500 from ethereum/supportMetadataViaIR,chriseth,2021-06-21T16:35:20Z
+v0.8.6,2021-06-22T12:30:35Z,0df8a38e55dfdd93ab4c95c8bbe6924e64a226a3,Support metadata via IR.,chriseth,2021-06-08T14:35:37Z
+v0.8.6,2021-06-22T12:30:35Z,ff3eca4ccc216b360d02ceb8eadeaba4f82b148e,Merge pull request #11560 from patekuru/patch-1,chriseth,2021-06-21T08:05:50Z
+v0.8.6,2021-06-22T12:30:35Z,5787bc921d67724f4cc50b6839e05939f41c0f32,Update micropayment.rst,patekuru,2021-06-19T12:50:51Z
+v0.8.6,2021-06-22T12:30:35Z,112815862e996c6975cbae404a29c9f31851cd51,Merge pull request #11549 from TaldenV/update-path-resolution,Kamil Śliwak,2021-06-17T16:52:32Z
+v0.8.6,2021-06-22T12:30:35Z,1d48b686379be76541b10cc9504840a4169d1998,Edit for clarity,TaldenV,2021-06-17T14:33:08Z
+v0.8.6,2021-06-22T12:30:35Z,a695089fecd2b3168648fb14373aa76c736a13bb,Merge pull request #10866 from ethereum/ir-stack,chriseth,2021-06-17T14:16:05Z
+v0.8.6,2021-06-22T12:30:35Z,0e8e4eacd59194f66571e136e635e1921af392e5,Pass on assembly instance from AssemblyStack to CompilerStack,Alex Beregszaszi,2020-12-21T10:21:28Z
+v0.8.6,2021-06-22T12:30:35Z,6ae09ee0cc9b667fb6327fcbeaa173602119b1e2,Add AssemblyStack.assembleEVM which returns both deploy and runtime assemblies,Alex Beregszaszi,2021-04-22T14:08:51Z
+v0.8.6,2021-06-22T12:30:35Z,05e3e723f57390d25af95d8f08cd1d8c481d810a,Remove non-existing AssemblyStack.assembleAndGuessRuntime from header,Alex Beregszaszi,2021-04-22T13:57:58Z
+v0.8.6,2021-06-22T12:30:35Z,79794081eb310f5c384261459980b1c8f60bee6e,Extract assemble() from compileContract() in CompilerStack,Alex Beregszaszi,2021-06-15T13:48:59Z
+v0.8.6,2021-06-22T12:30:35Z,e0c2999e019b4f0527152edee8a8f15695e19788,Merge pull request #11546 from AlleghenyCrypto/update_dependency_script,chriseth,2021-06-17T10:53:52Z
+v0.8.6,2021-06-22T12:30:35Z,182ec685fea62aeab0170325f0f4a92a5dad630e,Updated install_deps.sh to handle Big Sur 11.3 and 11.4,Allegheny Crypto,2021-06-17T01:06:36Z
+v0.8.6,2021-06-22T12:30:35Z,e8ebfe49a1b0f7bcf6ea2caa105c115c68c40fe2,Merge pull request #11547 from ethereum/fix-develop-ci,Leonardo,2021-06-17T09:33:47Z
+v0.8.6,2021-06-22T12:30:35Z,d176716d478ac5dd380c073ad62a97a67571d8d9,Added extra commands that needs to be run before `brew update`,hrkrshnn,2021-06-17T08:34:57Z
+v0.8.6,2021-06-22T12:30:35Z,eb04dfcd3e109c909205b96e1d0f4d726281ca73,Updated expectation of FixedFeeRegistrar.sol,hrkrshnn,2021-06-17T08:08:31Z
+v0.8.6,2021-06-22T12:30:35Z,614683019bf4423b524da3cb7f442079358ce76c,Merge pull request #11426 from ethereum/test-fixedfee,chriseth,2021-06-16T16:34:10Z
+v0.8.6,2021-06-22T12:30:35Z,dbd80b3a8312b31529c9ae17a450c5433eac6519,Merge pull request #11541 from jgoodall628/patch-1,chriseth,2021-06-16T10:26:43Z
+v0.8.7,2021-08-11T12:55:33Z,e28d00a76daa0747f00ffe47cea17862bca55771,Merge pull request #11763 from ethereum/basefee-hasOpcode,Daniel Kirchner,2021-08-11T12:14:21Z
+v0.8.7,2021-08-11T12:55:33Z,98a259a92ded11e0ef76c381b574eced176386f1,Merge pull request #11784 from ethereum/set-release-date,Harikrishnan Mulackal,2021-08-11T10:52:37Z
+v0.8.7,2021-08-11T12:55:33Z,2c0c27c6d42689a7bec3544c10d0deefe6c543a8,Set the release date and updated bugs_by_version.json,hrkrshnn,2021-08-11T10:13:07Z
+v0.8.7,2021-08-11T12:55:33Z,3d33f212c826750bcf4321fe3ccfc9b884e64047,Merge pull request #11780 from ethereum/sort-changelog-0.8.7,Harikrishnan Mulackal,2021-08-11T09:43:57Z
+v0.8.7,2021-08-11T12:55:33Z,7b5595b0add29b9e1185c2f411bf68266009e013,Merge pull request #11775 from ethereum/docs-resources,Daniel Kirchner,2021-08-11T09:43:10Z
+v0.8.7,2021-08-11T12:55:33Z,990a072fe579700d4cfc2427017caf11a802dc52,Merge pull request #11782 from ethereum/smt_show_unproved_flag,Daniel Kirchner,2021-08-11T09:35:24Z
+v0.8.7,2021-08-11T12:55:33Z,a2e73d7896d8868c460b8888b1cd507acd219247,Update resources.rst,franzihei,2021-08-10T15:08:08Z
+v0.8.7,2021-08-11T12:55:33Z,8ce878621a254a20816e09f1172142ff308b9766,Make show unproved CLI a flag,Leo Alt,2021-08-11T08:54:03Z
+v0.8.7,2021-08-11T12:55:33Z,2577670e38581f39154fd102a2ff3ba11475a19a,Sort changelog for 0.8.7 release,hrkrshnn,2021-08-11T08:52:13Z
+v0.8.7,2021-08-11T12:55:33Z,892700d769ad23fd7cd252cd6f77044032cc27d5,Tests for basefee as identifier in inline assembly,hrkrshnn,2021-08-09T10:45:28Z
+v0.8.7,2021-08-11T12:55:33Z,7f1a2be0fee99531b5e9c0eca7dc1c70b9ffcaa0,Allow basefee as Yul identifier for EVMVersion < london,hrkrshnn,2021-08-09T10:40:14Z
+v0.8.7,2021-08-11T12:55:33Z,74ec3c19839d672f92130d6006645447bafe921d,Merge pull request #11760 from ethereum/default-evmversion-london,Harikrishnan Mulackal,2021-08-11T08:42:41Z
+v0.8.7,2021-08-11T12:55:33Z,0fc3e2dfb3c4825ac746bdcab5a2896a6f5778af,Merge pull request #11647 from ethereum/basefee,Harikrishnan Mulackal,2021-08-11T08:31:22Z
+v0.8.7,2021-08-11T12:55:33Z,11b80dc8ced1e9642ee620b8bbdd9b3489d97586,Updated changes in refunds: EIP-3529,hrkrshnn,2021-08-09T08:43:44Z
+v0.8.7,2021-08-11T12:55:33Z,79733fca48bc225f2306c0a12c141e606436466b,Set default EVM version to London.,hrkrshnn,2021-08-09T08:06:53Z
+v0.8.7,2021-08-11T12:55:33Z,43605d92992dfbd070c27851550cc78a82ae00e2,Tests and Changelog for basefee.,hrkrshnn,2021-07-12T14:51:56Z
+v0.8.7,2021-08-11T12:55:33Z,cb9b52c242dcccbab811eb37dd7c283367e0fa8d,Docs for block.basefee and basefee() in Yul.,hrkrshnn,2021-07-12T14:50:37Z
+v0.8.7,2021-08-11T12:55:33Z,13b269498a874f9efca392434c98b80f28788fa9,Merge pull request #11770 from ethereum/byte-equivalence,chriseth,2021-08-10T09:04:38Z
+v0.8.7,2021-08-11T12:55:33Z,a54addc2cb0ce689a2c06dde5f0d690d66742b3c,An equivalence check for the Byte opcode,hrkrshnn,2021-08-10T09:00:29Z
+v0.8.7,2021-08-11T12:55:33Z,74c804d87d6e10464c430fba169fa2ed328aba4a,Merge pull request #11765 from ethereum/fix_byte_formal,chriseth,2021-08-09T18:38:08Z
+v0.8.7,2021-08-11T12:55:33Z,f6789de9f8a5302919b03371e066fbc41d60744b,Fix implementation of BYTE,chriseth,2021-08-09T15:40:48Z
+v0.8.7,2021-08-11T12:55:33Z,af1dabb5554a22f9fae545451a9867f37d2520f6,Added EVMVersion london.,hrkrshnn,2021-07-12T14:50:16Z
+v0.8.7,2021-08-11T12:55:33Z,543ccf52871dfafd2d7880354c14968ad755d45f,Added the basefee instruction in YulInterpreter,hrkrshnn,2021-07-12T14:49:53Z
+v0.8.7,2021-08-11T12:55:33Z,95091f6b5892b556b3a2a151af147f60da0a74bf,Implemented `block.basefee` in Solidilty and `basefee()` in Yul.,hrkrshnn,2021-07-12T14:49:05Z
+v0.8.7,2021-08-11T12:55:33Z,d92b211a2f4e85fbf856736e318edb27c53286b7,Added the instruction basefee.,hrkrshnn,2021-07-12T14:48:18Z
+v0.8.7,2021-08-11T12:55:33Z,a356059461c733564db0f5416677c56819776f02,Merge pull request #11755 from ethereum/smt_default_no_overflow,Leonardo,2021-08-09T12:53:43Z
+v0.8.7,2021-08-11T12:55:33Z,ee6285d6d745b8e81407e47b5190ae9eba91c370,Do not create VCs for underoverflow by default for Sol >=0.8,Leo Alt,2021-07-07T10:31:09Z
+v0.8.7,2021-08-11T12:55:33Z,6ec711b2f09d133fe579ef298b501183205227db,Merge pull request #11667 from ethereum/z3PPAScriptUpdate,Daniel Kirchner,2021-08-09T10:06:57Z
+v0.8.7,2021-08-11T12:55:33Z,88b5be4224556dcb95520d89c576609e3c67d19d,Update Z3 version to 4.8.12 in PPA script and add static binary package.,Daniel Kirchner,2021-07-15T13:23:40Z
+v0.8.7,2021-08-11T12:55:33Z,ce0e0c48fb1a22e6bc13e60ddc2a176595f9b6e6,Merge pull request #11754 from ethereum/smt_fix_docs,Leonardo,2021-08-06T16:50:34Z
+v0.8.8,2021-09-27T16:12:56Z,dddeac2faf1e2d3527a85f8a308138d0b27af297,Merge pull request #12035 from ethereum/setReleaseDate,chriseth,2021-09-27T15:29:47Z
+v0.8.8,2021-09-27T16:12:56Z,4e28020ff5cb40bafffcaf4168bae8925f2b2c9d,Set release date.,chriseth,2021-09-27T13:43:59Z
+v0.8.8,2021-09-27T16:12:56Z,321e362789cbd4a6809180d58ffdc8d866f4af7c,Merge pull request #12024 from ethereum/require-boost-1.77-on-windows,chriseth,2021-09-27T13:41:21Z
+v0.8.8,2021-09-27T16:12:56Z,8bcbf891e51b0492c482773a3b48d703e14a6195,Merge pull request #12007 from ethereum/include-path-option,chriseth,2021-09-27T13:40:14Z
+v0.8.8,2021-09-27T16:12:56Z,39eb182ccc16f5fc05849691f98b808af5f91941,Merge pull request #11688 from ethereum/fix-and-document-allow-paths,chriseth,2021-09-27T13:39:14Z
+v0.8.8,2021-09-27T16:12:56Z,aab6b8a3d775e90f777139b59114412cea899ff4,Merge pull request #11991 from ethereum/fix-handling-of-empty-dirs-and-empty-files-in-cmdline-tests,chriseth,2021-09-27T12:40:37Z
+v0.8.8,2021-09-27T16:12:56Z,5b72e62b8960a70c6990120172e5a42cf6fb2a28,Merge pull request #12034 from ethereum/sortChangelog,chriseth,2021-09-27T12:11:37Z
+v0.8.8,2021-09-27T16:12:56Z,23f7b7781f47672267741922af77c0610abf495a,cmdlineTests.sh: Skip empty test directories,Kamil Śliwak,2021-09-17T18:54:01Z
+v0.8.8,2021-09-27T16:12:56Z,970381cb1d96f8cc0e7443ff11bdebd35a187525,splitSources.py: Support the case where the input file is empty,Kamil Śliwak,2021-09-17T18:08:49Z
+v0.8.8,2021-09-27T16:12:56Z,77aa1707e13a8cb1a60f7a83d5b27a3af4daa76e,"Revert ""Disable tests that fail on Windows due to a bug in Boost <= 1.76""",Kamil Śliwak,2021-09-24T13:28:48Z
+v0.8.8,2021-09-27T16:12:56Z,e3a3829f97da0699615bf4ba6b30ef173cb69049,Increase minimum Boost version to 1.77 on Windows,Kamil Śliwak,2021-09-24T12:17:13Z
+v0.8.8,2021-09-27T16:12:56Z,f909555022152188338e70a1409fd4f87bea6237,Treat ambiguous imports as errors,Kamil Śliwak,2021-08-26T16:35:25Z
+v0.8.8,2021-09-27T16:12:56Z,9975b5e26b5a17ac648e4bedf1d4796eb08ca45e,Detect source unit name collisions between paths specified on the command line,Kamil Śliwak,2021-08-26T16:34:34Z
+v0.8.8,2021-09-27T16:12:56Z,c8a7a1da7ce507885e37377fc431e61f17216577,Add --include-path option,Kamil Śliwak,2021-08-20T17:17:44Z
+v0.8.8,2021-09-27T16:12:56Z,a61a950861012943083444cbe595e83d5601e0ab,createFilesWithParentDirs(): Use binary mode to preserve original newlines on Windows,Kamil Śliwak,2021-08-30T18:17:19Z
+v0.8.8,2021-09-27T16:12:56Z,d4d778de771e19774eb60f9060f52d75fa3952d6,Disable tests that fail on Windows due to a bug in Boost <= 1.76,Kamil Śliwak,2021-08-04T14:57:19Z
+v0.8.8,2021-09-27T16:12:56Z,60b2f2b9138ad8a1b39e2ea7f1c294905d4f23ec,Documentation for --allow-paths and changelog entry for fixes,Kamil Śliwak,2021-07-21T18:19:28Z
+v0.8.8,2021-09-27T16:12:56Z,c0b83787821e0e2f609a0b92884e3b8c071e6afb,Do not whitelist any paths if remapping target is empty,Kamil Śliwak,2021-07-23T18:27:50Z
+v0.8.8,2021-09-27T16:12:56Z,8a8471d9cc05167ca6ec0c943ff7a898dc56b9bb,Interpret remapping targets ending with /.. as directories,Kamil Śliwak,2021-07-21T16:59:08Z
+v0.8.8,2021-09-27T16:12:56Z,479ba7c52314acf69883afe29c32f6f6014699ac,Handle allowing empty paths correctly,Kamil Śliwak,2021-07-23T23:30:17Z
+v0.8.8,2021-09-27T16:12:56Z,3ac36127674fc823e18bbf2c4c4947acb5141e64,Whitelist base path,Kamil Śliwak,2021-07-24T01:54:46Z
+v0.8.8,2021-09-27T16:12:56Z,52dd39212d9f48cb7367b9c9bb0c8008d9837bf0,Normalize allowed paths before comparing them with imports,Kamil Śliwak,2021-07-21T17:00:30Z
+v0.8.8,2021-09-27T16:12:56Z,a436abfb25eae7fbc1e461d1311ff5d6b72357da,normalizeCLIPathForVFS(): Add an option for resolving symlinks,Kamil Śliwak,2021-07-21T16:52:12Z
+v0.8.8,2021-09-27T16:12:56Z,f0dceffe1d5e3e5d313986e52e802b15f11a6e9e,Refactor parsing of remappings to remove duplication and improve readability,Kamil Śliwak,2021-07-23T21:43:10Z
+v0.8.8,2021-09-27T16:12:56Z,b9b35a0def16110a1367a6c56f4524945d609cec,Tests for allowed paths (current state),Kamil Śliwak,2021-07-22T19:54:31Z
+v0.8.8,2021-09-27T16:12:56Z,d06dc7613e1005b250b91309ae66fb359b722a99,Print diagnostic info for more exception types in the default import callback,Kamil Śliwak,2021-07-28T00:49:39Z
+v0.8.8,2021-09-27T16:12:56Z,226f040e257d94a24dcfa3bd53d7061f4016efc3,Ensure that native path separators are always used in symlink targets on Windows,Kamil Śliwak,2021-07-28T00:36:30Z
+v0.8.8,2021-09-27T16:12:56Z,ddcd515a3d9b5e82d32df19875830712f2baa0da,Sort changelog.,chriseth,2021-09-27T11:00:19Z
+v0.8.8,2021-09-27T16:12:56Z,a67828b9bab213e5518384f454cac64f9f52eea2,Merge pull request #12033 from ethereum/changelog-clarification,chriseth,2021-09-27T10:38:27Z
+v0.8.8,2021-09-27T16:12:56Z,4a6b22885e0fb78be0f2bbeb785fc0332988bcc8,Clarification in changelog,Harikrishnan Mulackal,2021-09-27T10:27:12Z
+v0.8.9,2021-09-29T14:13:14Z,e5eed63a3e83d698d8657309fd371248945a1cda,Merge pull request #12056 from ethereum/setReleaseDatefro089,Harikrishnan Mulackal,2021-09-29T13:19:38Z
+v0.8.9,2021-09-29T14:13:14Z,1a7faef0db867041231dfe18b83720c57aeb023e,Set release date.,chriseth,2021-09-29T11:59:41Z
+v0.8.9,2021-09-29T14:13:14Z,968ba9fab51312fc8db0d04da9443b51ef03feba,Merge pull request #12055 from ethereum/fix-gas,chriseth,2021-09-29T12:00:47Z
+v0.8.9,2021-09-29T14:13:14Z,14a678eb677e30d0f4f0e4aaf84ac6968bb379d8,Fix gas stats,hrkrshnn,2021-09-29T11:50:51Z
+v0.8.9,2021-09-29T14:13:14Z,fb8b068e3282934bbcadae57aabbe879a7de10bc,Merge pull request #12054 from ethereum/additionaltestuserdefinedsigned,chriseth,2021-09-29T11:46:13Z
+v0.8.9,2021-09-29T14:13:14Z,e347c983b509abf504b4613d3e18b95c5a969472,Update gas costs.,chriseth,2021-09-29T11:25:37Z
+v0.8.9,2021-09-29T14:13:14Z,78a1c1ca6d56e9a81d89ddf1af5a163dad8b17fe,Add one more test case.,chriseth,2021-09-29T11:22:13Z
+v0.8.9,2021-09-29T14:13:14Z,df9721f869a1c623e6bf5dd15e6c9ac963e807e5,Merge pull request #12047 from ethereum/fixFixedBytesCompilerUtils,chriseth,2021-09-29T10:23:15Z
+v0.8.9,2021-09-29T14:13:14Z,b869f62189136dcd323d7d079caf853ae38ea6a3,Merge pull request #12053 from ethereum/buglist-user-defined,chriseth,2021-09-29T10:02:52Z
+v0.8.9,2021-09-29T14:13:14Z,9d8a0a6f829ee9cbee06e1c84f3ff2ccd5b7e250,Buglist entry for UserDefinedValueTypesBug,hrkrshnn,2021-09-29T09:43:40Z
+v0.8.9,2021-09-29T14:13:14Z,13354c0b9ac1c063f548aaf3db133e057d506bdc,Merge pull request #12050 from ethereum/signedImmutablesBug,chriseth,2021-09-29T09:46:58Z
+v0.8.9,2021-09-29T14:13:14Z,090a46c2a5e1c2a614934a2b5e72852920e5a30f,New tests.,chriseth,2021-09-28T13:19:15Z
+v0.8.9,2021-09-29T14:13:14Z,77932edb02f429ac7d0cf664c6fd6aed3a656fb5,Consider non-external functions not left-aligned.,chriseth,2021-09-28T14:07:43Z
+v0.8.9,2021-09-29T14:13:14Z,cb052611cf1c50aa095efc92e098d6ce986b93d6,Fix signextend for user defined value types.,chriseth,2021-09-28T13:39:18Z
+v0.8.9,2021-09-29T14:13:14Z,7b7e38768c1eb29a3e139f43075e6758074009d0,Update tests.,hrkrshnn,2021-09-28T08:54:12Z
+v0.8.9,2021-09-29T14:13:14Z,da5c5928fe403ebad08f7ec6e1d9e54999a19ec4,Properly handle fixed-byte-like types.,chriseth,2021-09-28T12:21:39Z
+v0.8.9,2021-09-29T14:13:14Z,6109b5c3a157115103cce045ecb30f005882e9e6,UserDefinedValueType.storageBytes() is correctly set,hrkrshnn,2021-09-28T08:52:09Z
+v0.8.9,2021-09-29T14:13:14Z,8f7ba99e30576fd46dbcb3a6e87a8984c38bf466,Merge pull request #12045 from ethereum/arrayTestsForUDFT,chriseth,2021-09-29T08:39:34Z
+v0.8.9,2021-09-29T14:13:14Z,7e7c68e5bf910b12ee9326dd34926c61261a4a71,Changelog entry.,chriseth,2021-09-28T15:46:00Z
+v0.8.9,2021-09-29T14:13:14Z,ffe6e7dcf4be09902147ffcf9efa3412c4eab863,Bug list entry about the signed immutables bug.,chriseth,2021-09-28T15:36:54Z
+v0.8.9,2021-09-29T14:13:14Z,90f4ca1048884f2393b1b981611bf61c9d501cd2,Do not store immutables packed.,chriseth,2021-09-28T14:41:32Z
+v0.8.9,2021-09-29T14:13:14Z,ed7884e3418b9553eb5a4e045dd17c398f31fac7,Merge pull request #12043 from ethereum/exportCanonicalName,chriseth,2021-09-29T08:11:30Z
+v0.8.9,2021-09-29T14:13:14Z,bb4e3e191dc8beb3e8696a5ec5adf6e7819305f8,Fix array copying check.,chriseth,2021-09-28T11:33:16Z
+v0.8.9,2021-09-29T14:13:14Z,1b540c175d24f460981be1c386c0cf200cd0713b,Merge pull request #12051 from ethereum/updateVersionto098,chriseth,2021-09-29T07:13:20Z
+v0.8.9,2021-09-29T14:13:14Z,89d959d7ac5bbaed8c6e2f4b83e18844540b54f3,Merge pull request #12048 from ethereum/tests-assembly-user-defined-value-type,chriseth,2021-09-28T15:57:36Z
+v0.8.9,2021-09-29T14:13:14Z,b96be377ad3531696fbc1342d23aeaba29f8e5d9,Update version.,chriseth,2021-09-28T15:41:23Z
+v0.8.9,2021-09-29T14:13:14Z,41f9aab219c3afab66f7e7ada7fe568e75f31853,Tests for assembly access of user defined value types.,hrkrshnn,2021-09-28T12:41:57Z
+v0.8.9,2021-09-29T14:13:14Z,ee0e3e93771a41c9749502df7adb77495db2b5a4,Merge pull request #12044 from ethereum/user-defined-dirty-slot-test,chriseth,2021-09-28T10:10:01Z
+v0.8.9,2021-09-29T14:13:14Z,b6e62d61ec7482e64fba600f2988e1555db97c60,Export canonicalName,chriseth,2021-09-28T09:05:52Z
+v0.8.9,2021-09-29T14:13:14Z,e24083a298cf1801e15f457f816a490dec890dfd,UserDefinedValueType: test for reading from dirty storage slots,hrkrshnn,2021-09-28T09:15:43Z
+v0.8.10,2021-11-09T09:42:05Z,fc4108302703fe8bb7cb2443c45a5c172c8e0f11,Merge pull request #12255 from ethereum/setReleaseDate,chriseth,2021-11-09T08:56:08Z
+v0.8.10,2021-11-09T09:42:05Z,205e05b8f12cdd754adea2850055751fb201709b,CI: Add gitter failure notifications to all jobs,Kamil Śliwak,2021-10-21T16:46:04Z
+v0.8.10,2021-11-09T09:42:05Z,75fd7fa93e1059aed362093191feb3e27804d465,CI: Modify notification steps to be silent in PRs,Kamil Śliwak,2021-10-21T16:40:55Z
+v0.8.10,2021-11-09T09:42:05Z,45c9dbe1743c0e5cd5a3f42a97ce7afda977ff5a,Sort changelog and set release date.,chriseth,2021-11-08T12:06:20Z
+v0.8.10,2021-11-09T09:42:05Z,f095442d02d8246b21dbcf184cc820bc8214979e,Merge pull request #12258 from ethereum/irbreakingchangesvisible,chriseth,2021-11-08T16:28:30Z
+v0.8.10,2021-11-09T09:42:05Z,df85d2640652060ba967c8e4ba00d8116cb1a447,Update ir-breaking-changes and make it visible.,chriseth,2021-11-08T14:56:09Z
+v0.8.10,2021-11-09T09:42:05Z,fe6e58b0e4079006a0e91f6f049867d70a6cad81,Merge pull request #12259 from ethereum/external-tests-and-scripts-minor-reactors,chriseth,2021-11-08T16:21:23Z
+v0.8.10,2021-11-09T09:42:05Z,1633e367c90aed7a6a14d84e2c288e6a8ab93304,Merge pull request #12199 from ethereum/expose-parsingAndImporting,chriseth,2021-11-08T16:06:20Z
+v0.8.10,2021-11-09T09:42:05Z,44f7065fc9fddf3b0763b68bb973bd4de2ea4220,Merge pull request #12074 from ethereum/output-selection-in-assembler-mode,Kamil Śliwak,2021-11-08T15:59:57Z
+v0.8.10,2021-11-09T09:42:05Z,0745279f1562d1d7efb2707c74d046f129c74c4c,externalTests: Generalize force_truffle_solc_modules and make it use symlinks instead of redownloading solc-js,Kamil Śliwak,2021-10-27T14:26:52Z
+v0.8.10,2021-11-09T09:42:05Z,c090ff9d833a113113af8db75f174daddae7c281,externalTests: Neutralize npm hooks instead of replacing pragmas twice,Kamil Śliwak,2021-10-26T13:39:19Z
+v0.8.10,2021-11-09T09:42:05Z,7b7cc081db7d252dbe6a805c304219cfe399c0e9,externalTests: Helper for neutralizing package locks,Kamil Śliwak,2021-10-26T13:00:34Z
+v0.8.10,2021-11-09T09:42:05Z,b57c0a0b81253b2bc484df8b9fd01847d1663cbd,externalTests: Refactor to be more explicit and easier to adjust for special cases,Kamil Śliwak,2021-10-25T12:29:43Z
+v0.8.10,2021-11-09T09:42:05Z,7ccdbd5b08e51b43eef791f0495fee215bc0c791,Use consistent syntax for Bash function declarations,Kamil Śliwak,2021-10-28T09:58:47Z
+v0.8.10,2021-11-09T09:42:05Z,fc224f74c7fbff547714a59470fab0d2b1410168,Evaluate absolute paths for imports in 'parsing' stage,Marenz,2021-10-28T13:30:31Z
+v0.8.10,2021-11-09T09:42:05Z,bc2402e76f94cf4ec343d4873adc1485b9ccd720,externalTests: Use named tmp dirs,Kamil Śliwak,2021-10-26T10:50:30Z
+v0.8.10,2021-11-09T09:42:05Z,ed907561ebe51be903d8e76742b7b7b93901b489,externalTests: Enable `set -e` in external tests,Kamil Śliwak,2021-10-25T12:30:15Z
+v0.8.10,2021-11-09T09:42:05Z,4f8719326c418eae22fdb36002ab4c38b9009b2b,Merge pull request #12205 from ethereum/optimizeextocedsizecheck,chriseth,2021-11-08T15:05:03Z
+v0.8.10,2021-11-09T09:42:05Z,b6d69eea4794d79016a44cff65b9de7d50bdb5c2,Merge pull request #12256 from ethereum/clarifyPure,chriseth,2021-11-08T15:04:15Z
+v0.8.10,2021-11-09T09:42:05Z,080c7245aebdb4e7ab1d2b2f3a6194244eda976f,Update tests.,chriseth,2021-11-04T17:20:10Z
+v0.8.10,2021-11-09T09:42:05Z,f320a95dd9be698df9fa7a3c12a7efc1a22a1521,Update documentation.,chriseth,2021-11-02T11:04:31Z
+v0.8.10,2021-11-09T09:42:05Z,31c504c5baa24898f71790e42f4a626c15dca3a1,Add test for extcodesize check.,chriseth,2021-10-28T10:35:06Z
+v0.8.10,2021-11-09T09:42:05Z,a1aa9d2d90f2f7e7390408e9005d62c7159d4bd4,Skip extcodesize check if return data is expected.,chriseth,2021-10-27T15:26:44Z
+v0.8.10,2021-11-09T09:42:05Z,aa4d3cabf1e698bf871877d66d88d4bb48139611,Clarify ``pure``.,chriseth,2021-11-08T12:22:23Z
+v0.8.10,2021-11-09T09:42:05Z,ea3c34a082c748d3abb80a17a7fdf2d394c7ae49,Merge pull request #12254 from ethereum/optimizerDocsForLoopInitRewriter,chriseth,2021-11-08T10:55:05Z
+v0.8.10,2021-11-09T09:42:05Z,f9ba1bf3c823fd5978f542295b334870b839c557,Merge pull request #12227 from ethereum/smt_fix_gas,chriseth,2021-11-08T10:54:20Z
+v0.8.10,2021-11-09T09:42:05Z,f26cda4c9f2db978e1712738a63ff1b531c43f39,Merge pull request #12250 from phyBrackets/patch-2,chriseth,2021-11-08T10:24:27Z
+v0.8.10,2021-11-09T09:42:05Z,be552683c93ca8830a793ccd7805c7ad2e370228,Remove incorrect outer block from for loop init rewriter documentation.,Daniel Kirchner,2021-11-08T09:58:28Z
+v0.8.10,2021-11-09T09:42:05Z,3f2d4cb7b84b3141ebadb537e8f92beefed753cd,Merge pull request #12252 from ethereum/picosha2,chriseth,2021-11-08T09:45:08Z
+v0.8.10,2021-11-09T09:42:05Z,c6775bc01f59c04796bf4d15db9ec2ccd72710a2,Include picosha2 in the license header,Alex Beregszaszi,2021-11-07T21:27:56Z
+v0.8.11,2021-12-20T14:45:36Z,d7f0394316b84421d897671df1173cf01c641160,Merge pull request #12426 from ethereum/setDateFor0811,chriseth,2021-12-20T14:00:55Z
+v0.8.11,2021-12-20T14:45:36Z,25a3bf2df04a5c70a6b095454d7ebec69e8445d2,Set release date.,chriseth,2021-12-20T11:43:48Z
+v0.8.11,2021-12-20T14:45:36Z,018f8cd2e20b577f8e13759a7bd88b1d9959f8e2,Merge pull request #12428 from ethereum/fix/arch-ci-build-error,chriseth,2021-12-20T12:15:22Z
+v0.8.11,2021-12-20T14:45:36Z,b8e64a48838944563bc2f686e7e5d674dfd42e82,Fixes CI build error for ArchLinux.,Christian Parpart,2021-12-20T12:11:00Z
+v0.8.11,2021-12-20T14:45:36Z,700a09aae42890c09aad358f5f1783fff636f443,Merge pull request #12425 from GitHubPang/patch-1,Alex Beregszaszi,2021-12-20T09:30:35Z
+v0.8.11,2021-12-20T14:45:36Z,1b0cef46241306f0424e5afc049fce9d8eba964b,Fix a few typos,GitHubPang,2021-12-20T02:56:39Z
+v0.8.11,2021-12-20T14:45:36Z,4819d010a8e574ee9ff054220bbdbd217aeeaae0,Update circleci mac xcode version to 13.2,Sean Billig,2021-12-15T03:35:30Z
+v0.8.11,2021-12-20T14:45:36Z,10289fbc6a5acb277b95d5a306b7b6a6aefad9d3,Merge pull request #12420 from ethereum/security-policy-and-labels-in-template-chooser,Kamil Śliwak,2021-12-16T17:58:53Z
+v0.8.11,2021-12-20T14:45:36Z,3193dfbb5d9a4a4bc9b95cc514c267026ccd661f,Merge pull request #11350 from ethereum/lsp,chriseth,2021-12-16T17:54:26Z
+v0.8.11,2021-12-20T14:45:36Z,1594518cfc3e7d0f0ede44dc8b6d98293670e32d,Merge pull request #12417 from nishant-sachdeva/invalid_ir_generated_during_copy_of_dynamically_sized_storage_arrays_of_function_type,chriseth,2021-12-16T17:33:54Z
+v0.8.11,2021-12-20T14:45:36Z,835efea427e5b58181265da1f8e6401d2ad0139e,Merge pull request #12287 from ethereum/abi.encodeCall,chriseth,2021-12-16T17:24:33Z
+v0.8.11,2021-12-20T14:45:36Z,b3d9c596cd8371728935cfaedb060ff439075315,Move issue template labels to config.yml,Kamil Śliwak,2021-12-16T17:12:04Z
+v0.8.11,2021-12-20T14:45:36Z,84738eb9e6c630949cff0a21c1faedd8cbed9274,Add security policy to github's template chooser,Kamil Śliwak,2021-12-16T17:05:25Z
+v0.8.11,2021-12-20T14:45:36Z,927b24df1f37cdffc794a74081cfb37d01d47c17,Initial implementation of Language Server,Christian Parpart,2021-12-13T13:53:40Z
+v0.8.11,2021-12-20T14:45:36Z,dc1dff975a88f571f9de435b064a95eb9651cc7e,Merge pull request #12419 from ethereum/add-about-in-issue-templates-config,chriseth,2021-12-16T16:50:14Z
+v0.8.11,2021-12-20T14:45:36Z,fc88226376b97a53f39a1c70956fe138f13a0a1f,Move `about` field from issue templates to `config.yml`,Kamil Śliwak,2021-12-16T16:47:43Z
+v0.8.11,2021-12-20T14:45:36Z,76e83a9b05003df6df2b77586be8a57782078eea,Merge pull request #12412 from ethereum/labels-in-issue-templates,Kamil Śliwak,2021-12-16T16:40:41Z
+v0.8.11,2021-12-20T14:45:36Z,7a96953e78cc2083db182db1628ad68da785d03c,Implement typechecked abi.encodeCall(),Marenz,2021-11-11T15:21:23Z
+v0.8.11,2021-12-20T14:45:36Z,7cc7a0f1839c95607c8e2eb4a80bb5a8d82229fd,Added sameType check for fromType and toType in YulUtilFunctions.cpp and relevant tests in semanticTests,nishant-sachdeva,2021-12-06T12:31:27Z
+v0.8.11,2021-12-20T14:45:36Z,e49780362bb7c3765a8843b88cd9f3225d06b5f1,Merge pull request #12289 from nishant-sachdeva/extract_test_cases_from_sol_end_to_end,chriseth,2021-12-16T16:17:23Z
+v0.8.11,2021-12-20T14:45:36Z,270793b0b2c83ca77aebbc4f12754a0ca24a41a5,Merge pull request #12414 from ethereum/fixWarnRef,chriseth,2021-12-16T13:04:53Z
+v0.8.11,2021-12-20T14:45:36Z,19a74506e39af9448590ce4fefee65fdd7f9c8eb,trial test cases extracted from SoliidityEndToEndTest.cpp into .sol files.,nishant-sachdeva,2021-11-16T18:47:37Z
+v0.8.11,2021-12-20T14:45:36Z,6363ff31db5eb751a4ecae2570c437b393d71d2d,Merge pull request #12413 from ethereum/issues-automatically-in-solidity-project,chriseth,2021-12-16T10:29:08Z
+v0.8.11,2021-12-20T14:45:36Z,9a0821f2c30f9c51bb5d7e6ac4cc85cf42bd6c9b,Fix warning about reference.,chriseth,2021-12-15T23:11:59Z
+v0.8.11,2021-12-20T14:45:36Z,b2a05a1bcfafa4fbe1344eba19e6e63ceecb6d66,"Remove unused ""general"" issue template",Kamil Śliwak,2021-12-15T20:07:28Z
+v0.8.11,2021-12-20T14:45:36Z,6035e8c02a96653fa659b667a3dd2ba7705b4967,"Configure issue type selection screen to always select the ""Solidity"" project",Kamil Śliwak,2021-12-15T20:07:08Z
+v0.8.11,2021-12-20T14:45:36Z,9e0f03b3dc34745a84403dabcc24027f6b9e146e,Remove hard wrapping in the issue templates,Kamil Śliwak,2021-12-15T19:48:52Z
+v0.8.11,2021-12-20T14:45:36Z,fdeb9717084e7427100b7ec5778c8a1ab222f5f3,Add an appropriate label to each type of issue,Kamil Śliwak,2021-12-15T19:45:39Z
+v0.8.11,2021-12-20T14:45:36Z,1822261da1f60004c44333a8b71c1c6442d07262,Merge pull request #12372 from nishant-sachdeva/invalid_ir_generated_during_copy_of_dynamically_sized_storage_arrays_of_function_type,chriseth,2021-12-15T19:05:46Z
+v0.8.11,2021-12-20T14:45:36Z,9b55d4788e5e008905af060b26f44cac7e45d98e,Added sameType check for fromType and toType in YulUtilFunctions.cpp and relevant tests in semanticTests,nishant-sachdeva,2021-12-06T12:31:27Z
+v0.8.12,2022-02-16T11:50:24Z,59f28d385a28facedc7d225a6427c88cd4f3b474,Added solidity visual auditor for VSCode,Sleepy,2022-01-29T08:39:40Z
+v0.8.12,2022-02-16T11:50:24Z,f00d7308415b5f1e66b7dca11ef0edb395c09ad4,Merge pull request #12682 from ethereum/setreleasedatefor0812,chriseth,2022-02-16T09:49:57Z
+v0.8.12,2022-02-16T11:50:24Z,49bc8206f19c48bfef3a9082b92cdf8793776f06,Set release date.,chriseth,2022-02-16T08:48:59Z
+v0.8.12,2022-02-16T11:50:24Z,9bce0243f509b1415dae2b6b839d9e934ae32388,Merge pull request #12676 from fulldecent/fix-style-guide-typos,chriseth,2022-02-16T08:44:04Z
+v0.8.12,2022-02-16T11:50:24Z,e2d87c1bcc952d63f606ea646e3145eca43b21d2,tweak: expand definition of suggested collision naming convention,Richie,2022-02-16T03:35:11Z
+v0.8.12,2022-02-16T11:50:24Z,9d9487077073c6a959a4933b88d8bd1187e90175,Fix typos,William Entriken,2022-02-16T00:17:05Z
+v0.8.12,2022-02-16T11:50:24Z,16983848646714d72a1abeb3fe5edf5d513fc65f,Merge pull request #12673 from ethereum/work-around-element-fi-expired-timestamp,chriseth,2022-02-15T13:12:44Z
+v0.8.12,2022-02-16T11:50:24Z,ccbc865beb938fc9bf6ffe7b23970e668df998b7,elementfi: Bypass expiration check that won't pass due to test settings,Kamil Śliwak,2022-02-15T11:43:30Z
+v0.8.12,2022-02-16T11:50:24Z,7a5be4a063afc2f4eaf0519123a5d2cc7bae0f5d,Merge pull request #12462 from semaraugusto/develop,chriseth,2022-02-15T08:27:33Z
+v0.8.12,2022-02-16T11:50:24Z,b3ccc0131be411a91f8785d71ca197c5b7d64cc6,Merge pull request #12670 from ethereum/msvc-asserts,Leo,2022-02-14T20:03:24Z
+v0.8.12,2022-02-16T11:50:24Z,4ee9846d063c288c0e1d9666cd9d1c026ad71196,Merge pull request #12669 from ethereum/unlicense_docs,Leo,2022-02-14T19:55:48Z
+v0.8.12,2022-02-16T11:50:24Z,c22f0ef9bbada54866aada341976469ee5432190,Add comment,Leo Alt,2022-02-14T19:26:32Z
+v0.8.12,2022-02-16T11:50:24Z,10a431a18b0c8092998b10f18ce394294d97de57,Enable asserts in MSVC RelWithDebInfo configuration,a3d4,2022-02-08T02:52:30Z
+v0.8.12,2022-02-16T11:50:24Z,947a599e910e5ce9f41631af6d7d2bb95912b754,Merge pull request #12441 from ethereum/benchmarking-ext-tests,Leo,2022-02-14T19:14:27Z
+v0.8.12,2022-02-16T11:50:24Z,408b8e2f7681678cab03269bc39d81d5b45ef50b,docs: note on invalid SPDX `UNLICENSED`,Aleksey Bykhun,2021-12-11T08:44:27Z
+v0.8.12,2022-02-16T11:50:24Z,e3e77c0f01b47b3d87813a0f08f65e1f96cfd8dd,Merge pull request #12551 from ethereum/natspec-test,Leo,2022-02-14T18:51:03Z
+v0.8.12,2022-02-16T11:50:24Z,3915768753b53ea5c13cf26b611fa3ce73b5206a,Merge pull request #12594 from ethereum/solc-js-ext-test-local-checkout,Leo,2022-02-14T18:44:46Z
+v0.8.12,2022-02-16T11:50:24Z,c7f1ead8363b5006f5ce8569b5c00dafea37a4f1,Merge pull request #12666 from ethereum/smallChangelogChanges,chriseth,2022-02-14T17:10:58Z
+v0.8.12,2022-02-16T11:50:24Z,07143b5d168b3fc2a5709febe77af726762c01e4,Merge pull request #12667 from ethereum/packedSoljsonChangelog,chriseth,2022-02-14T17:10:41Z
+v0.8.12,2022-02-16T11:50:24Z,04bcd01b0d7a8e9b59f609a6d183bbee6709bf9d,Add Changelog entry about packed soljson.js.,Daniel Kirchner,2022-02-14T16:49:07Z
+v0.8.12,2022-02-16T11:50:24Z,bf2556af83ec1fd0711ad4771c5a45978a74d4a4,Minor changes to changelog.,chriseth,2022-02-14T16:47:56Z
+v0.8.12,2022-02-16T11:50:24Z,6c36638624b5ef28a7ebc7aa34501833c4080128,Merge pull request #12616 from ethereum/missingOverrideRequirement,chriseth,2022-02-14T16:40:05Z
+v0.8.12,2022-02-16T11:50:24Z,7c0ac958168573f0aeecfef458e4235734373110,Merge pull request #12265 from ethereum/packedSoljson,chriseth,2022-02-14T16:26:31Z
+v0.8.12,2022-02-16T11:50:24Z,3a201ec0f8f128fa2070e561905b04fd57ff34b6,Build packed soljson.js.,Daniel Kirchner,2021-11-09T17:07:15Z
+v0.8.12,2022-02-16T11:50:24Z,6895972d04e5cdff2cc09bba0e04d8f884452697,Adjust mini-lz4.js and base64DecToArr.js.,Daniel Kirchner,2022-02-08T12:16:20Z
+v0.8.12,2022-02-16T11:50:24Z,a68183db3cbae850831aeb7a1ead96792345c27c,Add base64DecToArr.js.,Daniel Kirchner,2022-02-08T12:17:21Z
+v0.8.12,2022-02-16T11:50:24Z,a2a5ca6fef965aeb872ac1b23ab3897c742cc169,Add emscripten's mini-lz4.js.,Daniel Kirchner,2022-02-08T12:00:35Z
+v0.8.12,2022-02-16T11:50:24Z,c47da51eab8e5c4ebff0f6dd2ca748179aa21ab4,Consider all grandparents in override analysis.,Daniel Kirchner,2022-02-02T16:18:38Z
+v0.8.12,2022-02-16T11:50:24Z,d29709e741071fc48f2360ea12498838b8da3900,Merge pull request #12662 from ethereum/ubsanDisableSMT,Daniel Kirchner,2022-02-14T12:58:52Z
+v0.8.12,2022-02-16T11:50:24Z,3b6c99f3e81cba80ae18171ff0bb55f942ea5c41,Merge pull request #12572 from ethereum/fixStackShuffling,Daniel Kirchner,2022-02-14T12:00:56Z
+v0.8.13,2022-03-16T13:32:43Z,abaa5c0eb321aab4cd09617598696172378a4b83,Merge pull request #12801 from ethereum/cse-optimization,chriseth,2022-03-16T12:54:28Z
+v0.8.13,2022-03-16T13:32:43Z,8b0845fe977bf60fa99b32636ff06d97e2f5f9b0,CommonSubexpressionEliminator performance optimization,wechman,2022-03-16T11:57:38Z
+v0.8.13,2022-03-16T13:32:43Z,281b68b83a6d5b07d113d4796164f0718e02e99e,Merge pull request #12803 from ethereum/documentsatetvarinitcahnge,chriseth,2022-03-16T11:43:43Z
+v0.8.13,2022-03-16T13:32:43Z,1be21e267031c18b667d58ad0306a21c55e75253,Move state variable initialization to top.,chriseth,2022-03-16T11:23:23Z
+v0.8.13,2022-03-16T13:32:43Z,6eece8114af18114e75b80a9d4a698ee5b77dd70,Merge pull request #12800 from ethereum/setreleasefor0813,chriseth,2022-03-16T10:12:57Z
+v0.8.13,2022-03-16T13:32:43Z,acd488532d505b852002da4c8b689433f161992d,Set release date.,chriseth,2022-03-16T09:28:40Z
+v0.8.13,2022-03-16T13:32:43Z,75abe92eb2033bba82d1f0fe9948253c65106f18,Refactor stack compressor.,chriseth,2022-03-15T17:10:52Z
+v0.8.13,2022-03-16T13:32:43Z,724af73fb8203779ce835ed77c4070c2b80d0aaa,Merge pull request #12759 from ethereum/evmCodeTransformAvoidPops,chriseth,2022-03-15T18:14:46Z
+v0.8.13,2022-03-16T13:32:43Z,5cd98006d4f13461cb5523c298d8580c741335e4,Fill in junk in stack layouts on terminating control flow paths.,Daniel Kirchner,2022-01-14T12:37:40Z
+v0.8.13,2022-03-16T13:32:43Z,b6cd3e154c814530540806e19aa08763f6806eac,Test case for current behaviour.,Daniel Kirchner,2022-01-12T12:15:58Z
+v0.8.13,2022-03-16T13:32:43Z,5afa2adec28be0c0b1703d3ecf017dc0c238a307,Merge pull request #12775 from ethereum/refactorDataFlowAnalyzer,chriseth,2022-03-15T14:52:40Z
+v0.8.13,2022-03-16T13:32:43Z,d946b6b3a0e0f8e6b09294c36971d9feb0f3c8d5,Merge pull request #12793 from ethereum/hasDefaultHelper,chriseth,2022-03-15T14:20:53Z
+v0.8.13,2022-03-16T13:32:43Z,28593839d9913a740e9c8514d2ba607241d54398,Add helper to see if a switch has a default case.,chriseth,2022-03-15T13:24:42Z
+v0.8.13,2022-03-16T13:32:43Z,2858f705c107da06f53fd7fb94f4a8129eb5cd83,Merge pull request #12791 from ethereum/usingForDocAtFileLevel,chriseth,2022-03-15T11:36:39Z
+v0.8.13,2022-03-16T13:32:43Z,0bc29f2cb5348fd1afa753705ce31485f2e53994,Using for at file level.,chriseth,2022-03-15T11:07:28Z
+v0.8.13,2022-03-16T13:32:43Z,c6ac1625bd21fa6b006448b4bd31064ba2f538ca,Merge pull request #12773 from ethereum/encodeCallBug,chriseth,2022-03-15T09:52:13Z
+v0.8.13,2022-03-16T13:32:43Z,8cb01a99539619c84d83897228722420ad6d0971,Fix and updated test.,Daniel Kirchner,2022-03-10T18:05:51Z
+v0.8.13,2022-03-16T13:32:43Z,db270510244b755700d376f824c8e2c32a3fe1d9,Test for old behaviour.,Daniel Kirchner,2022-03-10T18:05:32Z
+v0.8.13,2022-03-16T13:32:43Z,353759c1d4af0df1ce4b7016723e729443808f2d,Merge pull request #12680 from devtooligan/fix/underscore-prefix,Daniel Kirchner,2022-03-14T21:58:42Z
+v0.8.13,2022-03-16T13:32:43Z,afdf22f5c77c89304110b303b9a39906c19b869e,Create a state struct.,chriseth,2022-03-10T18:35:58Z
+v0.8.13,2022-03-16T13:32:43Z,eab4ca906c2bcf9b44687f0eb5d2987bf75ec4dd,Refactor data flow analyzer state access.,chriseth,2022-03-10T17:25:00Z
+v0.8.13,2022-03-16T13:32:43Z,e154d4317676a809a0a2356c78036a14e6ba5a46,Merge pull request #12288 from ethereum/exportUsing,chriseth,2022-03-14T17:57:26Z
+v0.8.13,2022-03-16T13:32:43Z,9188519f114d6f6f1aa450817a6797567ab3be85,Using for with global binding.,chriseth,2021-11-16T16:01:09Z
+v0.8.13,2022-03-16T13:32:43Z,e19c366532b69321c705c6d77ee927c024bb4a51,Merge pull request #12789 from ethereum/yulFuzzerCustomMutation,Bhargava Shastry,2022-03-14T15:23:18Z
+v0.8.13,2022-03-16T13:32:43Z,beb51068bbb1193872dffb0dd5b02b019c410939,fix: corrects _ prefixes,Richie,2022-02-16T02:59:49Z
+v0.8.13,2022-03-16T13:32:43Z,7f360e61fc4c1e9da0922144bbba9e5f0dbde592,Merge pull request #12781 from ethereum/fixImportDirectiveVisits,chriseth,2022-03-14T14:35:37Z
+v0.8.13,2022-03-16T13:32:43Z,3d8fc6b126d6adc5fadb94a7ab509d1d0fae3622,Merge pull request #12760 from ethereum/viaIRNonExperimental,chriseth,2022-03-14T14:30:15Z
+v0.8.13,2022-03-16T13:32:43Z,e0d9dec87431b47737fd10212d4946915ad9c24b,Permit control flow mutations in global scope of a Yul program.,Bhargava Shastry,2022-03-14T13:23:59Z
+v0.8.13,2022-03-16T13:32:43Z,9ef590cc9faad5c2560993d112ad567924886d12,Merge pull request #12696 from ethereum/unreliableAstJsonTests,chriseth,2022-03-14T14:02:54Z
+v0.8.13,2022-03-16T13:32:43Z,0f1a63c3fa5db2c55e0a94b72653a1f1172e1ca9,Fix import directive visits in type checker and view pure checker.,Daniel Kirchner,2022-03-11T16:01:30Z
+v0.8.14,2022-05-17T12:37:12Z,80d49f37028b13e162951b6b67b0a42f477ba93c,Merge pull request #13034 from ethereum/setreleasedatefro0814,chriseth,2022-05-17T11:55:13Z
+v0.8.14,2022-05-17T12:37:12Z,0bd0bf4c7d8639f56617bd7b295d07870857ae41,Set release date.,chriseth,2022-05-17T11:49:51Z
+v0.8.14,2022-05-17T12:37:12Z,c5cc55339ef3ead8e61b044b79a5a9a5ec3a98df,Merge pull request #12850 from ethereum/dataLocationInInheritance,chriseth,2022-05-17T11:48:55Z
+v0.8.14,2022-05-17T12:37:12Z,f427247993c795b86ec66414b018ef3b9499cf21,Bug list entry.,chriseth,2022-05-02T11:30:28Z
+v0.8.14,2022-05-17T12:37:12Z,259edd4c98e10e31f580ba28c9ef6e14e4416ba7,Changelog.,chriseth,2022-05-02T10:27:20Z
+v0.8.14,2022-05-17T12:37:12Z,1164d1b4dd1ab808ebd7149d50b983cdf59834b9,Switch ENS external test to master branch,Kamil Śliwak,2022-04-07T19:07:48Z
+v0.8.14,2022-05-17T12:37:12Z,27e5afa23d1c9f52b7cb36906f665d9c1f2c0f78,Patch external tests for the override data alignment issue until our patches are accepted upstream,Kamil Śliwak,2022-03-24T19:00:00Z
+v0.8.14,2022-05-17T12:37:12Z,dfa0bcf760ddbebed102be227d906ebb066562f3,More strict override check for data locations.,chriseth,2022-03-24T14:03:02Z
+v0.8.14,2022-05-17T12:37:12Z,bef348aa6a4c4b38465c7231d49ee7ebd05b7441,Merge pull request #13027 from ethereum/ethersproject-contracts-update-workaround,chriseth,2022-05-17T10:59:50Z
+v0.8.14,2022-05-17T12:37:12Z,c67e8a247d8c1e0a3eef7fb2c93153ee41d6ab3b,Merge pull request #13031 from ethereum/sortChangelog,chriseth,2022-05-17T09:05:28Z
+v0.8.14,2022-05-17T12:37:12Z,adf3eaac9bf0282cb2efd09861a66ba03c6d661c,gnosis: Update upstream repo URL,Kamil Śliwak,2022-05-16T20:43:31Z
+v0.8.14,2022-05-17T12:37:12Z,c57bc4706047915ed98288bc8dc42ee9a3d267bf,gnosis: Disable newly added tests broken due to Hardhat heuristics,Kamil Śliwak,2022-05-16T20:43:50Z
+v0.8.14,2022-05-17T12:37:12Z,f021017bc000e55eefd1ee18495e073878759837,Sort changelog.,chriseth,2022-05-17T08:38:26Z
+v0.8.14,2022-05-17T12:37:12Z,91177d74eea8b643042b32b47bac0c802736d3eb,perpetual-pools: Remove the ethers@5.6.1 workaround,Kamil Śliwak,2022-05-16T18:52:53Z
+v0.8.14,2022-05-17T12:37:12Z,e9f1bd00ccecfc359d903d7d6e995eece89bba05,gnosis: Workaround for problems caused by forcing ethers@5.6.1 in external tests,Kamil Śliwak,2022-05-16T14:59:32Z
+v0.8.14,2022-05-17T12:37:12Z,a3bd01d9fcd53e73ca743b28320e1f5038001b05,Merge pull request #13020 from ethereum/gnosis-ext-test-get-storage-at-hardhat-bug-workaround,Daniel Kirchner,2022-05-13T17:47:40Z
+v0.8.14,2022-05-17T12:37:12Z,3bfb79df0c4eaf8be71f7261ab48c48c23bca13d,gnosis: Workaround for getStorageAt() bug in Hardhat 2.9.5,Kamil Śliwak,2022-05-13T16:45:40Z
+v0.8.14,2022-05-17T12:37:12Z,12ee9aed50fbe27c103d254e0cc94f9cfd768e56,Merge pull request #13013 from ethereum/revert-disallow-returndatacopy-in-pure-functions,Daniel Kirchner,2022-05-13T16:52:37Z
+v0.8.14,2022-05-17T12:37:12Z,67270854ee4c739079d8874f8c282fecada73202,Merge pull request #13014 from ethereum/updateZ3_4_8_17,Daniel Kirchner,2022-05-13T16:29:01Z
+v0.8.14,2022-05-17T12:37:12Z,af5662ffad6f06563e6555e33d1d3f2f03fdf5e2,Merge pull request #13018 from 0xalpharush/patch-1,Daniel Kirchner,2022-05-13T15:57:35Z
+v0.8.14,2022-05-17T12:37:12Z,49badcd91ae4935c79906b5226863353d67c76eb,Update docker images for new z3 version.,Daniel Kirchner,2022-05-13T08:38:00Z
+v0.8.14,2022-05-17T12:37:12Z,edd769a6dc2b7f84665179c212ac146288b35741,Update Z3 deps ppa script.,Daniel Kirchner,2022-05-13T08:20:15Z
+v0.8.14,2022-05-17T12:37:12Z,e1972da29a7b2930008621a74ce71e176b692484,Merge pull request #13016 from ethereum/z3_17,Daniel Kirchner,2022-05-13T15:46:03Z
+v0.8.14,2022-05-17T12:37:12Z,93755fcb70fd6734f37c6260495e58d835cef27a,document that pop does not return last element,alpharush,2022-05-13T14:45:55Z
+v0.8.14,2022-05-17T12:37:12Z,6a126f6ccb5e2f159f9117f10234b80396f7a77a,Update tests and hashes for z3 4.8.17,Leo Alt,2022-05-13T12:30:52Z
+v0.8.14,2022-05-17T12:37:12Z,35661479b622067d36ba869c80f4ea6d4d431c7f,"Revert ""Disallow RETURNDATASIZE and RETURNDATACOPY in inline assembly blocks in pure functions""",Matheus Aguiar,2022-05-12T16:27:44Z
+v0.8.14,2022-05-17T12:37:12Z,dbcffb79a53b8ec6fd7386e7d4537a6b9d3b7af0,CI: Post a notification to gitter when binaries are ready,Kamil Śliwak,2021-10-22T12:44:21Z
+v0.8.14,2022-05-17T12:37:12Z,0153822d2e8b8edf4b16810c43919d59b10d27f8,CI: Add c_release_binaries job that gathers release binaries from individual jobs,Kamil Śliwak,2021-10-22T12:07:19Z
+v0.8.14,2022-05-17T12:37:12Z,aafda389ea9460aab985df772611070277b123a7,Merge pull request #12907 from ethereum/calldataReencodeValidationBug,Daniel Kirchner,2022-05-12T15:56:44Z
+v0.8.14,2022-05-17T12:37:12Z,2aba061bde1a6c2725b89df6b71975c70ea608be,Merge pull request #12967 from ethereum/update_z3_docker,Leo,2022-05-12T13:23:03Z
+v0.8.15,2022-06-15T14:54:01Z,e14f27147bd4ffc63e2bf46a68e0d271fad0ed79,Merge pull request #13151 from ethereum/setreleasedatefor0815,Daniel Kirchner,2022-06-15T13:56:19Z
+v0.8.15,2022-06-15T14:54:01Z,14d0776c9424827ab047f001b9ee86fe5e255065,Set release date for 0.8.15.,Daniel Kirchner,2022-06-15T12:41:44Z
+v0.8.15,2022-06-15T14:54:01Z,506e9c45368b2d706ec37cc11ddf70f173b5d8b4,Merge pull request #13152 from ethereum/fixWarningInDocs,Daniel Kirchner,2022-06-15T13:07:52Z
+v0.8.15,2022-06-15T14:54:01Z,3f112280f8b315e98cd019d4c9bfac631cdfe8ef,Add warning comment to dangling references docs.,Daniel Kirchner,2022-06-15T12:52:37Z
+v0.8.15,2022-06-15T14:54:01Z,416c3dc1a4a13051d7dff9a0c3d1e20b9eda32f7,Merge pull request #13139 from ethereum/lvalueBytesPushWarning,Daniel Kirchner,2022-06-15T12:39:46Z
+v0.8.15,2022-06-15T14:54:01Z,16245f7b9b86c1b524f4c5479c5694e91ff933de,Warn about multiple assignments to storage byte pushes and fix warnings about multiple storage to storage copies.,Daniel Kirchner,2022-06-14T12:55:06Z
+v0.8.15,2022-06-15T14:54:01Z,7f07497f2ab943e51af158978aeb818d6031d1c0,Merge pull request #13023 from SamuelOsewa/patch-1,Daniel Kirchner,2022-06-15T11:31:40Z
+v0.8.15,2022-06-15T14:54:01Z,71c838abb3e92437f0f3dd1f63190a2b6a93df00,Merge pull request #13141 from ethereum/danglingReferencesDocs,Daniel Kirchner,2022-06-15T11:23:09Z
+v0.8.15,2022-06-15T14:54:01Z,d30b04674ea000c705749d0371e5086afdccec7a,Add resolveUnaryTuples helper.,Daniel Kirchner,2022-06-14T13:31:32Z
+v0.8.15,2022-06-15T14:54:01Z,1cb8e17d949610ec2f9edbc81f2a783e1a461511,Add documentation section about dangling references.,Daniel Kirchner,2022-06-14T14:34:20Z
+v0.8.15,2022-06-15T14:54:01Z,c21265f9f8a7fcabeb895b61237e8decc758aaef,Changed error message for for Unicode character in non-unicode string literal,Samuel Osewa,2022-05-15T13:24:23Z
+v0.8.15,2022-06-15T14:54:01Z,9542e46ea46a92d91fd08197632dffcbc657f201,Merge pull request #13145 from ethereum/fixCompilationError,Daniel Kirchner,2022-06-15T09:57:16Z
+v0.8.15,2022-06-15T14:54:01Z,53c4facf4e01d603c21a8544fc3b016229628a16,Fix compilation error.,Daniel Kirchner,2022-06-15T08:34:33Z
+v0.8.15,2022-06-15T14:54:01Z,b45bc3918f7dd7d51b1ba9d2c14ce66efa8e8020,Merge pull request #13045 from ethereum/bytesArrayToStorageBug,Daniel Kirchner,2022-06-15T08:21:01Z
+v0.8.15,2022-06-15T14:54:01Z,27822dbca728b29e2314471fd0fffb121435a443,Remove entry in IR breaking changes.,Daniel Kirchner,2022-06-14T15:30:24Z
+v0.8.15,2022-06-15T14:54:01Z,187f0f070d51700006dddb7dc833d8f384f10eda,Some review suggestions.,Daniel Kirchner,2022-06-14T15:30:14Z
+v0.8.15,2022-06-15T14:54:01Z,91ff02b988e99f319ecce24eecb923d89d25327e,Changelog and buglist entries.,Daniel Kirchner,2022-06-13T10:35:21Z
+v0.8.15,2022-06-15T14:54:01Z,5989f45e9eba2dbea26499b1ef670d70d9311d38,Test updates.,Daniel Kirchner,2022-06-07T12:45:10Z
+v0.8.15,2022-06-15T14:54:01Z,7a84e9c875f4abfb201bb35c956aa87550f08bb2,Bugfix.,Daniel Kirchner,2022-05-19T18:50:50Z
+v0.8.15,2022-06-15T14:54:01Z,a27b063c10be48f303b499a90bf988c3ce5bc4ee,Test for buggy behaviour.,Daniel Kirchner,2022-05-19T18:50:41Z
+v0.8.15,2022-06-15T14:54:01Z,dccc06cc29dd797772db5740c10b02ddbe029196,Merge pull request #13135 from ethereum/foreign-event-access-revert-and-selector-cleanup,Kamil Śliwak,2022-06-14T16:14:30Z
+v0.8.15,2022-06-15T14:54:01Z,b76c048ce910b675a6c4fe01a94989e1a8a4949b,Merge pull request #13138 from ethereum/cheatsheet-shared-operator-list,Kamil Śliwak,2022-06-14T16:07:37Z
+v0.8.15,2022-06-15T14:54:01Z,f2eada1ee20ad6ca78559204faf94eec8fdb4a91,Merge pull request #13140 from ethereum/fix-ext-test-zeppelin,Daniel Kirchner,2022-06-14T14:18:03Z
+v0.8.15,2022-06-15T14:54:01Z,d0d71714a170ecb11993062cef5931b34322aa1a,Changed sed command in zeppelin.sh to match renamed test file.,Matheus Aguiar,2022-06-14T13:32:57Z
+v0.8.15,2022-06-15T14:54:01Z,1ab84bb361829fb8e67933865c9d5492d9bb82da,"Put the table with operator precedence in a separate file, included in both Operators and Cheatsheet",Kamil Śliwak,2022-06-14T12:41:41Z
+v0.8.15,2022-06-15T14:54:01Z,f323cb2ef56dfce8723ba969e9a1b26bd4995844,"Improve index entries for selectors, events and selfdestruct",Kamil Śliwak,2022-06-14T08:37:03Z
+v0.8.15,2022-06-15T14:54:01Z,7785f46efd5259f1961cf9fb79bcf8d8439fb6c5,Document the `.selector` member for errors,Kamil Śliwak,2022-06-14T08:36:43Z
+v0.8.15,2022-06-15T14:54:01Z,5375dfff9dd7e97df34f1ae38341481a1eee5295,Refactor error/event selector tests,Kamil Śliwak,2022-06-14T10:00:16Z
+v0.8.15,2022-06-15T14:54:01Z,acbdcc3711d7ca5e11c6a85fc4b71be54ac859a7,Revert the change that made events accessible in other contacts via qualified access,Kamil Śliwak,2022-06-14T08:17:23Z
+v0.8.15,2022-06-15T14:54:01Z,c8a6bd6b7e1d18ee79f1b9ba56cb006125cc8fa2,Merge pull request #13134 from Saw-mon-and-Natalie/sw0nt-fix-typo,Daniel Kirchner,2022-06-14T09:55:12Z
+v0.8.16,2022-08-08T13:44:26Z,cc11c6f3d55ca01a350b0874d3f92584f8f773b6,Set version to 0.8.17,Kamil Śliwak,2022-08-08T13:24:48Z
+v0.8.16,2022-08-08T13:44:26Z,07a7930e73f57ce6ed1c6f0b8dd9aad99e5c3692,Merge pull request #13358 from ethereum/set-release-date-0.8.16,Kamil Śliwak,2022-08-08T12:59:34Z
+v0.8.16,2022-08-08T13:44:26Z,d7531b716fc09080cdee02098a53968e0d165dd4,Tidy up and update .gitignore,Nikola Matic,2022-08-08T10:38:56Z
+v0.8.16,2022-08-08T13:44:26Z,caba38db5cde40786895ba3c9d0d1dce3508fa21,Set release date for 0.8.16 and update the bug list,Kamil Śliwak,2022-08-08T12:10:12Z
+v0.8.16,2022-08-08T13:44:26Z,f390b01dd1dde18c55db781e0f382a48ec05f744,Merge pull request #13357 from ethereum/sort-changelog-0.8.16,Daniel Kirchner,2022-08-08T12:02:29Z
+v0.8.16,2022-08-08T13:44:26Z,fb51bd69a3689886d7ce48d79058660fa1d03051,Changelog cleanup for 0.8.16,Kamil Śliwak,2022-08-08T11:57:19Z
+v0.8.16,2022-08-08T13:44:26Z,0835e41626c769273ac215a58b1e066d63a4ca0a,Sort changelog for 0.8.16 alphabetically,Kamil Śliwak,2022-08-08T11:53:55Z
+v0.8.16,2022-08-08T13:44:26Z,4e67ef2384b3ee12c58e2dbb691dfd8adfda7947,Merge pull request #13282 from ethereum/fix-array-encode-bug,Daniel Kirchner,2022-08-08T11:49:13Z
+v0.8.16,2022-08-08T13:44:26Z,22c7cd22b92d3e0c9d81880492cf8c56ea0370cd,Fix wrong cleanup when copying from calldata to memory,Marenz,2022-07-27T16:46:36Z
+v0.8.16,2022-08-08T13:44:26Z,5b0f4a724adaa83d9f15d3e9e718986a02908573,Merge pull request #13354 from ethereum/fuzz-calldata-to-calldata-coding,Kamil Śliwak,2022-08-08T10:40:38Z
+v0.8.16,2022-08-08T13:44:26Z,53947404e45d6ae614cfc582a7ac442e0213f174,Place calldata to calldata coder sanity checks.,Bhargava Shastry,2022-08-05T11:05:13Z
+v0.8.16,2022-08-08T13:44:26Z,49a2db99e69b5608c24064659528dc1d92b21fef,Merge pull request #13345 from minaminao/docs-this-no-longer-works-in-free-function,Kamil Śliwak,2022-08-05T21:47:09Z
+v0.8.16,2022-08-08T13:44:26Z,796fb2cfad3dd7172d648313a4cb8ca68735a5be,Fix description of `this` in free functions,minami,2022-08-04T06:17:32Z
+v0.8.16,2022-08-08T13:44:26Z,2c5a8c0e25fcd7f8e8979d09086e4881df797b3a,Merge pull request #13342 from ethereum/full-stop-for-error-messages,Nikola Matić,2022-08-05T09:43:44Z
+v0.8.16,2022-08-08T13:44:26Z,40de2b0442dff213acfc91e2d31076f55c71907a,Add full stops to error messages,Nikola Matic,2022-08-03T08:44:25Z
+v0.8.16,2022-08-08T13:44:26Z,19ad8b115e3fc2241d7db4f821c663adfdf0459c,Merge pull request #13279 from timweri/nested-tuple-oor-fix,matheusaaguiar,2022-08-04T18:29:50Z
+v0.8.16,2022-08-08T13:44:26Z,a9e03f5e4a19d4c70af7c28f5cea4bc4ee066ff2,Fix out-of-range compiler crash for nested tuple assignment involving,Duc Thanh Nguyen,2022-07-16T17:29:10Z
+v0.8.16,2022-08-08T13:44:26Z,14488e3f0e05707e090f703dd8ca066acffdaa81,Merge pull request #13347 from ethereum/fix-zeppelin-tests,Daniel Kirchner,2022-08-04T16:16:36Z
+v0.8.16,2022-08-08T13:44:26Z,1543d236011761ff692dc288c6d032bb066e441a,Disable failing zeppelin tests,Nikola Matic,2022-08-04T14:44:19Z
+v0.8.16,2022-08-08T13:44:26Z,c9f772eba89bf140027ff14a3fa6348c9ff2fbc5,Merge pull request #13299 from ethereum/fix-bad-cast-tuple-returned-from-function-abi-encodeCall,Kamil Śliwak,2022-08-04T14:00:47Z
+v0.8.16,2022-08-08T13:44:26Z,9acf693aa249e08c1ca138ee9d6b601391ec7d4d,Fixed bad cast when abiEncodeCall receives a tuple from a function.,Matheus Aguiar,2022-07-25T23:34:00Z
+v0.8.16,2022-08-08T13:44:26Z,14f63cc7e804eab82d420b6d9ee8e86ff877bb96,Update docs/metadata.rst,LCamel,2022-08-03T14:12:11Z
+v0.8.16,2022-08-08T13:44:26Z,82e5a110eacf6600c7b526cf495730e6898a187d,Merge pull request #13341 from Ruko97/fix-tab-alignment,Daniel Kirchner,2022-08-03T09:24:22Z
+v0.8.16,2022-08-08T13:44:26Z,3e70a406af0e18b30e9fa4e9c75466e370e56f54,fixed wrong tab alignment in YulUtilFunctions.h,Ishtiaque Zahid,2022-08-03T05:18:10Z
+v0.8.16,2022-08-08T13:44:26Z,4d4a030a01aa2d82c488af8c8e290ea24b221682,Minor grammar fixes,AN ❦,2022-07-26T07:02:53Z
+v0.8.16,2022-08-08T13:44:26Z,d5a78b18b3fd9e54b2839e9685127c6cdbddf614,Merge pull request #13313 from QGarchery/develop,chriseth,2022-07-28T13:30:44Z
+v0.8.16,2022-08-08T13:44:26Z,b3fd11a66fb6cc5a1142f9e321f5e5b3b36f5a3f,fix: global state object in yul formal specification,Quentin Garchery,2022-07-28T09:12:14Z
+v0.8.16,2022-08-08T13:44:26Z,72f1907298f8bd55cd22d16ebb8975de910ba4d3,Merge pull request #13131 from rodrigobaraglia/develop,matheusaaguiar,2022-07-27T16:58:46Z
+v0.8.16,2022-08-08T13:44:26Z,95bc553ffcea03c936c50b064495f1fb36b330c9,replace boost/range/for_each with standard for loop over rangev3/view/zip in ContractABIUtils::overwriteParameters,rodrigobaraglia,2022-06-13T21:47:42Z
+v0.8.16,2022-08-08T13:44:26Z,63f8a93ca8a345661321702df911dfe1ca7d6ba4,Merge pull request #13304 from ethereum/tmp-fix-zep,Mathias L. Baumann,2022-07-27T15:29:49Z
+v0.8.17,2022-09-08T15:25:26Z,8df45f5f8632da4817bc7ceb81497518f298d290,Merge pull request #13502 from ethereum/finalize-release-0.8.17,Daniel Kirchner,2022-09-08T14:35:41Z
+v0.8.17,2022-09-08T15:25:26Z,722e9d8693a6b479ee266e7ac2d6eac2310b9a30,Set release date for 0.8.17 and update the bug list,Kamil Śliwak,2022-09-08T12:39:36Z
+v0.8.17,2022-09-08T15:25:26Z,514842e2a4b52f4fd5576aaf6ccc9b94bc2c082c,Sort changelog for 0.8.17 alphabetically,Kamil Śliwak,2022-09-08T12:38:23Z
+v0.8.17,2022-09-08T15:25:26Z,1649f24767d3828a30ba8646181f1cb836dd8077,Add missing changelog entries for a few PRs that will go into 0.8.17,Kamil Śliwak,2022-09-08T12:58:56Z
+v0.8.17,2022-09-08T15:25:26Z,130892cdaaf096236dbb77ee5eeef4871a29128f,Merge pull request #13503 from ethereum/release-link-check,Daniel Kirchner,2022-09-08T13:32:25Z
+v0.8.17,2022-09-08T15:25:26Z,f90b25449dd42d877578399b57a46ae0e3e4c6d3,Fix SMT checker paper link,Nikola Matic,2022-09-08T13:22:47Z
+v0.8.17,2022-09-08T15:25:26Z,727591b984a2911f9a59ab1339ea1fa4bce02412,Merge pull request #13479 from ethereum/unusedStoreStorageBug,Daniel Kirchner,2022-09-08T12:04:04Z
+v0.8.17,2022-09-08T15:25:26Z,a39bce010e45ad96aff99593f9ef1de7a1a94bab,Fix dynamic array spec,Anton Paymyshev,2022-09-08T10:50:44Z
+v0.8.17,2022-09-08T15:25:26Z,d6eb255df4176d130c9275130824b9efd4ce0b46,Changelog entry and bug list entry.,Daniel Kirchner,2022-09-05T11:22:33Z
+v0.8.17,2022-09-08T15:25:26Z,a33da17300f919b2e730b911bd20813e84d41523,Bugfix and tests.,Daniel Kirchner,2022-09-05T09:31:09Z
+v0.8.17,2022-09-08T15:25:26Z,f5620219185ab1dbf9a0e36f454437a17040a1a7,Update ReleaseChecklist.md,Ikko Ashimine,2022-09-08T02:34:11Z
+v0.8.17,2022-09-08T15:25:26Z,d5e292532669dc450c2c276da6caaf2055c8f228,broken yul optimizer test,Daniel Kirchner,2022-09-05T10:55:52Z
+v0.8.17,2022-09-08T15:25:26Z,0262621b9f68ad9758f501da199347fafcce6fbd,fixup! Add test for copying reference types between data locations,wechman,2022-09-07T08:45:35Z
+v0.8.17,2022-09-08T15:25:26Z,c5d8c5ad05bb583ebe0566e9c904552782bd282c,Add test for copying reference types between data locations,wechman,2022-08-24T08:18:56Z
+v0.8.17,2022-09-08T15:25:26Z,548a4b4ac6934b1103f93069fd69c11d2e33c27e,Merge pull request #13474 from ethereum/add-note-about-peephole-optimizer,Kamil Śliwak,2022-09-06T20:59:09Z
+v0.8.17,2022-09-08T15:25:26Z,efe558a989cdacf783bd2b936a6bc30e45f2e527,Added note about PeepholeOptimizer in docs.,Matheus Aguiar,2022-09-01T19:51:11Z
+v0.8.17,2022-09-08T15:25:26Z,7351f6d0847772236f68f01a283e78200a412569,Merge pull request #13491 from ethereum/pin-hardhat-version-in-bleeps-tests,Daniel Kirchner,2022-09-06T17:59:49Z
+v0.8.17,2022-09-08T15:25:26Z,71d12099966dfff2a2f3d374990023f73977a03a,Pin hardhat version in bleeps tests,Nikola Matic,2022-09-06T15:55:23Z
+v0.8.17,2022-09-08T15:25:26Z,b4b5f7b355d46e8f286926d9b0da613ecc7a09dc,Merge pull request #13489 from ethereum/pin-hardhat-version-in-yield-liquidator-tests,Nikola Matić,2022-09-06T10:49:51Z
+v0.8.17,2022-09-08T15:25:26Z,f7e22fc00d0d9cc12c7273afb88857bbd6dd8b10,Merge pull request #13487 from ethereum/add-message-to-gp2-pin,Nikola Matić,2022-09-06T10:49:35Z
+v0.8.17,2022-09-08T15:25:26Z,8c4bbf1f4e753ea2d2cffc7365b300ba9cb75df7,Pin hardhat version in yield-liquidator tests,Nikola Matic,2022-09-06T09:06:31Z
+v0.8.17,2022-09-08T15:25:26Z,deab2bf37e04547832f147813e8237bef18226a0,Add comment to pinned GP2 hardhat version,Nikola Matic,2022-09-06T06:10:55Z
+v0.8.17,2022-09-08T15:25:26Z,e0b2162bf9a4542c6b85af752e6493d6a51df3e7,Merge pull request #13485 from ethereum/pin-hardhat-in-gp2-ext-tests,Nikola Matić,2022-09-05T19:55:24Z
+v0.8.17,2022-09-08T15:25:26Z,53059936cc64858eb9419f61ec0189b52f290722,Pin hardhat version in GP2 external tests,Nikola Matic,2022-09-05T18:52:46Z
+v0.8.17,2022-09-08T15:25:26Z,7911666ab33a7191734243a0ea210c2a976ecb07,Merge pull request #13463 from emmaodia/develop,Daniel Kirchner,2022-09-05T18:47:30Z
+v0.8.17,2022-09-08T15:25:26Z,0d98436de6be9cf95b4c85ca8c07752d5a245c46,Grammar fix,emmaodia,2022-08-31T10:11:34Z
+v0.8.17,2022-09-08T15:25:26Z,62e4ce338774483d6185269ed554b9b64d48a2c0,Merge pull request #13363 from ethereum/release-checklist-update-and-tweaks,Daniel Kirchner,2022-09-05T17:00:38Z
+v0.8.17,2022-09-08T15:25:26Z,ccc331743cf76f1381730e08de83e22c69ae79e8,ReleaseChecklist: Markdown formatting for all links,Kamil Śliwak,2022-09-05T16:19:51Z
+v0.8.17,2022-09-08T15:25:26Z,98ad27d42ca0f3d0b423b0a1ba898ef7ffda5ba0,ReleaseChecklist: Update PPA instructions,Kamil Śliwak,2022-08-16T10:54:10Z
+v0.8.17,2022-09-08T15:25:26Z,be67e76165990db62b3a20e493225555dc05e80b,ReleaseChecklist: Update the list of requirements,Kamil Śliwak,2022-08-11T12:40:03Z
+v0.8.18,2023-02-01T15:12:04Z,87f61d960cceab32489350726a99c050e6f92c61,Merge pull request #13913 from ethereum/changelog-v0.8.18,Kamil Śliwak,2023-02-01T14:36:41Z
+v0.8.18,2023-02-01T15:12:04Z,66007f500195bdca41dea0ab80dddf86a14a0df8,Add release date and bugs by version entry for 0.8.18,Rodrigo Q. Saramago,2023-02-01T13:08:57Z
+v0.8.18,2023-02-01T15:12:04Z,a186e607827ce7ce5578d671d3d1b580626a6525,Sort changelog for 0.8.18 alphabetically,Rodrigo Q. Saramago,2023-02-01T11:56:23Z
+v0.8.18,2023-02-01T15:12:04Z,836e1ee1cadf55161b3689a8df37b471693f9b44,Merge pull request #13914 from ethereum/pylint-2.16-fix,Kamil Śliwak,2023-02-01T13:43:46Z
+v0.8.18,2023-02-01T15:12:04Z,828f95ad9ecce5dacf7d3b37340803e1c17708fd,Fix pylint 2.16 warnings,Rodrigo Q. Saramago,2023-02-01T12:22:08Z
+v0.8.18,2023-02-01T15:12:04Z,37953a7eb0bc53e8d3125952554a9da233df7ef0,Merge pull request #13911 from ethereum/fix-broken-docs-links-and-redirects,Kamil Śliwak,2023-02-01T13:13:31Z
+v0.8.18,2023-02-01T15:12:04Z,8447baec4db9537dfe2d22bddb726a0938a0aa3c,docs; Link to published versions of translated docs for languages that already have them,Kamil Śliwak,2023-02-01T11:27:56Z
+v0.8.18,2023-02-01T15:12:04Z,57b01db57b3c7bb6110ec3c39e4336d85528c86a,docs: Replace broken link to Oxford Dictionary British spelling page with an archive.org copy,Kamil Śliwak,2023-02-01T11:27:23Z
+v0.8.18,2023-02-01T15:12:04Z,986bc361b15f0f89bc4cad97807e69a36378fc36,docs: Replace some links with redirects found by linkcheck,Kamil Śliwak,2023-02-01T11:26:44Z
+v0.8.18,2023-02-01T15:12:04Z,20138f35df4111ea9ad3aafafa6739c9d7e8aa79,Merge pull request #13909 from codeTIT4N/develop,Kamil Śliwak,2023-02-01T10:54:06Z
+v0.8.18,2023-02-01T15:12:04Z,6cad055d97c5e9abaccd971598a40e8a0ea91d34,[DOCS] Update copyright year and description (#13894),franzihei,2023-02-01T10:47:08Z
+v0.8.18,2023-02-01T15:12:04Z,dec1adc03b01919a9843661ff0b3d100c544bf57,Merge pull request #13883 from ethereum/default-evmversion-paris,Kamil Śliwak,2023-02-01T10:45:13Z
+v0.8.18,2023-02-01T15:12:04Z,4f84112650cab6701bcfa7e6c86e43069615819c,updated abi-spec.rst,Lokesh Kumar,2023-01-31T21:42:03Z
+v0.8.18,2023-02-01T15:12:04Z,feba4de50994de90531236b9f7734d27c7b6af2d,Add paris constraints to SMTChecker,Rodrigo Q. Saramago,2023-01-19T13:06:23Z
+v0.8.18,2023-02-01T15:12:04Z,fa4892e6221cf05a1f939608682a4a9dbc324439,Merge pull request #13905 from shimmeris/patch-2,Kamil Śliwak,2023-01-31T09:29:05Z
+v0.8.18,2023-02-01T15:12:04Z,a68501cebda6fa1ac6affe020496d4c7575deda6,fix redundant typo,Mio,2023-01-31T05:23:47Z
+v0.8.18,2023-02-01T15:12:04Z,d9d9ab30a231601441c60ceb98d636977e54b26a,Update default evm version to paris,Rodrigo Q. Saramago,2023-01-18T16:34:48Z
+v0.8.18,2023-02-01T15:12:04Z,939b916f4a9263213db3844dea0fea2b6326c358,Merge pull request #13903 from ethereum/asan-cvc4-cln-memory-leak,Daniel,2023-01-30T13:32:40Z
+v0.8.18,2023-02-01T15:12:04Z,21f95c45369fa84f78b374dee8d4b8e98ef22c45,Suppress libcln from asan tests,Rodrigo Q. Saramago,2023-01-30T12:22:58Z
+v0.8.18,2023-02-01T15:12:04Z,cfc62a4e0742456a0e7ece669e7c2339d65f3539,Merge pull request #13902 from ethereum/paris-proto,Bhargava Shastry,2023-01-30T10:49:48Z
+v0.8.18,2023-02-01T15:12:04Z,564cf85725639f47558fcc1dc2d02366aeb6a391,Yul proto converter: Output prevrandao for evm versions >= paris,Bhargava Shastry,2023-01-30T08:19:33Z
+v0.8.18,2023-02-01T15:12:04Z,206e7cf5db48b13085b943436764c41f169c6c3b,Disable stale action debug mode (#13756),r0qs,2023-01-26T13:40:38Z
+v0.8.18,2023-02-01T15:12:04Z,019d13d3b66e70903207d4bcdcd443d950674826,Merge pull request #13884 from ethereum/deprecation-warning-for-selfdestruct,Nikola Matić,2023-01-26T13:33:26Z
+v0.8.18,2023-02-01T15:12:04Z,83a937423f2d486a4e92004ad02acf21599239e9,Update docs to reflect deprecation warning,Nikola Matic,2023-01-24T10:43:34Z
+v0.8.18,2023-02-01T15:12:04Z,e7543d487d8dd813ca37765d5d8b1c011641a6eb,Issue warning when using deprecated SELFDESTRUCT,Nikola Matic,2023-01-19T08:34:14Z
+v0.8.18,2023-02-01T15:12:04Z,fd9ac9abed2049a4b8134d39e178275c8aad75b6,Merge pull request #13759 from ethereum/prevrandao,Daniel,2023-01-25T15:37:17Z
+v0.8.18,2023-02-01T15:12:04Z,ef6ff2f05550e4386f2fec7753a44fe39a124488,"Adds support for the EVM version ""Paris"".",Rodrigo Q. Saramago,2022-11-23T10:51:34Z
+v0.8.18,2023-02-01T15:12:04Z,d70d79af4a4b3636274a982e2a1087c50242a130,Merge pull request #13816 from quantum13/disallow_several_indexed_for_event_parameter,Kamil Śliwak,2023-01-20T20:14:39Z
+v0.8.18,2023-02-01T15:12:04Z,484ee8a62162680acea3fbc37ab2a8eadc5758dd,"Additional tests for edge cases for mutability, visibility, location, experimental, global, indexed and anonymous",vlad,2022-12-29T19:43:12Z
+v0.8.18,2023-02-01T15:12:04Z,7fbd36855d643f09f591613961c367396c858e31,Disallow usage of the indexed attribute for modifier parameters Added tests for edge cases of several keywords,vlad,2022-12-25T16:14:23Z
+v0.8.19,2023-02-22T14:19:40Z,7dd6d404815651b2341ecae220709a88aaed4038,Merge pull request #13996 from ethereum/set-release-date-for-0.8.19,Daniel,2023-02-22T13:25:21Z
+v0.8.19,2023-02-22T14:19:40Z,21823613bcc491d33b2a878eea22b2d973cd8a1e,Set release date for 0.8.19,Nikola Matic,2023-02-22T12:33:25Z
+v0.8.19,2023-02-22T14:19:40Z,1d8e0abd0acdfb4c68c1e583cf545ee9914c3520,Merge pull request #13995 from ethereum/revert-13994-set-version-to-0.8.20,Daniel,2023-02-22T12:29:02Z
+v0.8.19,2023-02-22T14:19:40Z,5f0f91974af8bf85dd2798ea3c5dff32879efed6,"Revert ""Set version to 0.8.20""",Nikola Matić,2023-02-22T12:27:50Z
+v0.8.19,2023-02-22T14:19:40Z,ab74a268ae932e0f7497ec3878247a150d016844,Merge pull request #13994 from ethereum/set-version-to-0.8.20,Nikola Matić,2023-02-22T12:04:15Z
+v0.8.19,2023-02-22T14:19:40Z,d4a08bda9350b8e137114959e45bab967755118c,Merge pull request #13993 from ethereum/sort-changelog-for-0.8.19,Daniel,2023-02-22T11:38:25Z
+v0.8.19,2023-02-22T14:19:40Z,02b02f507ddfe6b0ebc3ea199ac750e31b781be0,Set version to 0.8.20,Nikola Matic,2023-02-22T11:17:21Z
+v0.8.19,2023-02-22T14:19:40Z,486be8f10dc344614c01eda04ff730d6a86a1324,Sort Changelog for 0.8.19,Nikola Matic,2023-02-22T07:43:41Z
+v0.8.19,2023-02-22T14:19:40Z,94ab0e3c53f0e28a10291a3ad29272cda91e014c,Sort Changelog for 0.8.19,Nikola Matic,2023-02-22T07:43:41Z
+v0.8.19,2023-02-22T14:19:40Z,103bf7a71f8ff7782cbc98c14a01e01a1007555e,Merge pull request #13790 from ethereum/user-defined-operators-for-udvt,Daniel,2023-02-22T10:58:48Z
+v0.8.19,2023-02-22T14:19:40Z,82817bfc3a963d10ce3dd83079c097c92e14e006,Merge pull request #13963 from fulldecent/feature-leading-underscore,Nikola Matić,2023-02-22T07:23:27Z
+v0.8.19,2023-02-22T14:19:40Z,6216842458dde5137196ea14e94197b8b1931e36,"Add recommendation for leading underscore, see #11764",William Entriken,2023-02-12T01:00:13Z
+v0.8.19,2023-02-22T14:19:40Z,aba5ac5e2a90477b4d69cb7e7eb4eb24407257ae,User-defined operators: Tests,wechman,2022-07-28T06:39:10Z
+v0.8.19,2023-02-22T14:19:40Z,5b5e853ea0a1ddbe9be93e29a6477d12039535dc,Warn about missing user-defined operator support in SMTChecker,Kamil Śliwak,2023-01-28T02:20:43Z
+v0.8.19,2023-02-22T14:19:40Z,2e8d50eca2bc4a3c76f262b5480d8222d626f41f,User-defined operators: Documentation,wechman,2022-08-10T08:42:02Z
+v0.8.19,2023-02-22T14:19:40Z,1a83fa7ebcb4e2953432439aeab97f33f335eded,User-defined operators: Code generation,wechman,2022-07-06T07:17:59Z
+v0.8.19,2023-02-22T14:19:40Z,5b03c13f90cc4187907e295486faa60d28d45683,User-defined operators: Analysis,wechman,2022-07-06T07:17:59Z
+v0.8.19,2023-02-22T14:19:40Z,9445483d60397ac6d41c9639eb03903b0e6d8d64,User-defined operators: Parsing and grammar,wechman,2022-07-06T07:17:59Z
+v0.8.19,2023-02-22T14:19:40Z,9a36438441ef4d7eab4f1c10a8c1dbcfb7d3157b,User-defined operators: AST,wechman,2022-07-06T07:17:59Z
+v0.8.19,2023-02-22T14:19:40Z,fa0d3a44a7868aee4277faafab7b028f9679f132,Tests for using enums and fixed-point types as user-defined types,Kamil Śliwak,2023-02-07T16:37:17Z
+v0.8.19,2023-02-22T14:19:40Z,9efc422b480f71fd01ecae5205da4df06f363011,Run triage action on all new issues,Rodrigo Q. Saramago,2023-02-21T21:04:41Z
+v0.8.19,2023-02-22T14:19:40Z,38b5ae578b95b6aabeb028beb16cdc77e9cbaa37,Fix typo in test name: singed -> signed,Kamil Śliwak,2022-12-01T00:35:04Z
+v0.8.19,2023-02-22T14:19:40Z,6c9fc5387433751cd92fc56257c65c5e516e43dd,Merge pull request #13991 from ethereum/fix-broken-links-for-0.8.19,Daniel,2023-02-21T15:28:21Z
+v0.8.19,2023-02-22T14:19:40Z,2c306ed32c48362c34ca9e951dae496d8fa03877,Fix broken links for 0.8.19,Nikola Matic,2023-02-21T13:46:41Z
+v0.8.19,2023-02-22T14:19:40Z,ff61192eda34b80406bc4521b83c0bd106cbb9d1,Merge pull request #13980 from Drblessing/develop,Nikola Matić,2023-02-21T13:07:37Z
+v0.8.19,2023-02-22T14:19:40Z,37e507972c16015a2a6f6efe5e2303c521badb7b,Update block time documentation,drblessing,2023-02-17T05:58:18Z
+v0.8.19,2023-02-22T14:19:40Z,c2036081dbd2c6edeb6954061aa9afc9dab87afb,Merge pull request #13804 from ethereum/duplicatedSubAssembly,Nikola Matić,2023-02-21T06:07:07Z
+v0.8.19,2023-02-22T14:19:40Z,d3d9d09f5e37e144e53c4b8d45195e143d979b32,Merge pull request #13990 from minaminao/remove-unnecesary-text-in-yul-rst,Daniel,2023-02-20T21:37:16Z
+v0.8.19,2023-02-22T14:19:40Z,4064116df43ee7a6384497a6516db3d9087acd11,Do not duplicate subassemblies.,Daniel Kirchner,2022-12-14T14:52:05Z
+v0.8.19,2023-02-22T14:19:40Z,411431444e179d6593a4f8bc540301e34c5f58c6,fix: remove unnecessary text in yul.rst,minaminao,2023-02-20T20:37:10Z
+v0.8.20,2023-05-10T11:21:23Z,a1b79de64235f13e6b06e088fe6365c5a12d13d3,Update bugs by version entry for 0.8.20.,Daniel Kirchner,2023-05-10T10:21:29Z
+v0.8.20,2023-05-10T11:21:23Z,3c77d33db86934e0958864f46fc186be65760a27,Set release date for 0.8.20.,Daniel Kirchner,2023-05-10T10:20:00Z
+v0.8.20,2023-05-10T11:21:23Z,0f2bd3e8bdc5e3ca410a7651445ffc7b84a29e56,Merge pull request #14204 from ethereum/sortChangelog0_8_20,Daniel,2023-05-10T10:18:09Z
+v0.8.20,2023-05-10T11:21:23Z,b730bde54d412eaefe6ad21a8143448fe86c0420,Sort and adjust changelog for 0.8.20.,Daniel Kirchner,2023-05-10T09:49:07Z
+v0.8.20,2023-05-10T11:21:23Z,8366bd439b4ff955befc7c0c809fb6ed8de05ec2,Merge pull request #14205 from ethereum/fixAntlr4,Daniel,2023-05-10T10:11:21Z
+v0.8.20,2023-05-10T11:21:23Z,606fbd8fcc9a42d48b7f3e61048507619de77d2a,Fix antlr grammar.,Daniel Kirchner,2023-05-10T09:59:20Z
+v0.8.20,2023-05-10T11:21:23Z,328f9c8f99759cb4b3129b1cc979c682b15a58da,Merge pull request #14203 from ethereum/gitterLinkFix,Daniel,2023-05-10T09:39:16Z
+v0.8.20,2023-05-10T11:21:23Z,d5c3d34bf487d5a0f0ee9d4f4ed1d7f86e60e5e7,Fix gitter link.,Daniel Kirchner,2023-05-10T09:38:24Z
+v0.8.20,2023-05-10T11:21:23Z,44a30e47ca0e4c128df1f557ef52de65ff7de1aa,Merge pull request #14171 from ethereum/ast-import-via-standard-json,Daniel,2023-05-09T20:22:31Z
+v0.8.20,2023-05-10T11:21:23Z,4837d4236110660871f0a5d8ac1a93ad9e7b6a96,Add experimental support to import AST via Standard JSON.,Alexander Arlt,2023-04-28T16:29:59Z
+v0.8.20,2023-05-10T11:21:23Z,a02a7206d87b2409e38c2850f0291ef75b0f97f4,Merge pull request #14201 from ethereum/fix-hidden-overload-warning-in-types,Daniel,2023-05-09T18:47:26Z
+v0.8.20,2023-05-10T11:21:23Z,3bec4c09befd87159a74a628580338f5772e44c6,Disable dangling-reference warning,Nikola Matic,2023-05-09T17:54:00Z
+v0.8.20,2023-05-10T11:21:23Z,3bab14747ece3e0d13c5489ae11f59833208b706,Fix hidden-overload in Types and remove CMake hack,Nikola Matic,2023-05-09T17:33:02Z
+v0.8.20,2023-05-10T11:21:23Z,d370f53b7e025780182b4cd539d560f3e3abefd7,Merge pull request #14180 from ethereum/fix_override_error,Daniel,2023-05-09T17:23:06Z
+v0.8.20,2023-05-10T11:21:23Z,0d0bcf628d658fe962b4957fa03bbe4a3cffe64b,Merge pull request #14199 from ethereum/evmoneDockerUpdate,Daniel,2023-05-09T17:20:40Z
+v0.8.20,2023-05-10T11:21:23Z,4c4eadd893d8abf51e78d98e38941458dfc8ef78,Merge pull request #14200 from ethereum/updateEvmone,Daniel,2023-05-09T17:20:22Z
+v0.8.20,2023-05-10T11:21:23Z,75a0c486a8cfbd4ae48266dd3781652114e24256,Adjust gas expectations due to new creation costs.,Daniel Kirchner,2023-05-09T16:22:44Z
+v0.8.20,2023-05-10T11:21:23Z,c1720e62aa1adbd840abc5a2fcc4bbe6806e2a0d,Implement missing overrides and relax smtAsserts,Matheus Aguiar,2023-05-04T00:55:49Z
+v0.8.20,2023-05-10T11:21:23Z,53626fc092a0358d0e28f889e1ebc862593e5f1a,Bump docker images and evmone version.,Daniel Kirchner,2023-05-09T15:59:00Z
+v0.8.20,2023-05-10T11:21:23Z,77af0b41df4654c8f11885885474ac8db05e388f,Bump evmone version in docker images to 0.10.0.,Daniel Kirchner,2023-05-09T11:06:55Z
+v0.8.20,2023-05-10T11:21:23Z,347c966f082976fcc724a0c6c55c4b991d96a156,Merge pull request #14198 from ethereum/disallow-immutable-initialization-in-try-catch,Nikola Matić,2023-05-09T13:37:14Z
+v0.8.20,2023-05-10T11:21:23Z,9a87b587d52cf59ecb5d6f947023e951a7a8627a,Disallow immutable initialization in try catch statements,Nikola Matic,2023-05-09T10:12:12Z
+v0.8.20,2023-05-10T11:21:23Z,2da0a861ce155eb260585492fb0849fe10ae01a5,Merge pull request #14195 from ethereum/fix-push0-docs,Daniel,2023-05-08T16:57:11Z
+v0.8.20,2023-05-10T11:21:23Z,cbd6495fb1ea13ecae1b24882411df596dd90eec,docs: mention that `push0` also decreases the runtime costs,hrkrshnn,2023-05-08T16:53:10Z
+v0.8.20,2023-05-10T11:21:23Z,f32f35f8f1af1719aefe5b7edde364b77725bb0e,Merge pull request #14140 from ethereum/foundry-ci-setup,Daniel,2023-05-08T16:18:04Z
+v0.8.20,2023-05-10T11:21:23Z,4ccda14798323d88191e9ed0375747e0c4d9c194,Merge pull request #14164 from BraxWong/BraxBranch,Daniel,2023-05-08T15:47:29Z
+v0.8.20,2023-05-10T11:21:23Z,94d3747034a39566683d04820fe7b5fd1a97c239,Merge pull request #14158 from ethereum/shanghai,Daniel,2023-05-08T15:29:11Z
+v0.8.20,2023-05-10T11:21:23Z,ccc2b8e2db7c67565aa29cc01ccbccd568e2b54d,Make python and foundry installation steps a command,Rodrigo Q. Saramago,2023-05-06T11:40:31Z
+v0.8.20,2023-05-10T11:21:23Z,44da8507b1fc32083a62662dfbc130f22fc06306,Change default EVM version to Shanghai.,Daniel Kirchner,2023-04-26T11:03:17Z
+v0.8.20,2023-05-10T11:21:23Z,759732d3108f12ee6f94547bb336aea6de59d7be,Remove python unlink,Rodrigo Q. Saramago,2023-05-04T14:18:46Z
+v0.8.21,2023-07-19T08:57:55Z,d9974bed7134e043f7ccc593c0c19c67d2d45dc4,Merge pull request #14427 from ethereum/set-release-date-version-0.8.21,Nikola Matić,2023-07-19T08:56:46Z
+v0.8.21,2023-07-19T08:57:55Z,ce1453b8f8bbef1caa4968f90e3c09fa0caf19de,Merge pull request #14422 from ethereum/sort-changelog-for-0.8.21,Nikola Matić,2023-07-19T08:51:53Z
+v0.8.21,2023-07-19T08:57:55Z,601104ea942de985082863b15206c5fa03a649a7,Sort Changelog for 0.8.21 release,Nikola Matic,2023-07-18T17:56:07Z
+v0.8.21,2023-07-19T08:57:55Z,09628b7502f85de143983726c3649dda8a09bfb4,Set release date for 0.8.21,Nikola Matic,2023-07-19T07:27:09Z
+v0.8.21,2023-07-19T08:57:55Z,1acebf78ee2b58f1e40d8cc0b460de1237160f66,Merge pull request #14424 from ethereum/missing-changelog-entries,Nikola Matić,2023-07-18T19:43:24Z
+v0.8.21,2023-07-19T08:57:55Z,f622a6c5148f87c498dbd1dbbdf3426a89782e38,Add missing changelog entries,Martin Blicha,2023-07-18T18:28:52Z
+v0.8.21,2023-07-19T08:57:55Z,9206885bdd22278aa397c114858690f03249d7a0,Merge pull request #14421 from ethereum/fix-broken-docs-links,Nikola Matić,2023-07-18T17:15:14Z
+v0.8.21,2023-07-19T08:57:55Z,2a46e2fedcf7afdc6a49db544a461fa4e4500c1d,Merge pull request #14366 from ethereum/selectorSideEffects,Nikola Matić,2023-07-18T17:14:30Z
+v0.8.21,2023-07-19T08:57:55Z,aba7d1769c1430570a2b66fea315f129322813b8,Fix broken links in docs,Nikola Matic,2023-07-18T16:06:56Z
+v0.8.21,2023-07-19T08:57:55Z,86602852be6495c0adb07daea443a8c095b65263,Add buglist entry,r0qs,2023-07-11T09:54:24Z
+v0.8.21,2023-07-19T08:57:55Z,5c7214cbe343a57540754accb8a4bbc4db3027bd,Always generate code for .selector member access.,Daniel Kirchner,2023-06-26T15:14:08Z
+v0.8.21,2023-07-19T08:57:55Z,64427412c4f0ed10e7aab5b7450f969835b07cbf,Merge pull request #14347 from ethereum/fixTypeCheckingAbiDecode,Nikola Matić,2023-07-18T16:14:45Z
+v0.8.21,2023-07-19T08:57:55Z,23fb9bc3a6842884b4c9530651d5fcf71b50679d,Merge pull request #14367 from ethereum/functionTypeMobileType,Nikola Matić,2023-07-18T15:55:02Z
+v0.8.21,2023-07-19T08:57:55Z,82cb5338a90b13a6d9483164bdb7734ed021c86a,Relax delegatecall type restriction plus test,Nikola Matic,2023-07-18T11:55:46Z
+v0.8.21,2023-07-19T08:57:55Z,110e2a656da142bdec13f13bf06b9961cc074588,Restrict mobile types of function types.,Daniel Kirchner,2023-06-26T17:07:24Z
+v0.8.21,2023-07-19T08:57:55Z,4fd5bbf50b24c9457fa87a091101295b0fbde7fc,Restrict mobileType of TypeType,Matheus Aguiar,2023-06-22T13:56:08Z
+v0.8.21,2023-07-19T08:57:55Z,2c82873a2cd3f7a246683d688aa8ffdf836e9a8a,Merge pull request #14371 from ethereum/overrideMagicType_mobileType,Kamil Śliwak,2023-07-18T10:57:39Z
+v0.8.21,2023-07-19T08:57:55Z,f3fc19080aba715b44c22323fd5ffa436aa8274c,Override mobileType of MagicType to null,Matheus Aguiar,2023-06-27T17:52:15Z
+v0.8.21,2023-07-19T08:57:55Z,4c4410e0c5ec0faf794b497086c9354c8c1d223a,Merge pull request #14365 from ethereum/declarationFunctionTypeConversions,Kamil Śliwak,2023-07-17T17:21:29Z
+v0.8.21,2023-07-19T08:57:55Z,0ab0842c2944680c3f92119ee4185822b9a63350,Disallow conversions between declaration function types.,Daniel Kirchner,2023-06-26T15:00:52Z
+v0.8.21,2023-07-19T08:57:55Z,755110aed45a21a21def51c6b5dc946bbd284bc3,Merge pull request #14407 from ethereum/fix-inliner-argument-order-bug,Kamil Śliwak,2023-07-17T16:32:50Z
+v0.8.21,2023-07-19T08:57:55Z,735326d50d0463290fdc18b786ab1566d8ce8064,Properly document FullInliner's prerequisites,Kamil Śliwak,2023-07-11T12:05:04Z
+v0.8.21,2023-07-19T08:57:55Z,ba3f9dd2a2056a5b9def06568eef19b28be74af0,FullInliner: Do not include calls whose arguments may have side-effects,Kamil Śliwak,2023-07-11T10:33:33Z
+v0.8.21,2023-07-19T08:57:55Z,5e1e0e7752f2c71eb0e07d5a9dc7d677e22366a1,FullInliner: Fix order of arguments of inlined functions,Kamil Śliwak,2023-07-11T10:13:00Z
+v0.8.21,2023-07-19T08:57:55Z,a07f6c443ae6abe6b232999a7991929077dfb2ee,Tests for Yul argument evaluation order after optimization,Kamil Śliwak,2023-07-11T09:32:02Z
+v0.8.21,2023-07-19T08:57:55Z,edceb4d2d1ee40e47e73fb8ee3271047e57d002a,Allow testing FullInliner without ExpressionSplitter,Kamil Śliwak,2023-07-11T09:49:05Z
+v0.8.21,2023-07-19T08:57:55Z,96bb39d1b4569b8eb3f00273cce7741d9f55a662,Merge pull request #14304 from ethereum/relax-restrictions-on-immutable-initialization-outside-functions-and-modifiers,Kamil Śliwak,2023-07-17T14:38:57Z
+v0.8.21,2023-07-19T08:57:55Z,11be2f4881d1644f15b026d1022388f06a034a34,Squashed commit of the following: (#14401),Paul Wackerow,2023-07-14T18:31:06Z
+v0.8.21,2023-07-19T08:57:55Z,e70e595ce7ff80ad4c31de14b84b17723a6375d4,Merge pull request #14355 from ethereum/via-ir-bytecode-comparison,Kamil Śliwak,2023-07-14T15:26:13Z
+v0.8.21,2023-07-19T08:57:55Z,dad2bf64723cc83f0168bae0310714db01983a50,Relax restrictions on immutable initialization,Kamil Śliwak,2023-05-30T14:07:00Z
+v0.8.22,2023-10-25T10:40:08Z,4fc1097e8df32897ccee8985019610fa5a869212,Merge pull request #14642 from ethereum/set-release-date-0.8.22,Kamil Śliwak,2023-10-25T10:32:32Z
+v0.8.22,2023-10-25T10:40:08Z,a582684d328100da20491c592544a55eeaa562ce,Set release date for 0.8.21 and update the bug list,Kamil Śliwak,2023-10-25T09:02:47Z
+v0.8.22,2023-10-25T10:40:08Z,c7e52122884aa08ca0f3d7fd0c96794a7f8fd232,Merge pull request #13673 from ethereum/import-asm-json-updated,Daniel,2023-10-24T17:41:37Z
+v0.8.22,2023-10-25T10:40:08Z,91c7b32d60813a7a9456e858a40be256cd3ec21a,CLI test for mass EVM assembly import/export,Alexander Arlt,2022-11-02T04:58:45Z
+v0.8.22,2023-10-25T10:40:08Z,67e11fc477a1c361ea04751772b1d490361b6b93,EVM assembly import via --import-asm-json,Alexander Arlt,2022-11-02T04:58:45Z
+v0.8.22,2023-10-25T10:40:08Z,3e823e01a5a295a90b861fc99345c2cd09121e89,Introduce AbstractAssemblyStack interface,Kamil Śliwak,2023-10-24T14:40:39Z
+v0.8.22,2023-10-25T10:40:08Z,e8b898ce8cd85b4d02f79b4819e5398750dbf304,"ASTImportTest.sh: Keep temporary files in subdirs of a single, properly named dir",Kamil Śliwak,2023-10-24T14:40:39Z
+v0.8.22,2023-10-25T10:40:08Z,2cce9c7076845ed336a4ca6838d243824094a1df,Merge pull request #13378 from ethereum/forLoopSpecialCaseCodegen,Daniel,2023-10-24T12:19:36Z
+v0.8.22,2023-10-25T10:40:08Z,9efa75249fe1c2846f1afee2e67da100b5c20939,Merge pull request #14637 from ethereum/fix-broken-docs-links-0-8-22,Nikola Matić,2023-10-24T12:07:04Z
+v0.8.22,2023-10-25T10:40:08Z,f294988d564a91f8aef76d57d35baf7359b52c1d,Fix broken docs link for 0.8.22,Nikola Matic,2023-10-24T08:07:49Z
+v0.8.22,2023-10-25T10:40:08Z,2b8c9975b7118aaaf553f0db6e75377f48c36bd7,Special case code generation for for loops.,Daniel Kirchner,2022-08-10T13:48:06Z
+v0.8.22,2023-10-25T10:40:08Z,1b5775acff81e1a049c809ac2503afae75a546d0,Merge pull request #14591 from ethereum/old-evm-deprecation-warning,Kamil Śliwak,2023-10-23T13:29:41Z
+v0.8.22,2023-10-25T10:40:08Z,127a390066825e65e7cd7b88971d58e6a09d1752,docs: Fix broken style in the description of shanghai EVM features,Kamil Śliwak,2023-10-10T13:15:16Z
+v0.8.22,2023-10-25T10:40:08Z,2f01aa3365ac054cac0994dc5f6a15c64c562ba7,Issue a deprecation warning for byzantium and older EVM versions,Kamil Śliwak,2023-10-06T15:42:11Z
+v0.8.22,2023-10-25T10:40:08Z,f0f23931816a1d65875d8a96923a554380fc1042,cmdlineTests.sh: Remove the empty line after the pre-release warning as well,Kamil Śliwak,2023-10-10T13:34:16Z
+v0.8.22,2023-10-25T10:40:08Z,1b7652ef0b04271e96eb28bc02ba60c8e2874358,Merge pull request #14597 from ethereum/add-steps-to-full-simplify,Bhargava Shastry,2023-10-23T11:23:30Z
+v0.8.22,2023-10-25T10:40:08Z,a3ad63eff49276f9b4c0884b55cfeb0d22d96281,Add missing optimizer dependencies for fullSimplify and loadResolver tests and update tests.,Bhargava Shastry,2023-10-18T09:45:03Z
+v0.8.22,2023-10-25T10:40:08Z,f8282a6ab31fe023c0c781f970a68407d94b72f0,Add tests that fail.,Bhargava Shastry,2023-10-09T11:36:11Z
+v0.8.22,2023-10-25T10:40:08Z,b187d065511a5c35d5a9c094bbc2935186b02ee2,Merge pull request #14534 from pgebal/pgebal/operators,Leo,2023-10-22T13:15:12Z
+v0.8.22,2023-10-25T10:40:08Z,da7c00e1e5f64293d5283cd5fe1a39391ad17966,fix test error,Pawel Gebal,2023-10-20T14:39:51Z
+v0.8.22,2023-10-25T10:40:08Z,353dbdde8a31c7a1d1dc35ff1bbf310707251fa2,refactor: rename calledExpr to boundArgumentCall,Pawel Gebal,2023-10-19T14:26:30Z
+v0.8.22,2023-10-25T10:40:08Z,13c2d62146ba7330cce6146c3029d06f6f5c0dee,apply CR changes,Pawel Gebal,2023-10-06T10:16:02Z
+v0.8.22,2023-10-25T10:40:08Z,78eb37d2596c9416b3fac9881414bf7e9c524de8,Support user defined operators in SMT,Pawel Gebal,2023-08-08T15:48:38Z
+v0.8.22,2023-10-25T10:40:08Z,ddb0d8953ce93fab7e9eeda523c94015129bb0e1,Merge pull request #14580 from ethereum/fix-isoltest-info-color,Kamil Śliwak,2023-10-19T19:49:56Z
+v0.8.22,2023-10-25T10:40:08Z,0da44caa06f005b688dcf4f01b962d5862b9805c,Reuse color definitions between SourceReferenceFormatter and CommonSyntaxTest,Kamil Śliwak,2023-09-29T20:43:49Z
+v0.8.22,2023-10-25T10:40:08Z,d4f55030c4c8b541a25bfb712c291512ae7cd2d2,CommonSyntaxTest: Fix info messages being colored as errors,Kamil Śliwak,2023-09-28T16:30:26Z
+v0.8.22,2023-10-25T10:40:08Z,2e8e1f3a12fe94675d354b0e4eca1aedb28e4374,Store Error::Type rather than a string in SyntaxTestError,Kamil Śliwak,2023-09-29T20:08:10Z
+v0.8.22,2023-10-25T10:40:08Z,0e51e57971ea5c3980184a0ee41f2ad58a66c0b8,Add Error::parseErrorType(),Kamil Śliwak,2023-09-29T20:07:44Z
+v0.8.22,2023-10-25T10:40:08Z,810c446e990e079023a1f0549bd02e3e73dfa97d,Merge pull request #14610 from ethereum/introduce-no-import-callback-cli-option,Nikola Matić,2023-10-19T16:30:06Z
+v0.8.22,2023-10-25T10:40:08Z,db98eed5c2079d240100093c9da8c0c7f2442113,Introduce --no-import-callback CLI option,Nikola Matic,2023-10-13T08:07:43Z
+v0.8.23,2023-11-08T12:20:36Z,4fd869e92c241cf99e64c6acf6de9bded299efa9,Set version to 0.8.24,Kamil Śliwak,2023-11-08T10:48:55Z
+v0.8.23,2023-11-08T12:20:36Z,f704f362dbb2a0af54d1484eb50cdafbc7dc086d,Merge pull request #14672 from ethereum/set-release-date-for-0-8-23,Nikola Matić,2023-11-08T11:32:56Z
+v0.8.23,2023-11-08T12:20:36Z,9736b17e456412c5878de105ee41c298015eca4f,Merge pull request #14675 from ethereum/fix-invalid-link-in-bug-blog-post,Daniel,2023-11-08T11:31:51Z
+v0.8.23,2023-11-08T12:20:36Z,5cafa8c82618db013546755864412a3db8074641,Fix link in bugs.json for 0.8.23,Nikola Matic,2023-11-08T11:25:03Z
+v0.8.23,2023-11-08T12:20:36Z,7e84be61e31bab9a7d9a6659ff4cf95417c13bbc,Set date for 0.8.23 release,Nikola Matic,2023-11-08T09:05:42Z
+v0.8.23,2023-11-08T12:20:36Z,12f7c7a651a7bb110f31151d5634557b336e3f13,Merge pull request #14671 from ethereum/remove-language-features-from-changelog,Nikola Matić,2023-11-08T10:05:52Z
+v0.8.23,2023-11-08T12:20:36Z,8292d7b53a1572dad7d4b422497078d42d17c273,Remove superflous language features category from Changelog,Nikola Matic,2023-11-08T08:17:49Z
+v0.8.23,2023-11-08T12:20:36Z,34b70af29cb2a883df315e2871f4f016fff1bf83,Merge pull request #14649 from ethereum/assemblyItemVerbatimComparison,Daniel,2023-11-08T03:35:44Z
+v0.8.23,2023-11-08T12:20:36Z,41ceb483fafb550ae9dd121f322cfc1f2e32cd91,Add cmdline test,Matheus Aguiar,2023-11-08T02:00:23Z
+v0.8.23,2023-11-08T12:20:36Z,48fdbd39b3db163ee563222d15b15c79fcd3cc95,Fix assembly item comparison for verbatim.,Daniel Kirchner,2023-10-25T23:11:00Z
+v0.8.23,2023-11-08T12:20:36Z,cc56cb5921e28b3a80b8120702cde92f773f4ad9,Add verbatim bug test case.,Daniel Kirchner,2023-11-07T23:45:37Z
+v0.8.23,2023-11-08T12:20:36Z,cb93e6e93ff3edb2cb34cfc190d5207ec9703435,Merge pull request #14657 from ethereum/accept-empty-optimizer-sequence-with-yul-optimizer-disabled,Nikola Matić,2023-11-07T15:46:53Z
+v0.8.23,2023-11-08T12:20:36Z,d899d9c2c1095efe958c64c260c3b0a3fad726f0,Accept empty optimizer sequence with Yul optimizer disabled,Nikola Matic,2023-10-30T10:44:00Z
+v0.8.23,2023-11-08T12:20:36Z,4d10cb57241f35a0b5e500c46476e183a113de08,Update README.md for X (Twitter) new brand guidelines (#14665),Nuzair,2023-11-07T11:02:48Z
+v0.8.23,2023-11-08T12:20:36Z,f70bd9495c53ea147be960dbf8ccce1533ed2b04,Merge pull request #14646 from ethereum/updateUbuntuVersions,Daniel,2023-11-06T11:13:05Z
+v0.8.23,2023-11-08T12:20:36Z,7bf058b0c53a30b5040cb8905fdf7313f25bd42b,Update ubuntu versions in PPA scripts.,Daniel Kirchner,2023-10-25T12:26:22Z
+v0.8.23,2023-11-08T12:20:36Z,7df949edb22598e9d946660020c5390d0ce81bf8,Merge pull request #14644 from ethereum/update-release-checklist,Daniel,2023-10-31T10:31:03Z
+v0.8.23,2023-11-08T12:20:36Z,79b1f55cc51334cee7a38364bdcb0599702dd598,Remove references to homebrew-ethereum,Nikola Matic,2023-10-26T11:42:55Z
+v0.8.23,2023-11-08T12:20:36Z,74c2440416f9dcd2472d4d19203bae6ac359b8a7,Update the release checklist,Nikola Matic,2023-10-25T10:45:23Z
+v0.8.23,2023-11-08T12:20:36Z,ad3caa7ff477e00e5cf41fc54a245095add3ee03,Merge pull request #14238 from robriks/patch-2,Daniel,2023-10-30T10:07:16Z
+v0.8.23,2023-11-08T12:20:36Z,d8de97d0c3c61f5021d00778792e70bb2bfbef10,Merge pull request #14651 from ethereum/fix-wrong-url-name-in-standard-json-tests,Nikola Matić,2023-10-26T19:51:26Z
+v0.8.23,2023-11-08T12:20:36Z,23bcc69478ae5d9b2759bedb2ede47ea7f1ff78d,Fix wrong file path in standard json tests,Nikola Matic,2023-10-26T14:34:49Z
+v0.8.23,2023-11-08T12:20:36Z,28ee5d3fad770dfaf4c5c1addb9f1ee489bc34e3,Merge pull request #14645 from ethereum/set-version-to-0-8-23,Kamil Śliwak,2023-10-25T13:14:58Z
+v0.8.23,2023-11-08T12:20:36Z,609ef154d08d1e947097ff6343dd7511813db8ea,Set version to 0.8.23,Nikola Matic,2023-10-25T12:00:37Z
+v0.8.24,2024-01-25T10:28:00Z,0e03deca512098460d8fcba52bc5e0cb003e90e5,Set version to 0.8.25,Nikola Matic,2024-01-25T08:36:37Z
+v0.8.24,2024-01-25T10:28:00Z,e11b9ed9f2c254bc894d844c0a64a0eb76bbb4fd,Merge pull request #14810 from ethereum/set-changelog-for-8-24-release,Nikola Matić,2024-01-25T09:32:10Z
+v0.8.24,2024-01-25T10:28:00Z,0da45273674ff2e4c33f60bd83d1622110cbfc19,Update changelog for 0.8.24 release,Nikola Matic,2024-01-25T08:19:23Z
+v0.8.24,2024-01-25T10:28:00Z,2ec57264360931538cde74537802ffde587af3d0,Merge pull request #14809 from ethereum/fix-changelog-for-release,Nikola Matić,2024-01-25T08:16:02Z
+v0.8.24,2024-01-25T10:28:00Z,1377d433ae520bcb3fbf9d39325d99457d484af4,Merge pull request #14808 from ethereum/fix-docs-broken-links,Nikola Matić,2024-01-25T07:54:30Z
+v0.8.24,2024-01-25T10:28:00Z,fe3b94de66f950e41856b9053ecd186d5804aba9,Order changelog,Nikola Matic,2024-01-25T07:29:03Z
+v0.8.24,2024-01-25T10:28:00Z,6d7fc69f6de12d2671ec45df3a0458637ca10a60,Fix broken link in docs,Nikola Matic,2024-01-25T07:05:27Z
+v0.8.24,2024-01-25T10:28:00Z,62e27e4b712234c78c71e03f359cb287ae75db1b,Merge pull request #14285 from ethereum/evmjson-import-via-standard-json,Kamil Śliwak,2024-01-25T04:29:47Z
+v0.8.24,2024-01-25T10:28:00Z,4ed238035721f62ecb95355c15aa855498a1664d,Add support to import EVM assembly via Standard JSON.,Alexander Arlt,2023-05-31T21:22:23Z
+v0.8.24,2024-01-25T10:28:00Z,ac3703a1abbb7310c9addddf0e69c93943752fab,using-the-compiler.rst: Adjust SolidityAST docs to match the pre-existing JSON structure,Kamil Śliwak,2024-01-25T03:39:41Z
+v0.8.24,2024-01-25T10:28:00Z,ae7039f98fa295b6b8d9991c63daf717f30ac010,Merge pull request #14784 from ethereum/issue-a-warning-when-comparing-internal-function-pointers,Kamil Śliwak,2024-01-25T01:40:39Z
+v0.8.24,2024-01-25T10:28:00Z,ef663c25a6c9d65fd101434fcfe3e3dcad3b9dcd,Changelog and docs,Nikola Matic,2024-01-18T11:57:15Z
+v0.8.24,2024-01-25T10:28:00Z,631fd9daaad4e142e15c0fd87dddf3b44219e07a,Issue a warning when comparing internal function pointers,Nikola Matic,2024-01-17T14:20:50Z
+v0.8.24,2024-01-25T10:28:00Z,bc62f28e522d31037ed5a0bc64bca2b3a86b2565,Merge pull request #14725 from ethereum/apple_silicon_build,Kamil Śliwak,2024-01-25T00:17:31Z
+v0.8.24,2024-01-25T10:28:00Z,29fc962cf41dd7074f33fb85a8afa603fe1a3d4e,Merge pull request #14785 from ethereum/eip-6780-selfdestruct,Kamil Śliwak,2024-01-25T00:13:28Z
+v0.8.24,2024-01-25T10:28:00Z,7e7c45cb02fbb13fbdd861f9f1af11205d874afc,Merge pull request #14737 from ethereum/transientStorageBasicSupport,Kamil Śliwak,2024-01-25T00:07:46Z
+v0.8.24,2024-01-25T10:28:00Z,ea0b75089bc999604b541eb042e39a8ac3648484,Add support for apple silicon.,Alexander Arlt,2023-12-11T14:52:47Z
+v0.8.24,2024-01-25T10:28:00Z,261e8b9f7d63c2b0cfe0c7d45d1857d264ff3610,Test new semantic of selfdestruct added by EIP-6780,r0qs,2024-01-16T20:17:28Z
+v0.8.24,2024-01-25T10:28:00Z,89b73b61fe7fcc1de88f2f094908255f24fd9848,Introduce transient storage support for Yul and inline assembly.,Matheus Aguiar,2024-01-12T21:25:43Z
+v0.8.24,2024-01-25T10:28:00Z,8f5ee88b165bcc8f8220e8fc02789565fd84287f,Merge pull request #14779 from ethereum/mcopy,Kamil Śliwak,2024-01-24T18:57:33Z
+v0.8.24,2024-01-25T10:28:00Z,89a70c749a4964bab301b0bdc25edee9530f5659,Merge pull request #14795 from ethereum/osx-caching,Kamil Śliwak,2024-01-24T18:57:01Z
+v0.8.24,2024-01-25T10:28:00Z,ba95a29744e8ad66a3d0afdfe119a7c03b3df68c,Fix macOS dependency cache.,Alexander Arlt,2024-01-22T14:27:58Z
+v0.8.24,2024-01-25T10:28:00Z,bd762785eb568d533bfc0a8d898e4bc2b95486b5,Yul builtin for MCOPY,Kamil Śliwak,2024-01-08T18:02:04Z
+v0.8.24,2024-01-25T10:28:00Z,1a8020260d3598e525ae9c0640648f4fc506f024,A few extra optimizer tests for MSTORE,Kamil Śliwak,2024-01-23T15:39:13Z
+v0.8.24,2024-01-25T10:28:00Z,1b75d489c56ace26ccc18d2208ba1b881cb1e6dd,More basic tests for memory guard,Kamil Śliwak,2024-01-23T15:39:18Z
+v0.8.24,2024-01-25T10:28:00Z,ce98680ee3bd5d906a0837e4769165493f8f60d7,Support bytes concat in formal verification (#14685),pgebal,2024-01-24T07:50:28Z
+v0.8.24,2024-01-25T10:28:00Z,01cb85fd63f2f424d4b59028618bd8d3ed4b0dcd,Merge pull request #14759 from ethereum/eip-4844-add-blobhash-2,Kamil Śliwak,2024-01-22T19:17:45Z
+v0.8.24,2024-01-25T10:28:00Z,81268e336573721819e39fbb3fefbc9344ad176c,Add blobhash high-level global function.,r0qs,2023-12-27T20:50:28Z
+v0.8.24,2024-01-25T10:28:00Z,f05d0a9c4012beec00a02970166e3251c2c5931a,Merge pull request #14790 from ethereum/testing-tweaks-before-mcopy,Kamil Śliwak,2024-01-22T13:50:58Z
+v0.8.24,2024-01-25T10:28:00Z,7f79cd87a1e14a9ee9ba4553ef8666c7d9b61acc,MemoryGuardTest: Respect EVM version selected on the command line,Kamil Śliwak,2024-01-19T22:58:14Z
+v0.8.25,2024-03-14T11:30:42Z,4b748854d76b095ebec51c518ffca63b2494b123,Set version to 0.8.26,Nikola Matic,2024-03-14T10:35:19Z
+v0.8.25,2024-03-14T11:30:42Z,b61c2a91b3a478bd53fb831b0e8811668bc0dd05,Sort changelog and add release date for 0.8.25 (#14939),Nikola Matić,2024-03-14T10:29:02Z
+v0.8.25,2024-03-14T11:30:42Z,b0ffcccf5c7b1b86b924aa27f7157cbc49f0d9da,Use specific hardhat version on openzeppelin and gp2 external tests (#14938),r0qs,2024-03-14T06:40:36Z
+v0.8.25,2024-03-14T11:30:42Z,759f5a7be3d4a644cff23d5c48dc51e930005de9,Merge pull request #14907 from ethereum/makeCancunDefault,Kamil Śliwak,2024-03-13T23:10:42Z
+v0.8.25,2024-03-14T11:30:42Z,a388ccb2c464493ecb62797462df6e9d9e6cf047,Make cancun the default EVM version,Matheus Aguiar,2024-03-04T18:25:05Z
+v0.8.25,2024-03-14T11:30:42Z,fbeef890ea61c1d07b716a90c5e7548cf791fba7,Set cancun hardfork in hardhat stack traces tests,r0qs,2024-03-13T01:01:35Z
+v0.8.25,2024-03-14T11:30:42Z,9e235063d10ca825182f9810154c61131abbe54d,Merge pull request #14937 from ethereum/disable-gp2-and-zeppelin,Daniel,2024-03-13T22:09:35Z
+v0.8.25,2024-03-14T11:30:42Z,a547f615c271dc357e753abb5c95c24b9d3d0e0b,Disable gp2 and zeppelin ext tests,Nikola Matic,2024-03-13T21:31:14Z
+v0.8.25,2024-03-14T11:30:42Z,c8f4c7d413b1ad4e973db129218280fa520d676a,Merge pull request #14803 from ethereum/mehtavishwa30-patch-1,Kamil Śliwak,2024-03-13T20:35:51Z
+v0.8.25,2024-03-14T11:30:42Z,a15da0a70f3a06822f9a07f0d991bf8250acfa53,Clean up docs to reflect changes in the behaviour of SELFDESTRUCT as per EIP-6780,Vishwa Mehta,2024-01-24T13:19:14Z
+v0.8.25,2024-03-14T11:30:42Z,7115a63f2d4e159d41a5c517472af92e219d85f1,Update release checklist (#14812),Nikola Matić,2024-03-13T19:09:52Z
+v0.8.25,2024-03-14T11:30:42Z,0dce0298d94feac60bbeae1cd1283306935601ac,Merge pull request #14936 from PragmaTwice/add-move-to-string-or-default,Kamil Śliwak,2024-03-13T18:14:47Z
+v0.8.25,2024-03-14T11:30:42Z,ab55b0a49840491cd6e47e87e519360e21e9c518,Add multiple source test to ensure transient storage is emitted only once during compilation (#14935),matheusaaguiar,2024-03-13T17:55:48Z
+v0.8.25,2024-03-14T11:30:42Z,7c6f9f1154b757b040b1cbd9e4383caf04ceeaa9,Use move ctor instead of copy ctor in stringOrDefault,Twice,2024-03-13T15:49:02Z
+v0.8.25,2024-03-14T11:30:42Z,9065a0a402484cb6516ac896f8d71da15feffdf4,Merge pull request #14932 from ethereum/add-hardhat-networks-settings-ext-tests,r0qs,2024-03-13T13:22:02Z
+v0.8.25,2024-03-14T11:30:42Z,6b3ca241105fd9298a3ff7f9dcb62bf1d58f952b,"Disable trident, chainlink and bleeps external tests",r0qs,2024-03-12T17:51:24Z
+v0.8.25,2024-03-14T11:30:42Z,c82707cae6a085585421f6952eedffccffb7cb56,Fix hardhat version to version that supports cancun hardfork,r0qs,2024-03-12T15:50:51Z
+v0.8.25,2024-03-14T11:30:42Z,b18b23daf6c4d812211ff9ef329ae8c44999fb17,Add missing hardhat networks settings to external tests,r0qs,2024-03-12T14:18:39Z
+v0.8.25,2024-03-14T11:30:42Z,cc79c91b93d322cd38beec08a1ce575d3622c7e4,Merge pull request #14926 from ethereum/fix-unnecessary-compilation-with-via-ir,Daniel,2024-03-11T15:37:39Z
+v0.8.25,2024-03-14T11:30:42Z,759089b44a883d9b40350eef312939ebe1956dba,Merge pull request #14906 from ethereum/smt-eldarica,Martin Blicha,2024-03-11T14:01:55Z
+v0.8.25,2024-03-14T11:30:42Z,0219d1e0f2df22cac5ba8e944f26f20860f7a56e,SMTChecker: Fix usage of Eldarica with SMT callback,Martin Blicha,2024-03-05T12:14:32Z
+v0.8.25,2024-03-14T11:30:42Z,c0ef06c362f86e1e35c4663e27913e1cabd3f5e6,Merge pull request #14927 from omahs/patch-4,Kamil Śliwak,2024-03-08T20:36:33Z
+v0.8.25,2024-03-14T11:30:42Z,193a4579aec550f71af7b5355d82ad57a8588d9d,fix typo,omahs,2024-03-08T19:50:22Z
+v0.8.25,2024-03-14T11:30:42Z,0c4bca56a176116940740d0de4f371a0b5357484,fix typo,omahs,2024-03-08T19:46:24Z
+v0.8.25,2024-03-14T11:30:42Z,9762ebb24cdb79e22d94215e0ebccc27937c63e3,Fix unnecessary compilation when --via-ir is used on its own,Kamil Śliwak,2024-03-08T17:55:33Z
+v0.8.25,2024-03-14T11:30:42Z,5a43a8b1e4123818c67b1b828c5ce05af28823a6,Merge pull request #14922 from ethereum/add_include_guard,Kamil Śliwak,2024-03-08T17:00:35Z
+v0.8.25,2024-03-14T11:30:42Z,90565404076a23fc61e36008b68d65502266a656,Merge pull request #14923 from hyhnet/develop,Kamil Śliwak,2024-03-08T16:59:50Z
+v0.8.25,2024-03-14T11:30:42Z,a2739f908eecb521eb20bec553980a9df86d90a6,Merge pull request #14710 from ethereum/update-ci-for-evm-deprecations,Kamil Śliwak,2024-03-08T16:51:52Z
+v0.8.25,2024-03-14T11:30:42Z,86444080a45f475a1065522ffd0ee32e28120c72,Move deprecated evm versions to nightly CI workflow,r0qs,2023-11-29T18:46:30Z
+v0.8.25,2024-03-14T11:30:42Z,755e2ba24f7c9b8819c97d4be7b65120c0310c02,Merge pull request #14831 from ethereum/nightly-ossfuzz-workflow,Kamil Śliwak,2024-03-08T16:05:11Z
+v0.8.26,2024-05-21T09:23:51Z,8a97fa7a1db1ec509221ead6fea6802c684ee887,Merge pull request #15125 from ethereum/revert-15123-set-version-to-0-8-27,Nikola Matić,2024-05-21T08:39:27Z
+v0.8.26,2024-05-21T09:23:51Z,a8406b5692c00ad4ed7e56c9c00a4f131db06c5c,"Revert ""Set version to 0 8 27""",Nikola Matić,2024-05-21T08:03:22Z
+v0.8.26,2024-05-21T09:23:51Z,0573f35e3035cbfdb9a86ef30e4d4a925baaead5,Merge pull request #15123 from ethereum/set-version-to-0-8-27,Nikola Matić,2024-05-21T07:22:08Z
+v0.8.26,2024-05-21T09:23:51Z,95eb6f6f9d84a64fc123471e1a885af97075a57e,Merge pull request #15122 from ethereum/set-release-date-for-0-8-26,Nikola Matić,2024-05-21T07:21:04Z
+v0.8.26,2024-05-21T09:23:51Z,9da33a63ea9da6fa5dc1f80e5c0a7102c0f96dab,Set version to 0.8.27,Nikola Matic,2024-05-20T11:35:57Z
+v0.8.26,2024-05-21T09:23:51Z,31aab83b6653160effa363aac87d4669665d11e3,Set release date for 0.8.26,Nikola Matic,2024-05-20T11:31:52Z
+v0.8.26,2024-05-21T09:23:51Z,cd6f2e75a9ad5d26f35cade5b2808dc2a5f7b762,Merge pull request #15121 from ethereum/addStopAfterSettingToSyntaxTests,Nikola Matić,2024-05-20T07:34:53Z
+v0.8.26,2024-05-21T09:23:51Z,50ad425948072d74b743641eff5968e1d703881b,Add tests,Matheus Aguiar,2024-05-20T02:02:57Z
+v0.8.26,2024-05-21T09:23:51Z,2d0783a74f241777ec01385f9ad55791449a17c4,Add stopAfter setting to syntax tests,Matheus Aguiar,2024-05-20T01:59:35Z
+v0.8.26,2024-05-21T09:23:51Z,3e77bdff88b241f9a88852ff73a70381e396bee8,Update ossfuzz's README.md,Haoyang Ma,2024-05-20T01:55:48Z
+v0.8.26,2024-05-21T09:23:51Z,028cf3309437819503a37f60bfa8aad2af7fb9b7,Merge pull request #15115 from ethereum/remove-included-dirs-for-namespace-std-check,Nikola Matić,2024-05-17T15:53:45Z
+v0.8.26,2024-05-21T09:23:51Z,eb4b103ddaf0afe3f3ff82ccf1b4897e6e244ca4,Remove included directories check for using std,Nikola Matic,2024-05-17T14:41:45Z
+v0.8.26,2024-05-21T09:23:51Z,ae40e1a04acacd639fed0dfcb3dd1cdc11406044,Merge pull request #15109 from ethereum/licenses,Daniel,2024-05-17T10:30:30Z
+v0.8.26,2024-05-21T09:23:51Z,de002446032e936320544b4d065adc755b2708d3,Merge pull request #15110 from hydai/hydai/not_use_using_namespace_std,Nikola Matić,2024-05-16T19:27:38Z
+v0.8.26,2024-05-21T09:23:51Z,24f18e83a6c81935daa150c129b4007d5a41a014,"Remove using namespace std from testing tools, ossfuzz and yulPhaser",hydai,2024-05-15T15:39:26Z
+v0.8.26,2024-05-21T09:23:51Z,acec7170bad18b3dce83badec128e3cb75caec53,Update license template.,Daniel Kirchner,2024-05-15T16:53:04Z
+v0.8.26,2024-05-21T09:23:51Z,f9c8ab03cb7f9362c4070bb029f76ecaec2bc5fb,Merge pull request #15107 from ethereum/adjust-ppa-script,Daniel,2024-05-15T19:54:32Z
+v0.8.26,2024-05-21T09:23:51Z,be16d2d8a6c50e11a324689098b3675a05e8b0c6,Merge pull request #15106 from ethereum/dockertest,Nikola Matić,2024-05-15T18:16:38Z
+v0.8.26,2024-05-21T09:23:51Z,659d13fcbe97cd89ace325c3493e38253bb9f889,Add header include for docker builds.,Daniel Kirchner,2024-05-15T16:00:36Z
+v0.8.26,2024-05-21T09:23:51Z,70e1edcebe3c0e5621ca590afae2744e9a284e92,Update PPA release script.,Daniel Kirchner,2024-05-15T16:39:25Z
+v0.8.26,2024-05-21T09:23:51Z,f0912d6a79514ffb487a2d8473ab9b48dc5d3cba,Merge pull request #15108 from ethereum/update-create-source-tarball-script,Daniel,2024-05-15T17:29:49Z
+v0.8.26,2024-05-21T09:23:51Z,bbf5aa2f5b662b1d522e4eb280325ba2a30d5979,Remove json-cpp from create source tarball script.,Daniel Kirchner,2024-05-15T16:42:19Z
+v0.8.26,2024-05-21T09:23:51Z,816b588a01e4156f64dcfad8ffbf3b4132d0281d,Merge pull request #15103 from ethereum/new-optimizer-sequence-changelog,Nikola Matić,2024-05-15T15:09:20Z
+v0.8.26,2024-05-21T09:23:51Z,108d398a7cb9200087b1b0f5baf036414ea8c14c,Changelog: Optimizer -> Yul Optimizer in the entry for the superfluous sequence repetition bugfix,Kamil Śliwak,2024-05-15T14:14:33Z
+v0.8.26,2024-05-21T09:23:51Z,8216a70e5b308da5c0302395f62d89ec281ec99e,Add the missing changelog entry for the new default optimizer sequence,Kamil Śliwak,2024-05-15T12:58:05Z
+v0.8.26,2024-05-21T09:23:51Z,3fbc5274fb1facfc1abdd470d03a8b1096b5a483,Merge pull request #15098 from ethereum/drop-swarmhash-docs,Nikola Matić,2024-05-15T09:14:58Z
+v0.8.26,2024-05-21T09:23:51Z,a975c93b7f961f75eb6bbcdbbfa66f749851992a,Merge pull request #14186 from ethereum/smallRevertOptimization,Nikola Matić,2024-05-15T07:44:21Z
+v0.8.26,2024-05-21T09:23:51Z,e3e4f665232fbd77d81260a7f8f65f529cef68b3,Remove bzzr entries from static binary section in the docs,r0qs,2024-05-13T14:40:17Z
+v0.8.26,2024-05-21T09:23:51Z,c84863f90773523beec4ce871d527655e5d7be9f,Do not allocate memory on reverts with small errors.,Daniel Kirchner,2023-05-09T15:27:30Z
+v0.8.26,2024-05-21T09:23:51Z,59cc93e5e6ff193ddbcccaa2d4c7ed81b992ede6,Merge pull request #15086 from pgebal/smtchecker/add_insuffienct_funds_veri_target_for_chc,Martin Blicha,2024-05-14T12:13:58Z
+v0.8.27,2024-09-04T08:35:00Z,40a35a097cb1e03550c7ce415f2b46ad81e882a6,Merge pull request #15399 from ethereum/set-changelog-release-date,Nikola Matić,2024-09-04T07:46:51Z
+v0.8.27,2024-09-04T08:35:00Z,830ec2c4190f6a1ea4960def64edd1911c68ef3b,Set changelog release date,Nikola Matic,2024-09-04T07:03:36Z
+v0.8.27,2024-09-04T08:35:00Z,3c3da6372782521b93801d2dcac297a259afd77e,Merge pull request #15395 from ethereum/sort-changelog-and-fix-inconsistencies,Daniel,2024-09-03T16:31:29Z
+v0.8.27,2024-09-04T08:35:00Z,b92cabd44be5f1a0dc3ce8fb79eb0408d214556f,Sort changelog for the upcoming release,Nikola Matic,2024-09-03T13:05:15Z
+v0.8.27,2024-09-04T08:35:00Z,c14977c46774358d76cf5971f0f59f662110227e,Merge pull request #15393 from ethereum/removeMantic,Daniel,2024-09-03T14:57:20Z
+v0.8.27,2024-09-04T08:35:00Z,1207b4873f23c03ebe5864b01b70f541dd2c89d2,Merge pull request #15396 from ethereum/fixYulStackForWarnings,Daniel,2024-09-03T14:56:27Z
+v0.8.27,2024-09-04T08:35:00Z,3e5060c5a45ab92e7bcd3a50e0a481e016449c5d,Remove mantic from release PPA script (obsolete).,Daniel Kirchner,2024-09-03T11:46:07Z
+v0.8.27,2024-09-04T08:35:00Z,3f6f2d3f90de9a4f506b196f9fac1d5909693d5f,Fix Yul stack output using standard json in the presence of warnings.,Daniel Kirchner,2024-09-03T13:33:33Z
+v0.8.27,2024-09-04T08:35:00Z,bf54bdfeff2e8b1656999b0642b5a88d32801133,Merge pull request #15394 from ethereum/disable-failing-filesystem-tests,Daniel,2024-09-03T14:17:08Z
+v0.8.27,2024-09-04T08:35:00Z,3b040385d0926be18eb6b3fdd2f0610d382d4619,Disable failing import tests introduced by boost upgrade,Nikola Matic,2024-09-03T12:57:30Z
+v0.8.27,2024-09-04T08:35:00Z,9b33e008cf0a957a9a4975ab06efed4188c059bc,Merge pull request #15356 from ipsilon/eof-prep-1,Daniel,2024-09-03T09:37:03Z
+v0.8.27,2024-09-04T08:35:00Z,d6f95196f8f4a0626f7ca946377449bd401c0f40,Merge pull request #15377 from ethereum/tweak-cmake-options,Kamil Śliwak,2024-09-02T14:34:22Z
+v0.8.27,2024-09-04T08:35:00Z,3184534fd66579f2fa21bd3896ac0f9b12ae887b,Improve names/descriptions of Z3-related CMake variables,Kamil Śliwak,2024-09-02T11:04:03Z
+v0.8.27,2024-09-04T08:35:00Z,01a01eb2e0e7fc802d9d35ad89eb50fa2bdc21da,Clearer names and descriptions for advanced CMake options,Kamil Śliwak,2024-08-30T15:20:49Z
+v0.8.27,2024-09-04T08:35:00Z,b52094bc2832b40c43134990182cc89caabcbf84,Remove nlohmann JSON version check,Kamil Śliwak,2024-08-30T14:49:43Z
+v0.8.27,2024-09-04T08:35:00Z,79f05ca5738d927ac7d4f25bbb2d5717017c6736,Mark PROFILE_OPTIMIZER_STEPS CMake option as advanced,Kamil Śliwak,2024-08-30T14:46:42Z
+v0.8.27,2024-09-04T08:35:00Z,168850b48d59a338bfe160ebcfb3ed13f8a0c087,Merge pull request #15238 from ethereum/relaxMemorySafety,Daniel,2024-09-02T13:33:31Z
+v0.8.27,2024-09-04T08:35:00Z,b3ba1b2e373f6ec850733e5ebf12b3808a6f9b74,Rename opRetro.json to funding.json,Vishwa Mehta,2024-09-02T12:15:24Z
+v0.8.27,2024-09-04T08:35:00Z,9c43cc5497eda5e177d30d6b5058c37139948af1,Merge pull request #15370 from ethereum/add-ubuntu2404-clang-image,r0qs,2024-09-02T11:52:39Z
+v0.8.27,2024-09-04T08:35:00Z,c1d33a021c7751b5942dddfc1dc3615ec7701e89,Merge pull request #15386 from ethereum/op-grant-verification,Daniel,2024-09-02T11:18:26Z
+v0.8.27,2024-09-04T08:35:00Z,1673c5c27ad42a41019a7bafa96e636ef12a0334,Introduce ubuntu2404 clang docker image,Nikola Matic,2024-08-29T09:12:22Z
+v0.8.27,2024-09-04T08:35:00Z,1c4da0412195663d98afe0e994dcf8d74e77a84f,Merge pull request #15385 from ethereum/hide-undocumented-experimental-feature,Daniel,2024-09-02T11:13:29Z
+v0.8.27,2024-09-04T08:35:00Z,b30f1e2af0b9605ae295282188fc4eadc0b10721,Create opRetro.json,Vishwa Mehta,2024-09-02T10:39:46Z
+v0.8.27,2024-09-04T08:35:00Z,ad969e2b94be91ce54f614c0d5e74ec5ea7686d7,Hide undocumented yul export cfg option,r0qs,2024-09-02T10:34:31Z
+v0.8.27,2024-09-04T08:35:00Z,40e005beed91fceaa72afcba0b063462b139270d,Merge pull request #15376 from ethereum/fix-boost-min-version,Kamil Śliwak,2024-08-30T16:20:42Z
+v0.8.27,2024-09-04T08:35:00Z,2f46323b171bd3fa086d553430b293e8a3141687,Bump min Boost dependency to 1.67 on Linux and macOS,Kamil Śliwak,2024-08-30T14:08:40Z
+v0.8.27,2024-09-04T08:35:00Z,7ad125f45d805afe7ccd7807fa0fc3a131e48192,Merge pull request #15375 from ethereum/propagate-assembly-exception-message,matheusaaguiar,2024-08-30T15:13:08Z
+v0.8.27,2024-09-04T08:35:00Z,d7865f171226cf282d6f9c099b27b14b746935a3,Do not suppress the original message from unexpected AssemblyExceptions,Kamil Śliwak,2024-08-30T13:42:16Z
+v0.8.27,2024-09-04T08:35:00Z,03880e420226de043329b378f0879cd27d073dc4,Updating copyright year to 2024,Guilherme Ferreira,2024-02-13T00:01:40Z
+v0.8.27,2024-09-04T08:35:00Z,ae1c3d48edde665016b009c0223e4723b886872f,Merge pull request #15180 from ethereum/export-yul-cfg-json,clonker,2024-08-29T15:32:45Z
+v0.8.28,2024-10-09T06:37:53Z,7893614a31fbeacd1966994e310ed4f760772658,Merge pull request #15491 from ethereum/sortChangelogForRelease,Nikola Matić,2024-10-09T06:01:59Z
+v0.8.28,2024-10-09T06:37:53Z,9b97e52d45b4d94df22b3599dc0411317b056668,sort Changelog,Matheus Aguiar,2024-10-08T14:58:12Z
+v0.8.28,2024-10-09T06:37:53Z,fde19a5b1746f5c32fd3d9efbd7613099bafd321,Merge pull request #15490 from ethereum/docs_wiki_curly_anchor,clonker,2024-10-08T14:47:56Z
+v0.8.28,2024-10-09T06:37:53Z,df4f2645cfdf14da74a240988bb67ff9ad02c034,Merge pull request #15489 from ethereum/remove_codecov_job,clonker,2024-10-08T14:18:12Z
+v0.8.28,2024-10-09T06:37:53Z,5f2b1bf72d9fc2ea87eeecc66f03f2480f2c135c,Docs: fix curly bracket language wikipedia anchor,clonker,2024-10-08T14:12:54Z
+v0.8.28,2024-10-09T06:37:53Z,11395ad5b4462de08efa294a5e31c221a4d37bda,CI: Remove nightly codecov job,clonker,2024-10-08T13:24:26Z
+v0.8.28,2024-10-09T06:37:53Z,c3bf5671528c31487756f3b8b84b65a577dfce2a,Merge pull request #15488 from nnsW3/update,Nikola Matić,2024-10-08T12:27:01Z
+v0.8.28,2024-10-09T06:37:53Z,cdfb93edf08ad36d1399fbb5aa960e29812828ab,Update functions.rst,Elias Rad,2024-10-08T10:42:05Z
+v0.8.28,2024-10-09T06:37:53Z,675e4697d85ed24b38dda4a45d53cb66b6c77ad8,Merge pull request #15443 from LMAO798/develop,Nikola Matić,2024-10-08T08:15:26Z
+v0.8.28,2024-10-09T06:37:53Z,8a77a26861046a0a2a37cfc908edcc8947ffb91a,SSACFGLiveness: add operation-wise live out,clonker,2024-09-19T12:56:20Z
+v0.8.28,2024-10-09T06:37:53Z,f35fd1f6df3f0d341ead02d9a83c39f018ba168e,Yul: display dotted back edges in toDot,clonker,2024-09-18T13:01:25Z
+v0.8.28,2024-10-09T06:37:53Z,eb22cb6fd7b55cf70508cb76d6dda63659898df3,Yul: add optional liveness output to toDot of SSACFGs,clonker,2024-09-18T12:03:56Z
+v0.8.28,2024-10-09T06:37:53Z,e8a2c63214457e7e2c4058849d259407964b9a44,Yul: Add SSACFG liveness analysis,clonker,2024-09-09T09:38:21Z
+v0.8.28,2024-10-09T06:37:53Z,1a8efbaf79ecd06206c2f0e2dd62ec8c5b5f8145,Update docs/contributing.rst,Nikola Matić,2024-10-08T07:33:56Z
+v0.8.28,2024-10-09T06:37:53Z,525381c1b5476e37b5ddb57a9390e2b0a57205aa,docs: fix broken links and typo,backbonexe,2024-09-20T16:26:56Z
+v0.8.28,2024-10-09T06:37:53Z,59be575e12b93268f6f20e6ba55cec06d0c976d2,Merge pull request #15482 from ethereum/ninja,Nikola Matić,2024-10-08T07:10:02Z
+v0.8.28,2024-10-09T06:37:53Z,c7ff2175a1dae32dbf80be48f5840e04c5465d15,Bump ossfuzz to large resource class,clonker,2024-10-07T12:00:12Z
+v0.8.28,2024-10-09T06:37:53Z,3651f231fd701340927c354c18a598122d7dbf1c,"Use gold linker for ossfuzz, codecov, and cxx20 builds",clonker,2024-10-07T06:13:55Z
+v0.8.28,2024-10-09T06:37:53Z,0e02c469a409912dd3c1a34455eb42a043525e01,Merge pull request #15487 from ethereum/fixTransientStorageChangelogEntry,Nikola Matić,2024-10-07T19:16:45Z
+v0.8.28,2024-10-09T06:37:53Z,0826887caa1af307afcd4986bcb057e3477af2b4,Merge pull request #15485 from ethereum/rtd-docs-workaround,r0qs,2024-10-07T18:58:14Z
+v0.8.28,2024-10-09T06:37:53Z,8d4dc15588cbe44ff7999d8f73dd251fea04f903,Fix github user and repo in RTD config for translation projects,r0qs,2024-10-07T16:28:33Z
+v0.8.28,2024-10-09T06:37:53Z,e354f7b098f46d688c5aadf23d28befd6f4e5749,fix changelog entry,Matheus Aguiar,2024-10-07T15:45:35Z
+v0.8.28,2024-10-09T06:37:53Z,8021374907f82425790c85668dce537171f5a570,Merge pull request #15484 from ethereum/disable-legacy-preset-in-zeppelin,Kamil Śliwak,2024-10-07T16:29:35Z
+v0.8.28,2024-10-09T06:37:53Z,f8477584e7fefd0384dd02223d104554097e3bc2,"Fix ""Edit on GitHub"" button to always point to develop branch",r0qs,2024-10-07T15:17:17Z
+v0.8.28,2024-10-09T06:37:53Z,293bd7fc08d32e3d4871ea745e3cff664d99d48b,Fix broken flyout layout due to RTD addons upgrade,r0qs,2024-10-07T11:41:52Z
+v0.8.28,2024-10-09T06:37:53Z,136fe38f748ee399fd264fc72e641f1d0dcd769f,Disable legacy presets in zeppelin external test,Nikola Matic,2024-10-07T09:56:23Z
+v0.8.28,2024-10-09T06:37:53Z,256e95281f350ac71df12ffe35c8bfab7ed5721d,Merge pull request #15475 from ethereum/re-enable-cxx20-job,Daniel,2024-10-02T19:36:27Z
+v0.8.28,2024-10-09T06:37:53Z,d8f3790f96184c8e435c438361e76d8276cc05b0,Merge pull request #15476 from ethereum/inlinerDepthCopy,Daniel,2024-10-02T19:17:11Z
+v0.8.28,2024-10-09T06:37:53Z,39e5aeff86151c273c5e8c7b040f371536726b9c,Re-enable cxx20 job,Nikola Matic,2024-10-02T13:18:40Z
+v0.8.28,2024-10-09T06:37:53Z,badd1154e87a7170467d7855bfc7e17c55748d55,Avoid unnecessary copy in full inliner.,Daniel Kirchner,2024-10-02T17:06:04Z
+v0.8.29,2025-03-12T07:38:31Z,ab55807c0d9198fb126442188d40fcab292a2acb,Merge pull request #15926 from ethereum/changelogReleaseDate,Nikola Matić,2025-03-12T06:51:54Z
+v0.8.29,2025-03-12T07:38:31Z,7c461bffb7b49d5f7d51aae11f28017919e63aaf,Merge pull request #15928 from ethereum/document-eof-flag,Daniel,2025-03-11T18:52:19Z
+v0.8.29,2025-03-12T07:38:31Z,643caa3625570f69722bb92cc3f04dcad5a9d462,Mark the evmVersion field in StandardJSON as optional,Kamil Śliwak,2025-03-11T17:56:44Z
+v0.8.29,2025-03-12T07:38:31Z,a61cbb4be63db227cd82ae89181cef33e547b53c,Document the eofVersion field in StandardJSON and metadata,Kamil Śliwak,2025-03-11T17:56:13Z
+v0.8.29,2025-03-12T07:38:31Z,0c45a5e9129c587a0b07be9937286d50d44fa6c8,Update changelog and bugs by version,Matheus Aguiar,2025-03-11T15:41:02Z
+v0.8.29,2025-03-12T07:38:31Z,4355555579a5cb202ed253f3c55e15aa4ac00604,Merge pull request #15925 from ethereum/fix-changelog-for-upcoming-release,Nikola Matić,2025-03-11T15:25:23Z
+v0.8.29,2025-03-12T07:38:31Z,90719b22b40794ccccd1d5ba58ff4c1d48d0f18c,Fix changelog for upcoming release,Nikola Matic,2025-03-11T14:44:22Z
+v0.8.29,2025-03-12T07:38:31Z,6963512fe5659c3ab00d99df961a2af29ade8712,Merge pull request #15923 from ethereum/fix-doc-links,Daniel,2025-03-11T14:23:19Z
+v0.8.29,2025-03-12T07:38:31Z,d85833e5f8ebb16729cfdfc46787fe59970b2786,docs: fix broken link for apeworkx tool,clonker,2025-03-11T13:39:11Z
+v0.8.29,2025-03-12T07:38:31Z,76e179101dc451aaf1d5f8b89cbf9c714728bd98,Merge pull request #15896 from flylai/patch-2,Daniel,2025-03-11T13:42:21Z
+v0.8.29,2025-03-12T07:38:31Z,15f4a308fc998db5269398c0aed40498771c7d4e,Merge pull request #15922 from ethereum/release-checklist-update,clonker,2025-03-11T13:07:34Z
+v0.8.29,2025-03-12T07:38:31Z,44533c991db9058278686372b38cb9c82f5e5757,Correct Chinese translation URL,flylai,2025-02-27T12:58:46Z
+v0.8.29,2025-03-12T07:38:31Z,3199cca75f5ad1b29a96eab9177c6c67bb7ac72c,Bump vendored dependencies post-release,clonker,2025-03-11T12:25:31Z
+v0.8.29,2025-03-12T07:38:31Z,0598c01fea01da3883b3db3939288caf26e8d978,Merge pull request #15892 from ethereum/storageLayoutSpecifierDocs,Daniel,2025-03-11T12:18:37Z
+v0.8.29,2025-03-12T07:38:31Z,4bf8a9fbfe5e0a7aa14a99b071d5fc3b90b0a4de,Merge pull request #15912 from ethereum/warnStorageLayoutNearTheEnd,Kamil Śliwak,2025-03-11T05:18:01Z
+v0.8.29,2025-03-12T07:38:31Z,de966a76f726fd341ee930eb16b92962a1908b59,fixup! Storage layout specifier docs,Kamil Śliwak,2025-03-11T05:14:31Z
+v0.8.29,2025-03-12T07:38:31Z,e633eb411d71eaa1b46d774ded876d586420836e,fixup! Storage layout specifier docs,Kamil Śliwak,2025-03-11T05:05:48Z
+v0.8.29,2025-03-12T07:38:31Z,3d0904796c6b1802ff28840f6944d8bfd2288f97,fixup! Storage layout specifier docs,Kamil Śliwak,2025-03-11T04:17:44Z
+v0.8.29,2025-03-12T07:38:31Z,a371a4f8fe33c5a8159ad712e35c9d0c2819da42,fixup! Storage layout specifier docs,Kamil Śliwak,2025-03-11T04:17:31Z
+v0.8.29,2025-03-12T07:38:31Z,b4f9bb090bd2223771d5470aeb48a587ab5c0a06,fixup! Storage layout specifier docs,Kamil Śliwak,2025-03-11T02:40:14Z
+v0.8.29,2025-03-12T07:38:31Z,05b0efbd04eafec21a43f08925efb82e0c7a1023,Storage layout specifier docs,Matheus Aguiar,2025-02-25T20:04:22Z
+v0.8.29,2025-03-12T07:38:31Z,529795019c766e2aced54455ce613254b1865df9,Warn when layout base is near the end of storage,Matheus Aguiar,2025-03-04T03:19:40Z
+v0.8.29,2025-03-12T07:38:31Z,9c80b9b62b9ac0d60d6d76affcdcc86659c95072,Update and add tests,Matheus Aguiar,2025-03-04T03:18:42Z
+v0.8.29,2025-03-12T07:38:31Z,07b202ce573e7dd5cfaa076bdfa91e2988479449,Merge pull request #15920 from ethereum/ethdebug_instructions_and_sources_fix,Daniel,2025-03-11T01:52:56Z
+v0.8.29,2025-03-12T07:38:31Z,2abfe0baa9f4b64521adf271984951d6760b0453,ethdebug: correct handling of abstract contracts.,Alexander Arlt,2025-03-11T01:07:46Z
+v0.8.29,2025-03-12T07:38:31Z,fbbe2ddc515c841215b302eb8327e9f991f09d8a,Merge pull request #15368 from ethereum/ethdebug_instructions_and_source_ranges,Daniel,2025-03-10T23:23:32Z
+v0.8.29,2025-03-12T07:38:31Z,f3705de1740737f31715ad7758ac4d47b9f5c4f2,Ethdebug instructions and source ranges.,Alexander Arlt,2024-08-27T10:59:56Z
+v0.8.29,2025-03-12T07:38:31Z,dbe214e1accd60c6838f99e2ddfa0544d52ff2bd,Merge pull request #15881 from smiasojed/develop,Kamil Śliwak,2025-03-10T14:10:20Z
+v0.8.29,2025-03-12T07:38:31Z,3532328324cc479d17b4492de645597a3b5282c1,Fix stack overflow issue when using soljson compiler,Sebastian Miasojed,2025-02-19T21:51:47Z
+v0.8.29,2025-03-12T07:38:31Z,d084819c6cda9d22c702e1b6510126f1c4701bf7,Merge pull request #15668 from ethereum/storageLocationStorageLayout,Kamil Śliwak,2025-03-08T04:57:59Z

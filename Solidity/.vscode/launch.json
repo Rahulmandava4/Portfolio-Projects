@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "env": {
+        "GITHUB_TOKEN": "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"
+      }
+    }
+  ]
+}

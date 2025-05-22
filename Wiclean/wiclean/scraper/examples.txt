@@ -1,0 +1,11 @@
+1. Detroit, 2024-45: valid; vandalism attempt that deleted most of the article
+2. Macy’s Thanksgiving Day Parade, 2024-27: valid; user mass changed all references to past tense without a source that the parade would end
+3. United States, 2023-20: invalid
+4. Russia, 2023-20: valid; one user made 6 different edits in rapid succession, some of which were then reverted
+5. Adult Swim, 2024-1: valid; IP address user deleted the article contents and replaced with a redirect to a seemingly unrelated page
+6: PBS, 2024-3: valid; IP address deleted the article; this was then reverted, reapplied, and reverted again
+7. 1949 West German federal election, 2024-37: valid; day-long edit war in which one user repeatedly added unsourced incorrect information, which another user reverted; back-and-forth several times before the article was locked (protected)
+8. Atlantic Ocean, 2024-31: invalid
+9. Viva la Vida, 2023-9: valid; user added a long plagiarized text to the article; subsequently reverted
+10. University of Michigan, 2023-1: invalid
+
